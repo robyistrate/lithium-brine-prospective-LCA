@@ -1,0 +1,57 @@
+scenario,region,variables,unit,2020,2025,2030,2035
+STEPS,CL,Production|Electricity|Coal,TWh/year,27.08,11.46,0,0
+STEPS,CL,Production|Electricity|Natural gas combined cycle,TWh/year,9.69,8.39,8.22,9
+STEPS,CL,Production|Electricity|Natural gas conventional,TWh/year,5.94,5.15,5.04,5.52
+STEPS,CL,Production|Electricity|Bioenergy,TWh/year,5.21,7.29,9.47,9.44
+STEPS,CL,Production|Electricity|Nuclear PWR,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro storage,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro reservoir alpine,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro reservoir non-alpine,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro reservoir tropical,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro run-of-river,TWh/year,21.87,25,24.6,22.91
+STEPS,CL,Production|Electricity|Wind onshore,TWh/year,5.21,19.81,29.34,42.71
+STEPS,CL,Production|Electricity|Solar PV,TWh/year,9.37,16.65,17.03,18.75
+STEPS,CL,Production|Electricity|Medium to high,TWh/year,1.002,1.002,1.002,1.002
+STEPS,CL,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+APS,CL,Production|Electricity|Coal,TWh/year,27.08,6.57,0,0
+APS,CL,Production|Electricity|Natural gas combined cycle,TWh/year,9.69,9.5,5.43,0
+APS,CL,Production|Electricity|Natural gas conventional,TWh/year,5.94,5.82,3.33,0
+APS,CL,Production|Electricity|Bioenergy,TWh/year,5.21,6.57,8.76,12.04
+APS,CL,Production|Electricity|Nuclear PWR,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro storage,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro reservoir alpine,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro reservoir non-alpine,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro reservoir tropical,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro run-of-river,TWh/year,21.87,22.99,25.18,30.66
+APS,CL,Production|Electricity|Wind onshore,TWh/year,5.21,21.9,41.61,49.27
+APS,CL,Production|Electricity|Solar PV,TWh/year,9.37,26.28,33.94,40.51
+APS,CL,Production|Electricity|Medium to high,TWh/year,1.002,1.002,1.002,1.002
+APS,CL,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+STEPS,AR,Production|Electricity|Coal,TWh/year,6.7,10,0,0
+STEPS,AR,Production|Electricity|Natural gas combined cycle,TWh/year,65.8,57.9,57.9,48.7
+STEPS,AR,Production|Electricity|Natural gas conventional,TWh/year,17.5,15.4,15.4,13
+STEPS,AR,Production|Electricity|Bioenergy,TWh/year,0,0,10,6.7
+STEPS,AR,Production|Electricity|Nuclear PWR,TWh/year,13.3,10,13.3,26.7
+STEPS,AR,Production|Electricity|Hydro storage,TWh/year,0.6,0.8,0.9,1
+STEPS,AR,Production|Electricity|Hydro reservoir alpine,TWh/year,7.1,10,11.2,12.5
+STEPS,AR,Production|Electricity|Hydro reservoir non-alpine,TWh/year,6.8,9.6,10.8,12
+STEPS,AR,Production|Electricity|Hydro reservoir tropical,TWh/year,12.7,18,20.2,22.5
+STEPS,AR,Production|Electricity|Hydro run-of-river,TWh/year,0.6,0.8,0.9,1
+STEPS,AR,Production|Electricity|Wind onshore,TWh/year,12.2,20.8,24.2,29.3
+STEPS,AR,Production|Electricity|Solar PV,TWh/year,0,0,10,18.3
+STEPS,AR,Production|Electricity|Medium to high,TWh/year,1.008,1.008,1.008,1.008
+STEPS,AR,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+APS,AR,Production|Electricity|Coal,TWh/year,6.7,11.3,0,0
+APS,AR,Production|Electricity|Natural gas combined cycle,TWh/year,65.8,58.6,61.2,54.8
+APS,AR,Production|Electricity|Natural gas conventional,TWh/year,17.5,15.6,16.3,14.6
+APS,AR,Production|Electricity|Bioenergy,TWh/year,0,0,6.5,8.1
+APS,AR,Production|Electricity|Nuclear PWR,TWh/year,13.3,12.9,14.5,27.4
+APS,AR,Production|Electricity|Hydro storage,TWh/year,0.6,0.7,0.9,1
+APS,AR,Production|Electricity|Hydro reservoir alpine,TWh/year,7.1,9.3,10.9,12.9
+APS,AR,Production|Electricity|Hydro reservoir non-alpine,TWh/year,6.8,8.9,10.5,12.4
+APS,AR,Production|Electricity|Hydro reservoir tropical,TWh/year,12.7,16.7,19.6,23.2
+APS,AR,Production|Electricity|Hydro run-of-river,TWh/year,0.6,0.7,0.9,1
+APS,AR,Production|Electricity|Wind onshore,TWh/year,12.2,18.5,28.3,36.5
+APS,AR,Production|Electricity|Solar PV,TWh/year,0,6.5,11.3,25.8
+APS,AR,Production|Electricity|Medium to high,TWh/year,1.008,1.008,1.008,1.008
+APS,AR,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061

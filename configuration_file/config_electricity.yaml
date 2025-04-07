@@ -1,0 +1,182 @@
+markets:
+- except regions:
+  - World
+  includes:
+  - Hydro reservoir tropical
+  - Natural gas conventional
+  - Hydro storage
+  - Wind onshore
+  - Hydro reservoir alpine
+  - Hydro reservoir non-alpine
+  - Solar PV
+  - Hydro run-of-river
+  - Coal
+  - Nuclear PWR
+  - Natural gas combined cycle
+  - Bioenergy
+  name: market for electricity, high voltage, IEA
+  reference product: electricity, high voltage
+  replaces:
+  - location: CL
+    name: market for electricity, high voltage
+    product: electricity, high voltage
+  - location: AR
+    name: market for electricity, high voltage
+    product: electricity, high voltage
+  unit: kilowatt hour
+- except regions:
+  - World
+  includes:
+  - Medium to high
+  name: market for electricity, medium voltage, IEA
+  reference product: electricity, medium voltage
+  replaces:
+  - location: CL
+    name: market for electricity, medium voltage
+    product: electricity, medium voltage
+  - location: AR
+    name: market for electricity, medium voltage
+    product: electricity, medium voltage
+  unit: kilowatt hour
+- except regions:
+  - World
+  includes:
+  - Low to medium
+  name: market for electricity, low voltage, IEA
+  reference product: electricity, low voltage
+  replaces:
+  - location: CL
+    name: market for electricity, low voltage
+    product: electricity, low voltage
+  - location: AR
+    name: market for electricity, low voltage
+    product: electricity, low voltage
+  unit: kilowatt hour
+production pathways:
+  Bioenergy:
+    ecoinvent alias:
+      exists in original database: true
+      name: heat and power co-generation, wood chips, 6667 kW
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Bioenergy
+  Coal:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hard coal
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Coal
+  Hydro reservoir alpine:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, reservoir, alpine region
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro reservoir alpine
+  Hydro reservoir non-alpine:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, reservoir, non-alpine region
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro reservoir non-alpine
+  Hydro reservoir tropical:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, reservoir, tropical region
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro reservoir tropical
+  Hydro run-of-river:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, run-of-river
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro run-of-river
+  Hydro storage:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, pumped storage
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro storage
+  Low to medium:
+    ecoinvent alias:
+      exists in original database: false
+      name: market for electricity, medium voltage, IEA
+      new dataset: true
+      reference product: electricity, medium voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Low to medium
+  Medium to high:
+    ecoinvent alias:
+      exists in original database: false
+      name: market for electricity, high voltage, IEA
+      new dataset: true
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Medium to high
+  Natural gas combined cycle:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, natural gas, combined cycle power plant
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Natural gas combined cycle
+  Natural gas conventional:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, natural gas, conventional power plant
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Natural gas conventional
+  Nuclear PWR:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, nuclear, pressure water reactor, heavy water moderated
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Nuclear PWR
+  Solar PV:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, photovoltaic, 570kWp open ground installation,
+        multi-Si
+      new dataset: false
+      reference product: electricity, low voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Solar PV
+  Wind onshore:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, wind, 1-3MW turbine, onshore
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Wind onshore

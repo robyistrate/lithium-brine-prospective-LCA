@@ -1,0 +1,505 @@
+Impact,Lithium scenario,Source,Variation,2035 intensity var
+Climate change,S&P-Baseline,Electricity,-100.0,12.073736940791543
+Climate change,S&P-Baseline,Electricity,-90.0,12.147291777978472
+Climate change,S&P-Baseline,Electricity,-80.0,12.220846615165405
+Climate change,S&P-Baseline,Electricity,-70.0,12.294401452352334
+Climate change,S&P-Baseline,Electricity,-60.0,12.367956289539267
+Climate change,S&P-Baseline,Electricity,-50.0,12.441511126726196
+Climate change,S&P-Baseline,Electricity,-39.99999999999999,12.515065963913127
+Climate change,S&P-Baseline,Electricity,-29.999999999999993,12.588620801100056
+Climate change,S&P-Baseline,Electricity,-19.999999999999996,12.662175638286985
+Climate change,S&P-Baseline,Electricity,-9.999999999999998,12.735730475473918
+Climate change,S&P-Baseline,Electricity,0.0,12.809285312660847
+Climate change,S&P-Baseline,Electricity,10.000000000000009,12.88284014984778
+Climate change,S&P-Baseline,Electricity,20.000000000000018,12.95639498703471
+Climate change,S&P-Baseline,Electricity,30.000000000000004,13.029949824221639
+Climate change,S&P-Baseline,Electricity,40.000000000000014,13.103504661408568
+Climate change,S&P-Baseline,Electricity,50.0,13.177059498595497
+Climate change,S&P-Baseline,Electricity,60.00000000000001,13.25061433578243
+Climate change,S&P-Baseline,Electricity,70.00000000000001,13.32416917296936
+Climate change,S&P-Baseline,Electricity,80.0,13.397724010156292
+Climate change,S&P-Baseline,Electricity,90.00000000000001,13.471278847343221
+Climate change,S&P-Baseline,Electricity,100.0,13.54483368453015
+Climate change,S&P-Baseline,Heat,-100.0,4.02824448861517
+Climate change,S&P-Baseline,Heat,-90.0,4.906348571019737
+Climate change,S&P-Baseline,Heat,-80.0,5.784452653424305
+Climate change,S&P-Baseline,Heat,-70.0,6.662556735828873
+Climate change,S&P-Baseline,Heat,-60.0,7.54066081823344
+Climate change,S&P-Baseline,Heat,-50.0,8.418764900638008
+Climate change,S&P-Baseline,Heat,-39.99999999999999,9.296868983042575
+Climate change,S&P-Baseline,Heat,-29.999999999999993,10.174973065447142
+Climate change,S&P-Baseline,Heat,-19.999999999999996,11.053077147851711
+Climate change,S&P-Baseline,Heat,-9.999999999999998,11.931181230256279
+Climate change,S&P-Baseline,Heat,0.0,12.809285312660847
+Climate change,S&P-Baseline,Heat,10.000000000000009,13.687389395065418
+Climate change,S&P-Baseline,Heat,20.000000000000018,14.565493477469982
+Climate change,S&P-Baseline,Heat,30.000000000000004,15.44359755987455
+Climate change,S&P-Baseline,Heat,40.000000000000014,16.32170164227912
+Climate change,S&P-Baseline,Heat,50.0,17.199805724683685
+Climate change,S&P-Baseline,Heat,60.00000000000001,18.077909807088254
+Climate change,S&P-Baseline,Heat,70.00000000000001,18.956013889492823
+Climate change,S&P-Baseline,Heat,80.0,19.834117971897392
+Climate change,S&P-Baseline,Heat,90.00000000000001,20.712222054301957
+Climate change,S&P-Baseline,Heat,100.0,21.590326136706526
+Climate change,S&P-Baseline,Reagents,-100.0,10.624218567284247
+Climate change,S&P-Baseline,Reagents,-90.0,10.842725241821906
+Climate change,S&P-Baseline,Reagents,-80.0,11.061231916359565
+Climate change,S&P-Baseline,Reagents,-70.0,11.279738590897226
+Climate change,S&P-Baseline,Reagents,-60.0,11.498245265434887
+Climate change,S&P-Baseline,Reagents,-50.0,11.716751939972545
+Climate change,S&P-Baseline,Reagents,-39.99999999999999,11.935258614510207
+Climate change,S&P-Baseline,Reagents,-29.999999999999993,12.153765289047866
+Climate change,S&P-Baseline,Reagents,-19.999999999999996,12.372271963585526
+Climate change,S&P-Baseline,Reagents,-9.999999999999998,12.590778638123185
+Climate change,S&P-Baseline,Reagents,0.0,12.809285312660847
+Climate change,S&P-Baseline,Reagents,10.000000000000009,13.027791987198505
+Climate change,S&P-Baseline,Reagents,20.000000000000018,13.246298661736166
+Climate change,S&P-Baseline,Reagents,30.000000000000004,13.464805336273828
+Climate change,S&P-Baseline,Reagents,40.000000000000014,13.683312010811486
+Climate change,S&P-Baseline,Reagents,50.0,13.901818685349145
+Climate change,S&P-Baseline,Reagents,60.00000000000001,14.120325359886806
+Climate change,S&P-Baseline,Reagents,70.00000000000001,14.338832034424469
+Climate change,S&P-Baseline,Reagents,80.0,14.557338708962126
+Climate change,S&P-Baseline,Reagents,90.00000000000001,14.775845383499787
+Climate change,S&P-Baseline,Reagents,100.0,14.994352058037446
+Climate change,S&P-Baseline,Direct emissions,-100.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-90.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-80.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-70.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-60.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-50.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-39.99999999999999,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-29.999999999999993,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-19.999999999999996,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,-9.999999999999998,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,0.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,10.000000000000009,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,20.000000000000018,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,30.000000000000004,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,40.000000000000014,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,50.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,60.00000000000001,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,70.00000000000001,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,80.0,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,90.00000000000001,12.809285312660847
+Climate change,S&P-Baseline,Direct emissions,100.0,12.809285312660847
+Climate change,S&P-Ambitious,Electricity,-100.0,13.9148661349714
+Climate change,S&P-Ambitious,Electricity,-90.0,13.993923613531388
+Climate change,S&P-Ambitious,Electricity,-80.0,14.072981092091377
+Climate change,S&P-Ambitious,Electricity,-70.0,14.152038570651364
+Climate change,S&P-Ambitious,Electricity,-60.0,14.231096049211352
+Climate change,S&P-Ambitious,Electricity,-50.0,14.31015352777134
+Climate change,S&P-Ambitious,Electricity,-39.99999999999999,14.389211006331326
+Climate change,S&P-Ambitious,Electricity,-29.999999999999993,14.468268484891318
+Climate change,S&P-Ambitious,Electricity,-19.999999999999996,14.547325963451305
+Climate change,S&P-Ambitious,Electricity,-9.999999999999998,14.626383442011292
+Climate change,S&P-Ambitious,Electricity,0.0,14.70544092057128
+Climate change,S&P-Ambitious,Electricity,10.000000000000009,14.784498399131268
+Climate change,S&P-Ambitious,Electricity,20.000000000000018,14.863555877691256
+Climate change,S&P-Ambitious,Electricity,30.000000000000004,14.942613356251243
+Climate change,S&P-Ambitious,Electricity,40.000000000000014,15.021670834811232
+Climate change,S&P-Ambitious,Electricity,50.0,15.10072831337122
+Climate change,S&P-Ambitious,Electricity,60.00000000000001,15.179785791931208
+Climate change,S&P-Ambitious,Electricity,70.00000000000001,15.258843270491194
+Climate change,S&P-Ambitious,Electricity,80.0,15.337900749051183
+Climate change,S&P-Ambitious,Electricity,90.00000000000001,15.416958227611172
+Climate change,S&P-Ambitious,Electricity,100.0,15.496015706171162
+Climate change,S&P-Ambitious,Heat,-100.0,4.568882259244077
+Climate change,S&P-Ambitious,Heat,-90.0,5.582538125376797
+Climate change,S&P-Ambitious,Heat,-80.0,6.596193991509517
+Climate change,S&P-Ambitious,Heat,-70.0,7.609849857642239
+Climate change,S&P-Ambitious,Heat,-60.0,8.62350572377496
+Climate change,S&P-Ambitious,Heat,-50.0,9.637161589907679
+Climate change,S&P-Ambitious,Heat,-39.99999999999999,10.6508174560404
+Climate change,S&P-Ambitious,Heat,-29.999999999999993,11.66447332217312
+Climate change,S&P-Ambitious,Heat,-19.999999999999996,12.678129188305839
+Climate change,S&P-Ambitious,Heat,-9.999999999999998,13.691785054438562
+Climate change,S&P-Ambitious,Heat,0.0,14.70544092057128
+Climate change,S&P-Ambitious,Heat,10.000000000000009,15.719096786704002
+Climate change,S&P-Ambitious,Heat,20.000000000000018,16.732752652836727
+Climate change,S&P-Ambitious,Heat,30.000000000000004,17.746408518969442
+Climate change,S&P-Ambitious,Heat,40.000000000000014,18.76006438510216
+Climate change,S&P-Ambitious,Heat,50.0,19.773720251234884
+Climate change,S&P-Ambitious,Heat,60.00000000000001,20.7873761173676
+Climate change,S&P-Ambitious,Heat,70.00000000000001,21.801031983500327
+Climate change,S&P-Ambitious,Heat,80.0,22.814687849633046
+Climate change,S&P-Ambitious,Heat,90.00000000000001,23.82834371576577
+Climate change,S&P-Ambitious,Heat,100.0,24.841999581898484
+Climate change,S&P-Ambitious,Reagents,-100.0,12.057960975054142
+Climate change,S&P-Ambitious,Reagents,-90.0,12.322708969605856
+Climate change,S&P-Ambitious,Reagents,-80.0,12.58745696415757
+Climate change,S&P-Ambitious,Reagents,-70.0,12.852204958709283
+Climate change,S&P-Ambitious,Reagents,-60.0,13.116952953260997
+Climate change,S&P-Ambitious,Reagents,-50.0,13.381700947812712
+Climate change,S&P-Ambitious,Reagents,-39.99999999999999,13.646448942364426
+Climate change,S&P-Ambitious,Reagents,-29.999999999999993,13.91119693691614
+Climate change,S&P-Ambitious,Reagents,-19.999999999999996,14.175944931467852
+Climate change,S&P-Ambitious,Reagents,-9.999999999999998,14.440692926019569
+Climate change,S&P-Ambitious,Reagents,0.0,14.70544092057128
+Climate change,S&P-Ambitious,Reagents,10.000000000000009,14.970188915122995
+Climate change,S&P-Ambitious,Reagents,20.000000000000018,15.234936909674708
+Climate change,S&P-Ambitious,Reagents,30.000000000000004,15.49968490422642
+Climate change,S&P-Ambitious,Reagents,40.000000000000014,15.764432898778137
+Climate change,S&P-Ambitious,Reagents,50.0,16.02918089332985
+Climate change,S&P-Ambitious,Reagents,60.00000000000001,16.293928887881567
+Climate change,S&P-Ambitious,Reagents,70.00000000000001,16.55867688243328
+Climate change,S&P-Ambitious,Reagents,80.0,16.82342487698499
+Climate change,S&P-Ambitious,Reagents,90.00000000000001,17.088172871536706
+Climate change,S&P-Ambitious,Reagents,100.0,17.35292086608842
+Climate change,S&P-Ambitious,Direct emissions,-100.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-90.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-80.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-70.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-60.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-50.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-39.99999999999999,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-29.999999999999993,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-19.999999999999996,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,-9.999999999999998,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,0.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,10.000000000000009,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,20.000000000000018,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,30.000000000000004,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,40.000000000000014,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,50.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,60.00000000000001,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,70.00000000000001,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,80.0,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,90.00000000000001,14.70544092057128
+Climate change,S&P-Ambitious,Direct emissions,100.0,14.70544092057128
+Climate change,S&P-Very Ambitious,Electricity,-100.0,15.814536154713688
+Climate change,S&P-Very Ambitious,Electricity,-90.0,15.893403416031047
+Climate change,S&P-Very Ambitious,Electricity,-80.0,15.972270677348407
+Climate change,S&P-Very Ambitious,Electricity,-70.0,16.051137938665768
+Climate change,S&P-Very Ambitious,Electricity,-60.0,16.130005199983128
+Climate change,S&P-Very Ambitious,Electricity,-50.0,16.208872461300487
+Climate change,S&P-Very Ambitious,Electricity,-39.99999999999999,16.287739722617847
+Climate change,S&P-Very Ambitious,Electricity,-29.999999999999993,16.366606983935206
+Climate change,S&P-Very Ambitious,Electricity,-19.999999999999996,16.445474245252566
+Climate change,S&P-Very Ambitious,Electricity,-9.999999999999998,16.524341506569925
+Climate change,S&P-Very Ambitious,Electricity,0.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Electricity,10.000000000000009,16.682076029204648
+Climate change,S&P-Very Ambitious,Electricity,20.000000000000018,16.760943290522007
+Climate change,S&P-Very Ambitious,Electricity,30.000000000000004,16.839810551839367
+Climate change,S&P-Very Ambitious,Electricity,40.000000000000014,16.918677813156727
+Climate change,S&P-Very Ambitious,Electricity,50.0,16.997545074474086
+Climate change,S&P-Very Ambitious,Electricity,60.00000000000001,17.076412335791446
+Climate change,S&P-Very Ambitious,Electricity,70.00000000000001,17.155279597108805
+Climate change,S&P-Very Ambitious,Electricity,80.0,17.234146858426165
+Climate change,S&P-Very Ambitious,Electricity,90.00000000000001,17.313014119743524
+Climate change,S&P-Very Ambitious,Electricity,100.0,17.391881381060884
+Climate change,S&P-Very Ambitious,Heat,-100.0,5.252403388280139
+Climate change,S&P-Very Ambitious,Heat,-90.0,6.387483926240853
+Climate change,S&P-Very Ambitious,Heat,-80.0,7.522564464201568
+Climate change,S&P-Very Ambitious,Heat,-70.0,8.657645002162285
+Climate change,S&P-Very Ambitious,Heat,-60.0,9.792725540122998
+Climate change,S&P-Very Ambitious,Heat,-50.0,10.927806078083712
+Climate change,S&P-Very Ambitious,Heat,-39.99999999999999,12.062886616044429
+Climate change,S&P-Very Ambitious,Heat,-29.999999999999993,13.197967154005141
+Climate change,S&P-Very Ambitious,Heat,-19.999999999999996,14.333047691965858
+Climate change,S&P-Very Ambitious,Heat,-9.999999999999998,15.46812822992657
+Climate change,S&P-Very Ambitious,Heat,0.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Heat,10.000000000000009,17.738289305848
+Climate change,S&P-Very Ambitious,Heat,20.000000000000018,18.873369843808717
+Climate change,S&P-Very Ambitious,Heat,30.000000000000004,20.00845038176943
+Climate change,S&P-Very Ambitious,Heat,40.000000000000014,21.143530919730146
+Climate change,S&P-Very Ambitious,Heat,50.0,22.278611457690857
+Climate change,S&P-Very Ambitious,Heat,60.00000000000001,23.413691995651575
+Climate change,S&P-Very Ambitious,Heat,70.00000000000001,24.54877253361229
+Climate change,S&P-Very Ambitious,Heat,80.0,25.683853071573
+Climate change,S&P-Very Ambitious,Heat,90.00000000000001,26.81893360953372
+Climate change,S&P-Very Ambitious,Heat,100.0,27.954014147494433
+Climate change,S&P-Very Ambitious,Reagents,-100.0,13.378662656765085
+Climate change,S&P-Very Ambitious,Reagents,-90.0,13.701117267877304
+Climate change,S&P-Very Ambitious,Reagents,-80.0,14.023571878989523
+Climate change,S&P-Very Ambitious,Reagents,-70.0,14.346026490101744
+Climate change,S&P-Very Ambitious,Reagents,-60.0,14.668481101213965
+Climate change,S&P-Very Ambitious,Reagents,-50.0,14.990935712326188
+Climate change,S&P-Very Ambitious,Reagents,-39.99999999999999,15.313390323438407
+Climate change,S&P-Very Ambitious,Reagents,-29.999999999999993,15.635844934550628
+Climate change,S&P-Very Ambitious,Reagents,-19.999999999999996,15.958299545662847
+Climate change,S&P-Very Ambitious,Reagents,-9.999999999999998,16.280754156775068
+Climate change,S&P-Very Ambitious,Reagents,0.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Reagents,10.000000000000009,16.925663378999506
+Climate change,S&P-Very Ambitious,Reagents,20.000000000000018,17.24811799011173
+Climate change,S&P-Very Ambitious,Reagents,30.000000000000004,17.570572601223947
+Climate change,S&P-Very Ambitious,Reagents,40.000000000000014,17.893027212336168
+Climate change,S&P-Very Ambitious,Reagents,50.0,18.21548182344839
+Climate change,S&P-Very Ambitious,Reagents,60.00000000000001,18.53793643456061
+Climate change,S&P-Very Ambitious,Reagents,70.00000000000001,18.86039104567283
+Climate change,S&P-Very Ambitious,Reagents,80.0,19.18284565678505
+Climate change,S&P-Very Ambitious,Reagents,90.00000000000001,19.50530026789727
+Climate change,S&P-Very Ambitious,Reagents,100.0,19.82775487900949
+Climate change,S&P-Very Ambitious,Direct emissions,-100.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-90.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-80.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-70.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-60.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-50.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-39.99999999999999,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-29.999999999999993,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-19.999999999999996,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,-9.999999999999998,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,0.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,10.000000000000009,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,20.000000000000018,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,30.000000000000004,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,40.000000000000014,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,50.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,60.00000000000001,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,70.00000000000001,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,80.0,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,90.00000000000001,16.603208767887285
+Climate change,S&P-Very Ambitious,Direct emissions,100.0,16.603208767887285
+Water scarcity,S&P-Baseline,Electricity,-100.0,6.4144371937406675
+Water scarcity,S&P-Baseline,Electricity,-90.0,6.505891416208084
+Water scarcity,S&P-Baseline,Electricity,-80.0,6.5973456386755
+Water scarcity,S&P-Baseline,Electricity,-70.0,6.688799861142916
+Water scarcity,S&P-Baseline,Electricity,-60.0,6.78025408361033
+Water scarcity,S&P-Baseline,Electricity,-50.0,6.871708306077746
+Water scarcity,S&P-Baseline,Electricity,-39.99999999999999,6.963162528545164
+Water scarcity,S&P-Baseline,Electricity,-29.999999999999993,7.0546167510125795
+Water scarcity,S&P-Baseline,Electricity,-19.999999999999996,7.146070973479994
+Water scarcity,S&P-Baseline,Electricity,-9.999999999999998,7.237525195947411
+Water scarcity,S&P-Baseline,Electricity,0.0,7.328979418414827
+Water scarcity,S&P-Baseline,Electricity,10.000000000000009,7.4204336408822416
+Water scarcity,S&P-Baseline,Electricity,20.000000000000018,7.511887863349657
+Water scarcity,S&P-Baseline,Electricity,30.000000000000004,7.603342085817073
+Water scarcity,S&P-Baseline,Electricity,40.000000000000014,7.694796308284489
+Water scarcity,S&P-Baseline,Electricity,50.0,7.7862505307519045
+Water scarcity,S&P-Baseline,Electricity,60.00000000000001,7.877704753219321
+Water scarcity,S&P-Baseline,Electricity,70.00000000000001,7.969158975686737
+Water scarcity,S&P-Baseline,Electricity,80.0,8.060613198154153
+Water scarcity,S&P-Baseline,Electricity,90.00000000000001,8.152067420621568
+Water scarcity,S&P-Baseline,Electricity,100.0,8.243521643088984
+Water scarcity,S&P-Baseline,Heat,-100.0,7.195619627385278
+Water scarcity,S&P-Baseline,Heat,-90.0,7.2089556064882325
+Water scarcity,S&P-Baseline,Heat,-80.0,7.222291585591188
+Water scarcity,S&P-Baseline,Heat,-70.0,7.235627564694143
+Water scarcity,S&P-Baseline,Heat,-60.0,7.248963543797097
+Water scarcity,S&P-Baseline,Heat,-50.0,7.262299522900051
+Water scarcity,S&P-Baseline,Heat,-39.99999999999999,7.275635502003007
+Water scarcity,S&P-Baseline,Heat,-29.999999999999993,7.288971481105961
+Water scarcity,S&P-Baseline,Heat,-19.999999999999996,7.302307460208916
+Water scarcity,S&P-Baseline,Heat,-9.999999999999998,7.315643439311872
+Water scarcity,S&P-Baseline,Heat,0.0,7.328979418414827
+Water scarcity,S&P-Baseline,Heat,10.000000000000009,7.342315397517781
+Water scarcity,S&P-Baseline,Heat,20.000000000000018,7.3556513766207345
+Water scarcity,S&P-Baseline,Heat,30.000000000000004,7.36898735572369
+Water scarcity,S&P-Baseline,Heat,40.000000000000014,7.382323334826645
+Water scarcity,S&P-Baseline,Heat,50.0,7.3956593139296
+Water scarcity,S&P-Baseline,Heat,60.00000000000001,7.4089952930325556
+Water scarcity,S&P-Baseline,Heat,70.00000000000001,7.42233127213551
+Water scarcity,S&P-Baseline,Heat,80.0,7.435667251238465
+Water scarcity,S&P-Baseline,Heat,90.00000000000001,7.449003230341419
+Water scarcity,S&P-Baseline,Heat,100.0,7.462339209444375
+Water scarcity,S&P-Baseline,Reagents,-100.0,4.595915877637136
+Water scarcity,S&P-Baseline,Reagents,-90.0,4.869222231714905
+Water scarcity,S&P-Baseline,Reagents,-80.0,5.1425285857926735
+Water scarcity,S&P-Baseline,Reagents,-70.0,5.415834939870442
+Water scarcity,S&P-Baseline,Reagents,-60.0,5.689141293948212
+Water scarcity,S&P-Baseline,Reagents,-50.0,5.962447648025981
+Water scarcity,S&P-Baseline,Reagents,-39.99999999999999,6.23575400210375
+Water scarcity,S&P-Baseline,Reagents,-29.999999999999993,6.50906035618152
+Water scarcity,S&P-Baseline,Reagents,-19.999999999999996,6.782366710259288
+Water scarcity,S&P-Baseline,Reagents,-9.999999999999998,7.055673064337058
+Water scarcity,S&P-Baseline,Reagents,0.0,7.328979418414828
+Water scarcity,S&P-Baseline,Reagents,10.000000000000009,7.602285772492595
+Water scarcity,S&P-Baseline,Reagents,20.000000000000018,7.875592126570366
+Water scarcity,S&P-Baseline,Reagents,30.000000000000004,8.148898480648134
+Water scarcity,S&P-Baseline,Reagents,40.000000000000014,8.422204834725903
+Water scarcity,S&P-Baseline,Reagents,50.0,8.695511188803673
+Water scarcity,S&P-Baseline,Reagents,60.00000000000001,8.968817542881443
+Water scarcity,S&P-Baseline,Reagents,70.00000000000001,9.242123896959212
+Water scarcity,S&P-Baseline,Reagents,80.0,9.51543025103698
+Water scarcity,S&P-Baseline,Reagents,90.00000000000001,9.788736605114751
+Water scarcity,S&P-Baseline,Reagents,100.0,10.06204295919252
+Water scarcity,S&P-Baseline,Direct emissions,-100.0,4.184703831844814
+Water scarcity,S&P-Baseline,Direct emissions,-90.0,4.499131390501815
+Water scarcity,S&P-Baseline,Direct emissions,-80.0,4.813558949158817
+Water scarcity,S&P-Baseline,Direct emissions,-70.0,5.127986507815818
+Water scarcity,S&P-Baseline,Direct emissions,-60.0,5.442414066472819
+Water scarcity,S&P-Baseline,Direct emissions,-50.0,5.75684162512982
+Water scarcity,S&P-Baseline,Direct emissions,-39.99999999999999,6.071269183786821
+Water scarcity,S&P-Baseline,Direct emissions,-29.999999999999993,6.385696742443822
+Water scarcity,S&P-Baseline,Direct emissions,-19.999999999999996,6.700124301100823
+Water scarcity,S&P-Baseline,Direct emissions,-9.999999999999998,7.014551859757826
+Water scarcity,S&P-Baseline,Direct emissions,0.0,7.328979418414827
+Water scarcity,S&P-Baseline,Direct emissions,10.000000000000009,7.6434069770718285
+Water scarcity,S&P-Baseline,Direct emissions,20.000000000000018,7.957834535728829
+Water scarcity,S&P-Baseline,Direct emissions,30.000000000000004,8.27226209438583
+Water scarcity,S&P-Baseline,Direct emissions,40.000000000000014,8.586689653042832
+Water scarcity,S&P-Baseline,Direct emissions,50.0,8.901117211699832
+Water scarcity,S&P-Baseline,Direct emissions,60.00000000000001,9.215544770356834
+Water scarcity,S&P-Baseline,Direct emissions,70.00000000000001,9.529972329013836
+Water scarcity,S&P-Baseline,Direct emissions,80.0,9.844399887670836
+Water scarcity,S&P-Baseline,Direct emissions,90.00000000000001,10.158827446327837
+Water scarcity,S&P-Baseline,Direct emissions,100.0,10.473255004984837
+Water scarcity,S&P-Ambitious,Electricity,-100.0,8.135451722570124
+Water scarcity,S&P-Ambitious,Electricity,-90.0,8.247308871418182
+Water scarcity,S&P-Ambitious,Electricity,-80.0,8.359166020266242
+Water scarcity,S&P-Ambitious,Electricity,-70.0,8.471023169114298
+Water scarcity,S&P-Ambitious,Electricity,-60.0,8.582880317962358
+Water scarcity,S&P-Ambitious,Electricity,-50.0,8.694737466810416
+Water scarcity,S&P-Ambitious,Electricity,-39.99999999999999,8.806594615658472
+Water scarcity,S&P-Ambitious,Electricity,-29.999999999999993,8.918451764506534
+Water scarcity,S&P-Ambitious,Electricity,-19.999999999999996,9.03030891335459
+Water scarcity,S&P-Ambitious,Electricity,-9.999999999999998,9.142166062202651
+Water scarcity,S&P-Ambitious,Electricity,0.0,9.254023211050708
+Water scarcity,S&P-Ambitious,Electricity,10.000000000000009,9.365880359898766
+Water scarcity,S&P-Ambitious,Electricity,20.000000000000018,9.477737508746825
+Water scarcity,S&P-Ambitious,Electricity,30.000000000000004,9.589594657594883
+Water scarcity,S&P-Ambitious,Electricity,40.000000000000014,9.701451806442941
+Water scarcity,S&P-Ambitious,Electricity,50.0,9.813308955291001
+Water scarcity,S&P-Ambitious,Electricity,60.00000000000001,9.925166104139057
+Water scarcity,S&P-Ambitious,Electricity,70.00000000000001,10.037023252987119
+Water scarcity,S&P-Ambitious,Electricity,80.0,10.148880401835175
+Water scarcity,S&P-Ambitious,Electricity,90.00000000000001,10.260737550683235
+Water scarcity,S&P-Ambitious,Electricity,100.0,10.372594699531293
+Water scarcity,S&P-Ambitious,Heat,-100.0,9.100076842741885
+Water scarcity,S&P-Ambitious,Heat,-90.0,9.115471479572767
+Water scarcity,S&P-Ambitious,Heat,-80.0,9.130866116403649
+Water scarcity,S&P-Ambitious,Heat,-70.0,9.146260753234532
+Water scarcity,S&P-Ambitious,Heat,-60.0,9.161655390065414
+Water scarcity,S&P-Ambitious,Heat,-50.0,9.177050026896296
+Water scarcity,S&P-Ambitious,Heat,-39.99999999999999,9.19244466372718
+Water scarcity,S&P-Ambitious,Heat,-29.999999999999993,9.20783930055806
+Water scarcity,S&P-Ambitious,Heat,-19.999999999999996,9.223233937388944
+Water scarcity,S&P-Ambitious,Heat,-9.999999999999998,9.238628574219828
+Water scarcity,S&P-Ambitious,Heat,0.0,9.254023211050708
+Water scarcity,S&P-Ambitious,Heat,10.000000000000009,9.269417847881591
+Water scarcity,S&P-Ambitious,Heat,20.000000000000018,9.284812484712473
+Water scarcity,S&P-Ambitious,Heat,30.000000000000004,9.300207121543355
+Water scarcity,S&P-Ambitious,Heat,40.000000000000014,9.315601758374239
+Water scarcity,S&P-Ambitious,Heat,50.0,9.33099639520512
+Water scarcity,S&P-Ambitious,Heat,60.00000000000001,9.346391032036003
+Water scarcity,S&P-Ambitious,Heat,70.00000000000001,9.361785668866887
+Water scarcity,S&P-Ambitious,Heat,80.0,9.377180305697769
+Water scarcity,S&P-Ambitious,Heat,90.00000000000001,9.39257494252865
+Water scarcity,S&P-Ambitious,Heat,100.0,9.40796957935953
+Water scarcity,S&P-Ambitious,Reagents,-100.0,5.454013325735493
+Water scarcity,S&P-Ambitious,Reagents,-90.0,5.834014314267015
+Water scarcity,S&P-Ambitious,Reagents,-80.0,6.214015302798536
+Water scarcity,S&P-Ambitious,Reagents,-70.0,6.594016291330058
+Water scarcity,S&P-Ambitious,Reagents,-60.0,6.974017279861579
+Water scarcity,S&P-Ambitious,Reagents,-50.0,7.354018268393101
+Water scarcity,S&P-Ambitious,Reagents,-39.99999999999999,7.734019256924622
+Water scarcity,S&P-Ambitious,Reagents,-29.999999999999993,8.114020245456144
+Water scarcity,S&P-Ambitious,Reagents,-19.999999999999996,8.494021233987665
+Water scarcity,S&P-Ambitious,Reagents,-9.999999999999998,8.874022222519187
+Water scarcity,S&P-Ambitious,Reagents,0.0,9.254023211050708
+Water scarcity,S&P-Ambitious,Reagents,10.000000000000009,9.634024199582228
+Water scarcity,S&P-Ambitious,Reagents,20.000000000000018,10.014025188113752
+Water scarcity,S&P-Ambitious,Reagents,30.000000000000004,10.394026176645273
+Water scarcity,S&P-Ambitious,Reagents,40.000000000000014,10.774027165176795
+Water scarcity,S&P-Ambitious,Reagents,50.0,11.154028153708316
+Water scarcity,S&P-Ambitious,Reagents,60.00000000000001,11.534029142239838
+Water scarcity,S&P-Ambitious,Reagents,70.00000000000001,11.91403013077136
+Water scarcity,S&P-Ambitious,Reagents,80.0,12.29403111930288
+Water scarcity,S&P-Ambitious,Reagents,90.00000000000001,12.674032107834403
+Water scarcity,S&P-Ambitious,Reagents,100.0,13.054033096365924
+Water scarcity,S&P-Ambitious,Direct emissions,-100.0,5.460794905406365
+Water scarcity,S&P-Ambitious,Direct emissions,-90.0,5.840117735970799
+Water scarcity,S&P-Ambitious,Direct emissions,-80.0,6.219440566535234
+Water scarcity,S&P-Ambitious,Direct emissions,-70.0,6.598763397099669
+Water scarcity,S&P-Ambitious,Direct emissions,-60.0,6.978086227664104
+Water scarcity,S&P-Ambitious,Direct emissions,-50.0,7.357409058228537
+Water scarcity,S&P-Ambitious,Direct emissions,-39.99999999999999,7.736731888792972
+Water scarcity,S&P-Ambitious,Direct emissions,-29.999999999999993,8.116054719357406
+Water scarcity,S&P-Ambitious,Direct emissions,-19.999999999999996,8.495377549921841
+Water scarcity,S&P-Ambitious,Direct emissions,-9.999999999999998,8.874700380486276
+Water scarcity,S&P-Ambitious,Direct emissions,0.0,9.254023211050708
+Water scarcity,S&P-Ambitious,Direct emissions,10.000000000000009,9.633346041615143
+Water scarcity,S&P-Ambitious,Direct emissions,20.000000000000018,10.012668872179578
+Water scarcity,S&P-Ambitious,Direct emissions,30.000000000000004,10.391991702744011
+Water scarcity,S&P-Ambitious,Direct emissions,40.000000000000014,10.771314533308448
+Water scarcity,S&P-Ambitious,Direct emissions,50.0,11.150637363872882
+Water scarcity,S&P-Ambitious,Direct emissions,60.00000000000001,11.529960194437315
+Water scarcity,S&P-Ambitious,Direct emissions,70.00000000000001,11.90928302500175
+Water scarcity,S&P-Ambitious,Direct emissions,80.0,12.288605855566184
+Water scarcity,S&P-Ambitious,Direct emissions,90.00000000000001,12.667928686130617
+Water scarcity,S&P-Ambitious,Direct emissions,100.0,13.047251516695054
+Water scarcity,S&P-Very Ambitious,Electricity,-100.0,9.295751359977471
+Water scarcity,S&P-Very Ambitious,Electricity,-90.0,9.433956290590245
+Water scarcity,S&P-Very Ambitious,Electricity,-80.0,9.572161221203016
+Water scarcity,S&P-Very Ambitious,Electricity,-70.0,9.71036615181579
+Water scarcity,S&P-Very Ambitious,Electricity,-60.0,9.848571082428565
+Water scarcity,S&P-Very Ambitious,Electricity,-50.0,9.986776013041338
+Water scarcity,S&P-Very Ambitious,Electricity,-39.99999999999999,10.124980943654114
+Water scarcity,S&P-Very Ambitious,Electricity,-29.999999999999993,10.263185874266888
+Water scarcity,S&P-Very Ambitious,Electricity,-19.999999999999996,10.40139080487966
+Water scarcity,S&P-Very Ambitious,Electricity,-9.999999999999998,10.539595735492435
+Water scarcity,S&P-Very Ambitious,Electricity,0.0,10.677800666105208
+Water scarcity,S&P-Very Ambitious,Electricity,10.000000000000009,10.816005596717982
+Water scarcity,S&P-Very Ambitious,Electricity,20.000000000000018,10.954210527330755
+Water scarcity,S&P-Very Ambitious,Electricity,30.000000000000004,11.092415457943527
+Water scarcity,S&P-Very Ambitious,Electricity,40.000000000000014,11.230620388556302
+Water scarcity,S&P-Very Ambitious,Electricity,50.0,11.368825319169078
+Water scarcity,S&P-Very Ambitious,Electricity,60.00000000000001,11.50703024978185
+Water scarcity,S&P-Very Ambitious,Electricity,70.00000000000001,11.645235180394625
+Water scarcity,S&P-Very Ambitious,Electricity,80.0,11.7834401110074
+Water scarcity,S&P-Very Ambitious,Electricity,90.00000000000001,11.921645041620172
+Water scarcity,S&P-Very Ambitious,Electricity,100.0,12.059849972232946
+Water scarcity,S&P-Very Ambitious,Heat,-100.0,10.505413239173276
+Water scarcity,S&P-Very Ambitious,Heat,-90.0,10.52265198186647
+Water scarcity,S&P-Very Ambitious,Heat,-80.0,10.539890724559664
+Water scarcity,S&P-Very Ambitious,Heat,-70.0,10.557129467252857
+Water scarcity,S&P-Very Ambitious,Heat,-60.0,10.57436820994605
+Water scarcity,S&P-Very Ambitious,Heat,-50.0,10.591606952639243
+Water scarcity,S&P-Very Ambitious,Heat,-39.99999999999999,10.608845695332436
+Water scarcity,S&P-Very Ambitious,Heat,-29.999999999999993,10.626084438025629
+Water scarcity,S&P-Very Ambitious,Heat,-19.999999999999996,10.643323180718822
+Water scarcity,S&P-Very Ambitious,Heat,-9.999999999999998,10.660561923412015
+Water scarcity,S&P-Very Ambitious,Heat,0.0,10.677800666105208
+Water scarcity,S&P-Very Ambitious,Heat,10.000000000000009,10.6950394087984
+Water scarcity,S&P-Very Ambitious,Heat,20.000000000000018,10.712278151491594
+Water scarcity,S&P-Very Ambitious,Heat,30.000000000000004,10.729516894184789
+Water scarcity,S&P-Very Ambitious,Heat,40.000000000000014,10.746755636877982
+Water scarcity,S&P-Very Ambitious,Heat,50.0,10.763994379571173
+Water scarcity,S&P-Very Ambitious,Heat,60.00000000000001,10.781233122264368
+Water scarcity,S&P-Very Ambitious,Heat,70.00000000000001,10.79847186495756
+Water scarcity,S&P-Very Ambitious,Heat,80.0,10.815710607650754
+Water scarcity,S&P-Very Ambitious,Heat,90.00000000000001,10.832949350343949
+Water scarcity,S&P-Very Ambitious,Heat,100.0,10.85018809303714
+Water scarcity,S&P-Very Ambitious,Reagents,-100.0,6.020506116038837
+Water scarcity,S&P-Very Ambitious,Reagents,-90.0,6.486235571045474
+Water scarcity,S&P-Very Ambitious,Reagents,-80.0,6.951965026052111
+Water scarcity,S&P-Very Ambitious,Reagents,-70.0,7.417694481058749
+Water scarcity,S&P-Very Ambitious,Reagents,-60.0,7.883423936065386
+Water scarcity,S&P-Very Ambitious,Reagents,-50.0,8.349153391072022
+Water scarcity,S&P-Very Ambitious,Reagents,-39.99999999999999,8.81488284607866
+Water scarcity,S&P-Very Ambitious,Reagents,-29.999999999999993,9.280612301085299
+Water scarcity,S&P-Very Ambitious,Reagents,-19.999999999999996,9.746341756091933
+Water scarcity,S&P-Very Ambitious,Reagents,-9.999999999999998,10.212071211098571
+Water scarcity,S&P-Very Ambitious,Reagents,0.0,10.677800666105208
+Water scarcity,S&P-Very Ambitious,Reagents,10.000000000000009,11.143530121111844
+Water scarcity,S&P-Very Ambitious,Reagents,20.000000000000018,11.609259576118482
+Water scarcity,S&P-Very Ambitious,Reagents,30.000000000000004,12.074989031125119
+Water scarcity,S&P-Very Ambitious,Reagents,40.000000000000014,12.540718486131757
+Water scarcity,S&P-Very Ambitious,Reagents,50.0,13.006447941138394
+Water scarcity,S&P-Very Ambitious,Reagents,60.00000000000001,13.47217739614503
+Water scarcity,S&P-Very Ambitious,Reagents,70.00000000000001,13.937906851151668
+Water scarcity,S&P-Very Ambitious,Reagents,80.0,14.403636306158305
+Water scarcity,S&P-Very Ambitious,Reagents,90.00000000000001,14.869365761164945
+Water scarcity,S&P-Very Ambitious,Reagents,100.0,15.33509521617158
+Water scarcity,S&P-Very Ambitious,Direct emissions,-100.0,6.6021418950847615
+Water scarcity,S&P-Very Ambitious,Direct emissions,-90.0,7.009707772186807
+Water scarcity,S&P-Very Ambitious,Direct emissions,-80.0,7.41727364928885
+Water scarcity,S&P-Very Ambitious,Direct emissions,-70.0,7.824839526390896
+Water scarcity,S&P-Very Ambitious,Direct emissions,-60.0,8.23240540349294
+Water scarcity,S&P-Very Ambitious,Direct emissions,-50.0,8.639971280594985
+Water scarcity,S&P-Very Ambitious,Direct emissions,-39.99999999999999,9.04753715769703
+Water scarcity,S&P-Very Ambitious,Direct emissions,-29.999999999999993,9.455103034799075
+Water scarcity,S&P-Very Ambitious,Direct emissions,-19.999999999999996,9.86266891190112
+Water scarcity,S&P-Very Ambitious,Direct emissions,-9.999999999999998,10.270234789003164
+Water scarcity,S&P-Very Ambitious,Direct emissions,0.0,10.677800666105208
+Water scarcity,S&P-Very Ambitious,Direct emissions,10.000000000000009,11.085366543207252
+Water scarcity,S&P-Very Ambitious,Direct emissions,20.000000000000018,11.492932420309296
+Water scarcity,S&P-Very Ambitious,Direct emissions,30.000000000000004,11.900498297411342
+Water scarcity,S&P-Very Ambitious,Direct emissions,40.000000000000014,12.308064174513387
+Water scarcity,S&P-Very Ambitious,Direct emissions,50.0,12.715630051615431
+Water scarcity,S&P-Very Ambitious,Direct emissions,60.00000000000001,13.123195928717477
+Water scarcity,S&P-Very Ambitious,Direct emissions,70.00000000000001,13.530761805819523
+Water scarcity,S&P-Very Ambitious,Direct emissions,80.0,13.938327682921567
+Water scarcity,S&P-Very Ambitious,Direct emissions,90.00000000000001,14.345893560023612
+Water scarcity,S&P-Very Ambitious,Direct emissions,100.0,14.753459437125654

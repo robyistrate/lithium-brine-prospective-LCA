@@ -1,0 +1,93 @@
+Lithium scenario,Year,Impact,Technology,Total
+S&P-Baseline,2020,Climate change,Ion exchangers,0.1120137428661853
+S&P-Baseline,2020,Climate change,DLE,1.3635493390621085
+S&P-Baseline,2020,Climate change,Evaporative ponds,0.408224413696976
+S&P-Baseline,2020,Water scarcity,Ion exchangers,0.07541009309037196
+S&P-Baseline,2020,Water scarcity,DLE,0.46675824443031877
+S&P-Baseline,2020,Water scarcity,Evaporative ponds,0.679832156893837
+S&P-Baseline,2025,Climate change,Ion exchangers,0.4043143763541737
+S&P-Baseline,2025,Climate change,DLE,3.1148236340151683
+S&P-Baseline,2025,Climate change,Evaporative ponds,1.100564958374399
+S&P-Baseline,2025,Water scarcity,Ion exchangers,0.15317566068530836
+S&P-Baseline,2025,Water scarcity,DLE,1.0606333184679686
+S&P-Baseline,2025,Water scarcity,Evaporative ponds,1.7555893740318267
+S&P-Baseline,2030,Climate change,Ion exchangers,0.44980013984163214
+S&P-Baseline,2030,Climate change,DLE,5.3575415820826775
+S&P-Baseline,2030,Climate change,Evaporative ponds,1.2433080037841826
+S&P-Baseline,2030,Water scarcity,Ion exchangers,0.17505154037338966
+S&P-Baseline,2030,Water scarcity,DLE,1.900002368357776
+S&P-Baseline,2030,Water scarcity,Evaporative ponds,2.0772716411268815
+S&P-Baseline,2035,Climate change,Ion exchangers,0.4235471478340409
+S&P-Baseline,2035,Climate change,DLE,6.884321993929266
+S&P-Baseline,2035,Climate change,Evaporative ponds,1.1695464452912692
+S&P-Baseline,2035,Water scarcity,Ion exchangers,0.18727424310125745
+S&P-Baseline,2035,Water scarcity,DLE,2.6276342843714837
+S&P-Baseline,2035,Water scarcity,Evaporative ponds,2.0355419732637223
+S&P-Ambitious,2020,Climate change,Ion exchangers,0.1120137428661853
+S&P-Ambitious,2020,Climate change,DLE,1.3635493390621085
+S&P-Ambitious,2020,Climate change,Evaporative ponds,0.408224413696976
+S&P-Ambitious,2020,Water scarcity,Ion exchangers,0.07541009309037196
+S&P-Ambitious,2020,Water scarcity,DLE,0.46675824443031877
+S&P-Ambitious,2020,Water scarcity,Evaporative ponds,0.679832156893837
+S&P-Ambitious,2025,Climate change,DLE,6.556410280511374
+S&P-Ambitious,2025,Climate change,Ion exchangers,0.4043143763541736
+S&P-Ambitious,2025,Climate change,Modelled as average,0.11111750469151441
+S&P-Ambitious,2025,Climate change,Evaporative ponds,1.2122810679874136
+S&P-Ambitious,2025,Water scarcity,DLE,2.391773214184176
+S&P-Ambitious,2025,Water scarcity,Ion exchangers,0.15317566068530833
+S&P-Ambitious,2025,Water scarcity,Modelled as average,0.08804796265984904
+S&P-Ambitious,2025,Water scarcity,Evaporative ponds,1.915797897969205
+S&P-Ambitious,2030,Climate change,DLE,9.736686441142382
+S&P-Ambitious,2030,Climate change,Ion exchangers,0.4498001398416321
+S&P-Ambitious,2030,Climate change,Modelled as average,0.2950572392009479
+S&P-Ambitious,2030,Climate change,Evaporative ponds,1.5996993139489266
+S&P-Ambitious,2030,Climate change,Geothermal,0.31676123673710876
+S&P-Ambitious,2030,Water scarcity,DLE,4.111795342244797
+S&P-Ambitious,2030,Water scarcity,Ion exchangers,0.17505154037338963
+S&P-Ambitious,2030,Water scarcity,Modelled as average,0.18990254946841886
+S&P-Ambitious,2030,Water scarcity,Evaporative ponds,2.7904010752806587
+S&P-Ambitious,2030,Water scarcity,Geothermal,0.08350530135656321
+S&P-Ambitious,2035,Climate change,DLE,12.051025059405893
+S&P-Ambitious,2035,Climate change,Ion exchangers,0.4235471478340409
+S&P-Ambitious,2035,Climate change,Modelled as average,0.3166608244556847
+S&P-Ambitious,2035,Climate change,Evaporative ponds,1.6622022949784125
+S&P-Ambitious,2035,Climate change,Geothermal,0.3711380471550294
+S&P-Ambitious,2035,Water scarcity,DLE,5.730242289857888
+S&P-Ambitious,2035,Water scarcity,Ion exchangers,0.18727424310125745
+S&P-Ambitious,2035,Water scarcity,Modelled as average,0.22320915697550886
+S&P-Ambitious,2035,Water scarcity,Evaporative ponds,3.0902464646044563
+S&P-Ambitious,2035,Water scarcity,Geothermal,0.09802021205012305
+S&P-Very Ambitious,2020,Climate change,Ion exchangers,0.1120137428661853
+S&P-Very Ambitious,2020,Climate change,DLE,1.3635493390621085
+S&P-Very Ambitious,2020,Climate change,Evaporative ponds,0.408224413696976
+S&P-Very Ambitious,2020,Water scarcity,Ion exchangers,0.07541009309037196
+S&P-Very Ambitious,2020,Water scarcity,DLE,0.46675824443031877
+S&P-Very Ambitious,2020,Water scarcity,Evaporative ponds,0.679832156893837
+S&P-Very Ambitious,2025,Climate change,DLE,6.56904357209406
+S&P-Very Ambitious,2025,Climate change,Ion exchangers,0.40431437635417367
+S&P-Very Ambitious,2025,Climate change,Modelled as average,0.48048685255131973
+S&P-Very Ambitious,2025,Climate change,Evaporative ponds,1.2122810679874139
+S&P-Very Ambitious,2025,Water scarcity,DLE,2.4027434725741466
+S&P-Very Ambitious,2025,Water scarcity,Ion exchangers,0.15317566068530836
+S&P-Very Ambitious,2025,Water scarcity,Modelled as average,0.2553517363793386
+S&P-Very Ambitious,2025,Water scarcity,Evaporative ponds,1.915797897969205
+S&P-Very Ambitious,2030,Climate change,DLE,12.29337670937552
+S&P-Very Ambitious,2030,Climate change,Ion exchangers,0.4498001398416322
+S&P-Very Ambitious,2030,Climate change,Evaporative ponds,1.7131129149155926
+S&P-Very Ambitious,2030,Climate change,Modelled as average,1.920314687831597
+S&P-Very Ambitious,2030,Climate change,Geothermal,0.31676123673710876
+S&P-Very Ambitious,2030,Water scarcity,DLE,5.696731839934401
+S&P-Very Ambitious,2030,Water scarcity,Ion exchangers,0.17505154037338966
+S&P-Very Ambitious,2030,Water scarcity,Evaporative ponds,2.838042713265503
+S&P-Very Ambitious,2030,Water scarcity,Modelled as average,1.2944065489224192
+S&P-Very Ambitious,2030,Water scarcity,Geothermal,0.08350530135656321
+S&P-Very Ambitious,2035,Climate change,DLE,16.152265154889864
+S&P-Very Ambitious,2035,Climate change,Ion exchangers,0.4235471478340409
+S&P-Very Ambitious,2035,Climate change,Evaporative ponds,1.7704307225455949
+S&P-Very Ambitious,2035,Climate change,Modelled as average,2.0637802845722684
+S&P-Very Ambitious,2035,Climate change,Geothermal,0.37113804715502946
+S&P-Very Ambitious,2035,Water scarcity,DLE,8.461062619970056
+S&P-Very Ambitious,2035,Water scarcity,Ion exchangers,0.18727424310125745
+S&P-Very Ambitious,2035,Water scarcity,Evaporative ponds,3.1404806370107154
+S&P-Very Ambitious,2035,Water scarcity,Modelled as average,1.4778739940386088
+S&P-Very Ambitious,2035,Water scarcity,Geothermal,0.09802021205012307

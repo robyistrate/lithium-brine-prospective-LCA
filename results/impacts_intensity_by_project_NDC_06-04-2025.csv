@@ -1,0 +1,325 @@
+Impact,Lithium scenario,Year,Country,Project name,Intensity
+Climate change,S&P-Baseline,2020,US,Silver Peak,2.795243548509153
+Climate change,S&P-Baseline,2020,AR,Salar de Olaroz,7.050940058806722
+Climate change,S&P-Baseline,2020,AR,Fenix,29.63884386985609
+Climate change,S&P-Baseline,2020,CL,Salar de Atacama,3.6383637584400708
+Climate change,S&P-Baseline,2020,CN,East Taijinar,29.159056638264993
+Climate change,S&P-Baseline,2020,CN,Chaerhan,37.10567842815364
+Climate change,S&P-Baseline,2025,CL,Salar de Atacama,3.301261222457792
+Climate change,S&P-Baseline,2025,CN,East Taijinar,27.53546183893031
+Climate change,S&P-Baseline,2025,CN,Zhabuye,17.531395025675558
+Climate change,S&P-Baseline,2025,CN,Chaerhan,35.34815468113553
+Climate change,S&P-Baseline,2025,US,Silver Peak,2.5938688378930097
+Climate change,S&P-Baseline,2025,AR,Salar de Olaroz,6.882718524075722
+Climate change,S&P-Baseline,2025,AR,Fenix,28.969884351723408
+Climate change,S&P-Baseline,2025,AR,Salar de Cauchari-Olaroz,5.038733423271198
+Climate change,S&P-Baseline,2025,AR,Sal de los Angeles,39.89913197789623
+Climate change,S&P-Baseline,2030,US,Silver Peak,2.173927026171204
+Climate change,S&P-Baseline,2030,CL,Salar de Atacama,3.043050335035354
+Climate change,S&P-Baseline,2030,AR,Salar de Olaroz,6.6108571709547554
+Climate change,S&P-Baseline,2030,AR,Fenix,27.760021620941327
+Climate change,S&P-Baseline,2030,AR,Salar de Cauchari-Olaroz,4.736765532890422
+Climate change,S&P-Baseline,2030,AR,Sal de los Angeles,38.07445279923452
+Climate change,S&P-Baseline,2030,CN,East Taijinar,25.57408020466833
+Climate change,S&P-Baseline,2030,CN,Zhabuye,17.105087194427185
+Climate change,S&P-Baseline,2030,CN,Chaerhan,33.286848352819554
+Climate change,S&P-Baseline,2035,CL,Salar de Atacama,2.9148498084285865
+Climate change,S&P-Baseline,2035,AR,Salar de Olaroz,6.397933985955176
+Climate change,S&P-Baseline,2035,AR,Fenix,26.745672454874462
+Climate change,S&P-Baseline,2035,AR,Salar de Cauchari-Olaroz,4.464453318377198
+Climate change,S&P-Baseline,2035,AR,Sal de los Angeles,36.52402271265777
+Climate change,S&P-Baseline,2035,CN,East Taijinar,23.751208921075403
+Climate change,S&P-Baseline,2035,CN,Zhabuye,16.67879030960884
+Climate change,S&P-Baseline,2035,CN,Chaerhan,31.180340355113884
+Climate change,S&P-Baseline,2035,US,Silver Peak,1.9192493890302407
+Climate change,S&P-Ambitious,2020,AR,Salar de Olaroz,7.050940058806722
+Climate change,S&P-Ambitious,2020,AR,Fenix,29.63884386985609
+Climate change,S&P-Ambitious,2020,US,Silver Peak,2.795243548509153
+Climate change,S&P-Ambitious,2020,CN,East Taijinar,29.159056638264993
+Climate change,S&P-Ambitious,2020,CN,Chaerhan,37.10567842815364
+Climate change,S&P-Ambitious,2020,CL,Salar de Atacama,3.6383637584400708
+Climate change,S&P-Ambitious,2025,BO,Salar de Uyuni,33.34672587735723
+Climate change,S&P-Ambitious,2025,CL,Salar de Atacama,3.301261222457792
+Climate change,S&P-Ambitious,2025,CN,East Taijinar,27.53546183893031
+Climate change,S&P-Ambitious,2025,CN,Lakkor Tso,44.790670316391186
+Climate change,S&P-Ambitious,2025,CN,Qinghai Yiliping,34.10343471507669
+Climate change,S&P-Ambitious,2025,CN,Zhabuye,17.531395025675558
+Climate change,S&P-Ambitious,2025,CN,Chaerhan,35.34815468113553
+Climate change,S&P-Ambitious,2025,US,Silver Peak,2.5938688378930097
+Climate change,S&P-Ambitious,2025,AR,Salar del Rincon,37.18475173541122
+Climate change,S&P-Ambitious,2025,AR,Salar de Olaroz,6.882718524075722
+Climate change,S&P-Ambitious,2025,AR,Salar de Centenario,32.250032143077156
+Climate change,S&P-Ambitious,2025,AR,Fenix,28.969884351723408
+Climate change,S&P-Ambitious,2025,AR,Salar de Cauchari-Olaroz,5.038733423271198
+Climate change,S&P-Ambitious,2025,AR,Sal de los Angeles,39.89913197789623
+Climate change,S&P-Ambitious,2025,AR,Tres Quebradas,5.47440141191821
+Climate change,S&P-Ambitious,2030,US,Silver Peak,2.173927026171204
+Climate change,S&P-Ambitious,2030,CL,Maricunga,6.179390490224108
+Climate change,S&P-Ambitious,2030,CL,Salar de Atacama,3.043050335035354
+Climate change,S&P-Ambitious,2030,BO,Salar de Uyuni,31.427934591177973
+Climate change,S&P-Ambitious,2030,DE,Upper Rhine Graben,17.854957878850374
+Climate change,S&P-Ambitious,2030,CN,East Taijinar,25.57408020466833
+Climate change,S&P-Ambitious,2030,CN,Lakkor Tso,42.509264001752975
+Climate change,S&P-Ambitious,2030,CN,Qinghai Yiliping,32.06146812815233
+Climate change,S&P-Ambitious,2030,CN,Zhabuye,17.105087194427185
+Climate change,S&P-Ambitious,2030,CN,Chaerhan,33.286848352819554
+Climate change,S&P-Ambitious,2030,AR,Salar del Rincon,35.258675515983356
+Climate change,S&P-Ambitious,2030,AR,Salar de Olaroz,6.6108571709547554
+Climate change,S&P-Ambitious,2030,AR,Salar de Centenario,30.808673816496313
+Climate change,S&P-Ambitious,2030,AR,Sal de Vida,2.037674853292377
+Climate change,S&P-Ambitious,2030,AR,Fenix,27.760021620941327
+Climate change,S&P-Ambitious,2030,AR,Salar de Cauchari-Olaroz,4.736765532890422
+Climate change,S&P-Ambitious,2030,AR,Sal de los Angeles,38.07445279923452
+Climate change,S&P-Ambitious,2030,AR,Tres Quebradas,5.155503435537403
+Climate change,S&P-Ambitious,2030,AR,Salar de Pastos Grandes,3.2297035985824376
+Climate change,S&P-Ambitious,2035,BO,Salar de Uyuni,29.984873138806933
+Climate change,S&P-Ambitious,2035,CL,Maricunga,5.989687180627924
+Climate change,S&P-Ambitious,2035,CL,Salar de Atacama,2.9148498084285865
+Climate change,S&P-Ambitious,2035,US,Silver Peak,1.9192493890302407
+Climate change,S&P-Ambitious,2035,AR,Salar del Rincon,33.63533017502745
+Climate change,S&P-Ambitious,2035,AR,Salar de Olaroz,6.397933985955176
+Climate change,S&P-Ambitious,2035,AR,Salar de Centenario,29.598613448935794
+Climate change,S&P-Ambitious,2035,AR,Sal de Vida,1.920080009609483
+Climate change,S&P-Ambitious,2035,AR,Fenix,26.745672454874462
+Climate change,S&P-Ambitious,2035,AR,Salar de Cauchari-Olaroz,4.464453318377198
+Climate change,S&P-Ambitious,2035,AR,Sal de los Angeles,36.52402271265777
+Climate change,S&P-Ambitious,2035,AR,Tres Quebradas,4.877962279136933
+Climate change,S&P-Ambitious,2035,AR,Salar de Pastos Grandes,2.9712090746574304
+Climate change,S&P-Ambitious,2035,DE,Upper Rhine Graben,16.73602304992016
+Climate change,S&P-Ambitious,2035,CN,East Taijinar,23.751208921075403
+Climate change,S&P-Ambitious,2035,CN,Lakkor Tso,40.172071687136
+Climate change,S&P-Ambitious,2035,CN,Qinghai Yiliping,29.975479188722524
+Climate change,S&P-Ambitious,2035,CN,Zhabuye,16.67879030960884
+Climate change,S&P-Ambitious,2035,CN,Chaerhan,31.180340355113884
+Climate change,S&P-Very Ambitious,2020,US,Silver Peak,2.795243548509153
+Climate change,S&P-Very Ambitious,2020,CN,East Taijinar,29.159056638264993
+Climate change,S&P-Very Ambitious,2020,CN,Chaerhan,37.10567842815364
+Climate change,S&P-Very Ambitious,2020,AR,Salar de Olaroz,7.050940058806722
+Climate change,S&P-Very Ambitious,2020,AR,Fenix,29.63884386985609
+Climate change,S&P-Very Ambitious,2020,CL,Salar de Atacama,3.6383637584400708
+Climate change,S&P-Very Ambitious,2025,US,Silver Peak,2.5938688378930097
+Climate change,S&P-Very Ambitious,2025,CL,Salar de Atacama,3.301261222457792
+Climate change,S&P-Very Ambitious,2025,AR,Salar del Rincon,37.18475173541122
+Climate change,S&P-Very Ambitious,2025,AR,Salar de Olaroz,6.882718524075722
+Climate change,S&P-Very Ambitious,2025,AR,Salar de Centenario,32.250032143077156
+Climate change,S&P-Very Ambitious,2025,AR,Pozuelos,49.34879524486734
+Climate change,S&P-Very Ambitious,2025,AR,Fenix,28.969884351723408
+Climate change,S&P-Very Ambitious,2025,AR,Salar de Cauchari-Olaroz,5.038733423271198
+Climate change,S&P-Very Ambitious,2025,AR,Sal de los Angeles,39.89913197789623
+Climate change,S&P-Very Ambitious,2025,AR,Tres Quebradas,5.47440141191821
+Climate change,S&P-Very Ambitious,2025,BO,Salar de Uyuni,33.34672587735723
+Climate change,S&P-Very Ambitious,2025,CN,East Taijinar,27.53546183893031
+Climate change,S&P-Very Ambitious,2025,CN,Lakkor Tso,44.790670316391186
+Climate change,S&P-Very Ambitious,2025,CN,Qinghai Yiliping,34.10343471507669
+Climate change,S&P-Very Ambitious,2025,CN,Zhabuye,17.531395025675558
+Climate change,S&P-Very Ambitious,2025,CN,Chaerhan,35.34815468113553
+Climate change,S&P-Very Ambitious,2030,DE,Upper Rhine Graben,17.854957878850374
+Climate change,S&P-Very Ambitious,2030,BO,Salar de Uyuni,31.427934591177973
+Climate change,S&P-Very Ambitious,2030,US,Silver Peak,2.173927026171204
+Climate change,S&P-Very Ambitious,2030,CN,East Taijinar,25.57408020466833
+Climate change,S&P-Very Ambitious,2030,CN,Lakkor Tso,42.509264001752975
+Climate change,S&P-Very Ambitious,2030,CN,Qinghai Yiliping,32.06146812815233
+Climate change,S&P-Very Ambitious,2030,CN,Zhabuye,17.105087194427185
+Climate change,S&P-Very Ambitious,2030,CN,Chaerhan,33.286848352819554
+Climate change,S&P-Very Ambitious,2030,AR,Salar del Rincon,35.258675515983356
+Climate change,S&P-Very Ambitious,2030,AR,Salar de Olaroz,6.6108571709547554
+Climate change,S&P-Very Ambitious,2030,AR,Salar de Centenario,30.808673816496313
+Climate change,S&P-Very Ambitious,2030,AR,Salar del Hombre Muerto North,7.270102626068324
+Climate change,S&P-Very Ambitious,2030,AR,Salar de Tolillar,32.59638048109674
+Climate change,S&P-Very Ambitious,2030,AR,Sal de Vida,2.037674853292377
+Climate change,S&P-Very Ambitious,2030,AR,Pozuelos,46.909213087696585
+Climate change,S&P-Very Ambitious,2030,AR,Fenix,27.760021620941327
+Climate change,S&P-Very Ambitious,2030,AR,Kachi,38.33029504239349
+Climate change,S&P-Very Ambitious,2030,AR,Salar de Cauchari-Olaroz,4.736765532890422
+Climate change,S&P-Very Ambitious,2030,AR,Sal de los Angeles,38.07445279923452
+Climate change,S&P-Very Ambitious,2030,AR,Tres Quebradas,5.155503435537403
+Climate change,S&P-Very Ambitious,2030,AR,Salar de Pastos Grandes,3.2297035985824376
+Climate change,S&P-Very Ambitious,2030,AR,Salar de Arizaro,44.70243723032886
+Climate change,S&P-Very Ambitious,2030,CL,Maricunga,6.179390490224108
+Climate change,S&P-Very Ambitious,2030,CL,Salar de Atacama,3.043050335035354
+Climate change,S&P-Very Ambitious,2035,US,Silver Peak,1.9192493890302407
+Climate change,S&P-Very Ambitious,2035,CN,East Taijinar,23.751208921075403
+Climate change,S&P-Very Ambitious,2035,CN,Lakkor Tso,40.172071687136
+Climate change,S&P-Very Ambitious,2035,CN,Qinghai Yiliping,29.975479188722524
+Climate change,S&P-Very Ambitious,2035,CN,Zhabuye,16.67879030960884
+Climate change,S&P-Very Ambitious,2035,CN,Chaerhan,31.180340355113884
+Climate change,S&P-Very Ambitious,2035,AR,Salar del Rincon,33.63533017502745
+Climate change,S&P-Very Ambitious,2035,AR,Salar de Olaroz,6.397933985955176
+Climate change,S&P-Very Ambitious,2035,AR,Salar de Centenario,29.598613448935794
+Climate change,S&P-Very Ambitious,2035,AR,Salar del Hombre Muerto North,6.937719715845006
+Climate change,S&P-Very Ambitious,2035,AR,Salar de Tolillar,31.337317365790344
+Climate change,S&P-Very Ambitious,2035,AR,Sal de Vida,1.920080009609483
+Climate change,S&P-Very Ambitious,2035,AR,Pozuelos,44.83673142790942
+Climate change,S&P-Very Ambitious,2035,AR,Fenix,26.745672454874462
+Climate change,S&P-Very Ambitious,2035,AR,Kachi,36.85726564609409
+Climate change,S&P-Very Ambitious,2035,AR,Salar de Cauchari-Olaroz,4.464453318377198
+Climate change,S&P-Very Ambitious,2035,AR,Sal de los Angeles,36.52402271265777
+Climate change,S&P-Very Ambitious,2035,AR,Tres Quebradas,4.877962279136933
+Climate change,S&P-Very Ambitious,2035,AR,Salar de Pastos Grandes,2.9712090746574304
+Climate change,S&P-Very Ambitious,2035,AR,Salar de Arizaro,42.05094309398306
+Climate change,S&P-Very Ambitious,2035,CL,Maricunga,5.989687180627924
+Climate change,S&P-Very Ambitious,2035,CL,Salar de Atacama,2.9148498084285865
+Climate change,S&P-Very Ambitious,2035,DE,Upper Rhine Graben,16.73602304992016
+Climate change,S&P-Very Ambitious,2035,BO,Salar de Uyuni,29.984873138806933
+Water scarcity,S&P-Baseline,2020,AR,Salar de Olaroz,2.893441250814291
+Water scarcity,S&P-Baseline,2020,AR,Fenix,10.363535922023628
+Water scarcity,S&P-Baseline,2020,CL,Salar de Atacama,6.059110132743644
+Water scarcity,S&P-Baseline,2020,CN,East Taijinar,12.177182868797914
+Water scarcity,S&P-Baseline,2020,CN,Chaerhan,10.84482171505801
+Water scarcity,S&P-Baseline,2020,US,Silver Peak,4.091448649816396
+Water scarcity,S&P-Baseline,2025,AR,Salar de Olaroz,2.951134356635592
+Water scarcity,S&P-Baseline,2025,AR,Fenix,10.484902102510224
+Water scarcity,S&P-Baseline,2025,AR,Salar de Cauchari-Olaroz,2.7235950075459225
+Water scarcity,S&P-Baseline,2025,AR,Sal de los Angeles,12.514768697805627
+Water scarcity,S&P-Baseline,2025,CN,East Taijinar,12.048147886075654
+Water scarcity,S&P-Baseline,2025,CN,Zhabuye,3.255948674382302
+Water scarcity,S&P-Baseline,2025,CN,Chaerhan,10.738822857663013
+Water scarcity,S&P-Baseline,2025,CL,Salar de Atacama,6.041992183879649
+Water scarcity,S&P-Baseline,2025,US,Silver Peak,4.06870424951914
+Water scarcity,S&P-Baseline,2030,AR,Salar de Olaroz,2.96474980059502
+Water scarcity,S&P-Baseline,2030,AR,Fenix,10.482439447712665
+Water scarcity,S&P-Baseline,2030,AR,Salar de Cauchari-Olaroz,2.7278755999669273
+Water scarcity,S&P-Baseline,2030,AR,Sal de los Angeles,12.464142715633033
+Water scarcity,S&P-Baseline,2030,US,Silver Peak,4.033212712846026
+Water scarcity,S&P-Baseline,2030,CN,East Taijinar,11.886865960882808
+Water scarcity,S&P-Baseline,2030,CN,Zhabuye,3.2287633970420195
+Water scarcity,S&P-Baseline,2030,CN,Chaerhan,10.639291214837796
+Water scarcity,S&P-Baseline,2030,CL,Salar de Atacama,6.025192217641922
+Water scarcity,S&P-Baseline,2035,AR,Salar de Olaroz,3.1791540622365204
+Water scarcity,S&P-Baseline,2035,AR,Fenix,11.006732121217066
+Water scarcity,S&P-Baseline,2035,AR,Salar de Cauchari-Olaroz,2.879222599696064
+Water scarcity,S&P-Baseline,2035,AR,Sal de los Angeles,13.002789652917548
+Water scarcity,S&P-Baseline,2035,CL,Salar de Atacama,6.017844076987891
+Water scarcity,S&P-Baseline,2035,US,Silver Peak,4.005879451283902
+Water scarcity,S&P-Baseline,2035,CN,East Taijinar,11.725082105466857
+Water scarcity,S&P-Baseline,2035,CN,Zhabuye,3.203914736852462
+Water scarcity,S&P-Baseline,2035,CN,Chaerhan,10.525905418335888
+Water scarcity,S&P-Ambitious,2020,CN,East Taijinar,12.177182868797914
+Water scarcity,S&P-Ambitious,2020,CN,Chaerhan,10.84482171505801
+Water scarcity,S&P-Ambitious,2020,AR,Salar de Olaroz,2.893441250814291
+Water scarcity,S&P-Ambitious,2020,AR,Fenix,10.363535922023628
+Water scarcity,S&P-Ambitious,2020,US,Silver Peak,4.091448649816396
+Water scarcity,S&P-Ambitious,2020,CL,Salar de Atacama,6.059110132743644
+Water scarcity,S&P-Ambitious,2025,US,Silver Peak,4.06870424951914
+Water scarcity,S&P-Ambitious,2025,AR,Salar del Rincon,16.525871647165317
+Water scarcity,S&P-Ambitious,2025,AR,Salar de Olaroz,2.951134356635592
+Water scarcity,S&P-Ambitious,2025,AR,Salar de Centenario,12.916689203620283
+Water scarcity,S&P-Ambitious,2025,AR,Fenix,10.484902102510224
+Water scarcity,S&P-Ambitious,2025,AR,Salar de Cauchari-Olaroz,2.7235950075459225
+Water scarcity,S&P-Ambitious,2025,AR,Sal de los Angeles,12.514768697805627
+Water scarcity,S&P-Ambitious,2025,AR,Tres Quebradas,7.850665160845708
+Water scarcity,S&P-Ambitious,2025,BO,Salar de Uyuni,32.96304211297244
+Water scarcity,S&P-Ambitious,2025,CL,Salar de Atacama,6.041992183879649
+Water scarcity,S&P-Ambitious,2025,CN,East Taijinar,12.048147886075654
+Water scarcity,S&P-Ambitious,2025,CN,Lakkor Tso,15.228137131010078
+Water scarcity,S&P-Ambitious,2025,CN,Qinghai Yiliping,13.89856576239658
+Water scarcity,S&P-Ambitious,2025,CN,Zhabuye,3.255948674382302
+Water scarcity,S&P-Ambitious,2025,CN,Chaerhan,10.738822857663013
+Water scarcity,S&P-Ambitious,2030,CN,East Taijinar,11.886865960882808
+Water scarcity,S&P-Ambitious,2030,CN,Lakkor Tso,15.120401442959208
+Water scarcity,S&P-Ambitious,2030,CN,Qinghai Yiliping,13.799633174623251
+Water scarcity,S&P-Ambitious,2030,CN,Zhabuye,3.2287633970420195
+Water scarcity,S&P-Ambitious,2030,CN,Chaerhan,10.639291214837796
+Water scarcity,S&P-Ambitious,2030,US,Silver Peak,4.033212712846026
+Water scarcity,S&P-Ambitious,2030,BO,Salar de Uyuni,32.03702424772211
+Water scarcity,S&P-Ambitious,2030,DE,Upper Rhine Graben,4.706963685773087
+Water scarcity,S&P-Ambitious,2030,AR,Salar del Rincon,16.449232383924606
+Water scarcity,S&P-Ambitious,2030,AR,Salar de Olaroz,2.96474980059502
+Water scarcity,S&P-Ambitious,2030,AR,Salar de Centenario,12.892628003498249
+Water scarcity,S&P-Ambitious,2030,AR,Sal de Vida,2.033087380395277
+Water scarcity,S&P-Ambitious,2030,AR,Fenix,10.482439447712665
+Water scarcity,S&P-Ambitious,2030,AR,Salar de Cauchari-Olaroz,2.7278755999669273
+Water scarcity,S&P-Ambitious,2030,AR,Sal de los Angeles,12.464142715633033
+Water scarcity,S&P-Ambitious,2030,AR,Tres Quebradas,7.863586710236066
+Water scarcity,S&P-Ambitious,2030,AR,Salar de Pastos Grandes,11.520614026474634
+Water scarcity,S&P-Ambitious,2030,CL,Maricunga,17.65555355133982
+Water scarcity,S&P-Ambitious,2030,CL,Salar de Atacama,6.025192217641922
+Water scarcity,S&P-Ambitious,2035,AR,Salar del Rincon,16.923244726212985
+Water scarcity,S&P-Ambitious,2035,AR,Salar de Olaroz,3.1791540622365204
+Water scarcity,S&P-Ambitious,2035,AR,Salar de Centenario,13.41220144971325
+Water scarcity,S&P-Ambitious,2035,AR,Sal de Vida,2.1661734451954384
+Water scarcity,S&P-Ambitious,2035,AR,Fenix,11.006732121217066
+Water scarcity,S&P-Ambitious,2035,AR,Salar de Cauchari-Olaroz,2.879222599696064
+Water scarcity,S&P-Ambitious,2035,AR,Sal de los Angeles,13.002789652917548
+Water scarcity,S&P-Ambitious,2035,AR,Tres Quebradas,8.07039166756686
+Water scarcity,S&P-Ambitious,2035,AR,Salar de Pastos Grandes,11.84026055478719
+Water scarcity,S&P-Ambitious,2035,DE,Upper Rhine Graben,4.420103357238594
+Water scarcity,S&P-Ambitious,2035,BO,Salar de Uyuni,31.09400655572529
+Water scarcity,S&P-Ambitious,2035,CN,East Taijinar,11.725082105466857
+Water scarcity,S&P-Ambitious,2035,CN,Lakkor Tso,14.998389467513812
+Water scarcity,S&P-Ambitious,2035,CN,Qinghai Yiliping,13.68678731167488
+Water scarcity,S&P-Ambitious,2035,CN,Zhabuye,3.203914736852462
+Water scarcity,S&P-Ambitious,2035,CN,Chaerhan,10.525905418335888
+Water scarcity,S&P-Ambitious,2035,CL,Maricunga,17.63724723742691
+Water scarcity,S&P-Ambitious,2035,CL,Salar de Atacama,6.017844076987891
+Water scarcity,S&P-Ambitious,2035,US,Silver Peak,4.005879451283902
+Water scarcity,S&P-Very Ambitious,2020,AR,Salar de Olaroz,2.893441250814291
+Water scarcity,S&P-Very Ambitious,2020,AR,Fenix,10.363535922023628
+Water scarcity,S&P-Very Ambitious,2020,CL,Salar de Atacama,6.059110132743644
+Water scarcity,S&P-Very Ambitious,2020,US,Silver Peak,4.091448649816396
+Water scarcity,S&P-Very Ambitious,2020,CN,East Taijinar,12.177182868797914
+Water scarcity,S&P-Very Ambitious,2020,CN,Chaerhan,10.84482171505801
+Water scarcity,S&P-Very Ambitious,2025,AR,Salar del Rincon,16.525871647165317
+Water scarcity,S&P-Very Ambitious,2025,AR,Salar de Olaroz,2.951134356635592
+Water scarcity,S&P-Very Ambitious,2025,AR,Salar de Centenario,12.916689203620283
+Water scarcity,S&P-Very Ambitious,2025,AR,Pozuelos,42.852571835822374
+Water scarcity,S&P-Very Ambitious,2025,AR,Fenix,10.484902102510224
+Water scarcity,S&P-Very Ambitious,2025,AR,Salar de Cauchari-Olaroz,2.7235950075459225
+Water scarcity,S&P-Very Ambitious,2025,AR,Sal de los Angeles,12.514768697805627
+Water scarcity,S&P-Very Ambitious,2025,AR,Tres Quebradas,7.850665160845708
+Water scarcity,S&P-Very Ambitious,2025,BO,Salar de Uyuni,32.96304211297244
+Water scarcity,S&P-Very Ambitious,2025,CN,East Taijinar,12.048147886075654
+Water scarcity,S&P-Very Ambitious,2025,CN,Lakkor Tso,15.228137131010078
+Water scarcity,S&P-Very Ambitious,2025,CN,Qinghai Yiliping,13.89856576239658
+Water scarcity,S&P-Very Ambitious,2025,CN,Zhabuye,3.255948674382302
+Water scarcity,S&P-Very Ambitious,2025,CN,Chaerhan,10.738822857663013
+Water scarcity,S&P-Very Ambitious,2025,US,Silver Peak,4.06870424951914
+Water scarcity,S&P-Very Ambitious,2025,CL,Salar de Atacama,6.041992183879649
+Water scarcity,S&P-Very Ambitious,2030,CL,Maricunga,17.65555355133982
+Water scarcity,S&P-Very Ambitious,2030,CL,Salar de Atacama,6.025192217641922
+Water scarcity,S&P-Very Ambitious,2030,DE,Upper Rhine Graben,4.706963685773087
+Water scarcity,S&P-Very Ambitious,2030,BO,Salar de Uyuni,32.03702424772211
+Water scarcity,S&P-Very Ambitious,2030,US,Silver Peak,4.033212712846026
+Water scarcity,S&P-Very Ambitious,2030,CN,East Taijinar,11.886865960882808
+Water scarcity,S&P-Very Ambitious,2030,CN,Lakkor Tso,15.120401442959208
+Water scarcity,S&P-Very Ambitious,2030,CN,Qinghai Yiliping,13.799633174623251
+Water scarcity,S&P-Very Ambitious,2030,CN,Zhabuye,3.2287633970420195
+Water scarcity,S&P-Very Ambitious,2030,CN,Chaerhan,10.639291214837796
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar del Rincon,16.449232383924606
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar de Olaroz,2.96474980059502
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar de Centenario,12.892628003498249
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar del Hombre Muerto North,3.05395115287458
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar de Tolillar,12.584346033902442
+Water scarcity,S&P-Very Ambitious,2030,AR,Sal de Vida,2.033087380395277
+Water scarcity,S&P-Very Ambitious,2030,AR,Pozuelos,42.74543092938119
+Water scarcity,S&P-Very Ambitious,2030,AR,Fenix,10.482439447712665
+Water scarcity,S&P-Very Ambitious,2030,AR,Kachi,16.140070310150012
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar de Cauchari-Olaroz,2.7278755999669273
+Water scarcity,S&P-Very Ambitious,2030,AR,Sal de los Angeles,12.464142715633033
+Water scarcity,S&P-Very Ambitious,2030,AR,Tres Quebradas,7.863586710236066
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar de Pastos Grandes,11.520614026474634
+Water scarcity,S&P-Very Ambitious,2030,AR,Salar de Arizaro,26.836408265472766
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar del Rincon,16.923244726212985
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar de Olaroz,3.1791540622365204
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar de Centenario,13.41220144971325
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar del Hombre Muerto North,3.2201392568114744
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar de Tolillar,13.230598897964182
+Water scarcity,S&P-Very Ambitious,2035,AR,Sal de Vida,2.1661734451954384
+Water scarcity,S&P-Very Ambitious,2035,AR,Pozuelos,43.27119399677376
+Water scarcity,S&P-Very Ambitious,2035,AR,Fenix,11.006732121217066
+Water scarcity,S&P-Very Ambitious,2035,AR,Kachi,16.85866880744342
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar de Cauchari-Olaroz,2.879222599696064
+Water scarcity,S&P-Very Ambitious,2035,AR,Sal de los Angeles,13.002789652917548
+Water scarcity,S&P-Very Ambitious,2035,AR,Tres Quebradas,8.07039166756686
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar de Pastos Grandes,11.84026055478719
+Water scarcity,S&P-Very Ambitious,2035,AR,Salar de Arizaro,27.21811270295056
+Water scarcity,S&P-Very Ambitious,2035,CN,East Taijinar,11.725082105466857
+Water scarcity,S&P-Very Ambitious,2035,CN,Lakkor Tso,14.998389467513812
+Water scarcity,S&P-Very Ambitious,2035,CN,Qinghai Yiliping,13.68678731167488
+Water scarcity,S&P-Very Ambitious,2035,CN,Zhabuye,3.203914736852462
+Water scarcity,S&P-Very Ambitious,2035,CN,Chaerhan,10.525905418335888
+Water scarcity,S&P-Very Ambitious,2035,DE,Upper Rhine Graben,4.420103357238594
+Water scarcity,S&P-Very Ambitious,2035,BO,Salar de Uyuni,31.09400655572529
+Water scarcity,S&P-Very Ambitious,2035,US,Silver Peak,4.005879451283902
+Water scarcity,S&P-Very Ambitious,2035,CL,Maricunga,17.63724723742691
+Water scarcity,S&P-Very Ambitious,2035,CL,Salar de Atacama,6.017844076987891

@@ -1,0 +1,107 @@
+{
+    "profile": "data-package",
+    "name": "iea_electricity_scenarios",
+    "title": "Future environmental impacts of global lithium production",
+    "description": "Datapackage that implements electricity mixes for Chile and Argentina based on IEA scenarios STEPS and APS.",
+    "source": "xxxxxxx",
+    "version": "0.0.1",
+    "contributors": [
+        {
+            "title": "Robert Istrate",
+            "email": "i.r.istrate@cml.leidenuniv.nl"
+        }
+    ],
+    "dependencies": {
+        "premise": ">=2.1.0"
+    },
+    "ecoinvent": {
+        "version": "3.10",
+        "system model": "cut-off"
+    },
+    "scenarios": {
+        "STEPS": [
+            {
+                "model": "remind",
+                "pathway": "SSP2-NDC"
+            }
+        ],
+        "APS": [
+            {
+                "model": "remind",
+                "pathway": "SSP2-PkBudg1150"
+            }
+        ]
+    },
+    "licenses": [
+        {
+            "id": "CC0-1.0",
+            "title": "CC0 1.0",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+        {
+            "path": "scenario_data/scenario_data_electricity.csv",
+            "profile": "tabular-data-resource",
+            "name": "scenario_data",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8-sig",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "scenario",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "region",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "variables",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2020",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2025",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2030",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2035",
+                        "type": "number",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "configuration_file/config_electricity.yaml",
+            "profile": "data-resource",
+            "name": "config",
+            "format": "yaml",
+            "mediatype": "text/yaml",
+            "encoding": "utf-8"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "profile": "data-package",
+    "name": "lithium_scenarios",
+    "title": "Future environmental impacts of global lithium production",
+    "description": "Datapackage that implements technologies and market shares for future lithium production, on the basis on S&P projections.",
+    "source": "xxxxxxx",
+    "version": "0.0.1",
+    "contributors": [
+        {
+            "title": "Robert Istrate",
+            "email": "i.r.istrate@cml.leidenuniv.nl"
+        }
+    ],
+    "dependencies": {
+        "premise": ">=2.1.0"
+    },
+    "ecoinvent": {
+        "version": "3.10",
+        "system model": "cut-off"
+    },
+    "scenarios": {
+        "S&P-Baseline": [
+            {
+                "model": "remind",
+                "pathway": "SSP2-NDC"
+            }
+        ],
+        "S&P-Ambitious": [
+            {
+                "model": "remind",
+                "pathway": "SSP2-NDC"
+            }
+        ],
+        "S&P-Very Ambitious": [
+            {
+                "model": "remind",
+                "pathway": "SSP2-NDC"
+            }
+        ]
+    },
+    "licenses": [
+        {
+            "id": "CC0-1.0",
+            "title": "CC0 1.0",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+        {
+            "path": "scenario_data/external/lithium_scenario_data_with_others_22-01-2025.csv",
+            "profile": "tabular-data-resource",
+            "name": "scenario_data",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8-sig",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "scenario",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "region",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "variables",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2020",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2025",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2030",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "2035",
+                        "type": "number",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        },
+        {
+            "path": "configuration_file/config_lithium.yaml",
+            "profile": "data-resource",
+            "name": "config",
+            "format": "yaml",
+            "mediatype": "text/yaml",
+            "encoding": "utf-8"
+        },
+        {
+            "path": "inventories/lci-lithium_brine_projects.xlsx",
+            "profile": "data-resource",
+            "name": "inventories",
+            "format": "xlsx",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "amount",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "database",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "categories",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "reference product",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
