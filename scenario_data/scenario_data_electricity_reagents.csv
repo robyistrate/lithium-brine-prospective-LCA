@@ -1,0 +1,113 @@
+scenario,region,variables,unit,2020,2025,2030,2035
+STEPS,CL,Production|Electricity|Coal,TWh/year,27.08,11.46,0,0
+STEPS,CL,Production|Electricity|Natural gas combined cycle,TWh/year,9.69,8.39,8.22,9
+STEPS,CL,Production|Electricity|Natural gas conventional,TWh/year,5.94,5.15,5.04,5.52
+STEPS,CL,Production|Electricity|Bioenergy,TWh/year,5.21,7.29,9.47,9.44
+STEPS,CL,Production|Electricity|Nuclear PWR,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro storage,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro reservoir alpine,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro reservoir non-alpine,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro reservoir tropical,TWh/year,0,0,0,0
+STEPS,CL,Production|Electricity|Hydro run-of-river,TWh/year,21.87,25,24.6,22.91
+STEPS,CL,Production|Electricity|Wind onshore,TWh/year,5.21,19.81,29.34,42.71
+STEPS,CL,Production|Electricity|Solar PV,TWh/year,9.37,16.65,17.03,18.75
+STEPS,CL,Production|Electricity|Medium to high,TWh/year,1.002,1.002,1.002,1.002
+STEPS,CL,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+APS,CL,Production|Electricity|Coal,TWh/year,27.08,6.57,0,0
+APS,CL,Production|Electricity|Natural gas combined cycle,TWh/year,9.69,9.5,5.43,0
+APS,CL,Production|Electricity|Natural gas conventional,TWh/year,5.94,5.82,3.33,0
+APS,CL,Production|Electricity|Bioenergy,TWh/year,5.21,6.57,8.76,12.04
+APS,CL,Production|Electricity|Nuclear PWR,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro storage,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro reservoir alpine,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro reservoir non-alpine,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro reservoir tropical,TWh/year,0,0,0,0
+APS,CL,Production|Electricity|Hydro run-of-river,TWh/year,21.87,22.99,25.18,30.66
+APS,CL,Production|Electricity|Wind onshore,TWh/year,5.21,21.9,41.61,49.27
+APS,CL,Production|Electricity|Solar PV,TWh/year,9.37,26.28,33.94,40.51
+APS,CL,Production|Electricity|Medium to high,TWh/year,1.002,1.002,1.002,1.002
+APS,CL,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+STEPS,AR,Production|Electricity|Coal,TWh/year,6.7,10,0,0
+STEPS,AR,Production|Electricity|Natural gas combined cycle,TWh/year,65.8,57.9,57.9,48.7
+STEPS,AR,Production|Electricity|Natural gas conventional,TWh/year,17.5,15.4,15.4,13
+STEPS,AR,Production|Electricity|Bioenergy,TWh/year,0,0,10,6.7
+STEPS,AR,Production|Electricity|Nuclear PWR,TWh/year,13.3,10,13.3,26.7
+STEPS,AR,Production|Electricity|Hydro storage,TWh/year,0.6,0.8,0.9,1
+STEPS,AR,Production|Electricity|Hydro reservoir alpine,TWh/year,7.1,10,11.2,12.5
+STEPS,AR,Production|Electricity|Hydro reservoir non-alpine,TWh/year,6.8,9.6,10.8,12
+STEPS,AR,Production|Electricity|Hydro reservoir tropical,TWh/year,12.7,18,20.2,22.5
+STEPS,AR,Production|Electricity|Hydro run-of-river,TWh/year,0.6,0.8,0.9,1
+STEPS,AR,Production|Electricity|Wind onshore,TWh/year,12.2,20.8,24.2,29.3
+STEPS,AR,Production|Electricity|Solar PV,TWh/year,0,0,10,18.3
+STEPS,AR,Production|Electricity|Medium to high,TWh/year,1.008,1.008,1.008,1.008
+STEPS,AR,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+APS,AR,Production|Electricity|Coal,TWh/year,6.7,11.3,0,0
+APS,AR,Production|Electricity|Natural gas combined cycle,TWh/year,65.8,58.6,61.2,54.8
+APS,AR,Production|Electricity|Natural gas conventional,TWh/year,17.5,15.6,16.3,14.6
+APS,AR,Production|Electricity|Bioenergy,TWh/year,0,0,6.5,8.1
+APS,AR,Production|Electricity|Nuclear PWR,TWh/year,13.3,12.9,14.5,27.4
+APS,AR,Production|Electricity|Hydro storage,TWh/year,0.6,0.7,0.9,1
+APS,AR,Production|Electricity|Hydro reservoir alpine,TWh/year,7.1,9.3,10.9,12.9
+APS,AR,Production|Electricity|Hydro reservoir non-alpine,TWh/year,6.8,8.9,10.5,12.4
+APS,AR,Production|Electricity|Hydro reservoir tropical,TWh/year,12.7,16.7,19.6,23.2
+APS,AR,Production|Electricity|Hydro run-of-river,TWh/year,0.6,0.7,0.9,1
+APS,AR,Production|Electricity|Wind onshore,TWh/year,12.2,18.5,28.3,36.5
+APS,AR,Production|Electricity|Solar PV,TWh/year,0,6.5,11.3,25.8
+APS,AR,Production|Electricity|Medium to high,TWh/year,1.008,1.008,1.008,1.008
+APS,AR,Production|Electricity|Low to medium,TWh/year,1.061,1.061,1.061,1.061
+STEPS,GLO,Efficiency|Quicklime|PFRK|Limestone,scalar,1,1,1.01,1.02
+STEPS,GLO,Efficiency|Quicklime|PFRK|Coal heat,scalar,1,1,1.317,1.927
+STEPS,GLO,Efficiency|Quicklime|PFRK|Natural gas heat,scalar,1,1,0.939,0.886
+STEPS,GLO,Efficiency|Quicklime|PFRK|Waste heat,scalar,1,1,1.061,1.13
+STEPS,GLO,Efficiency|Quicklime|PFRK|Oil heat,scalar,1,1,1.317,1.927
+STEPS,GLO,Efficiency|Quicklime|PFRK|Biomass heat,scalar,1,1,0.302,0.178
+STEPS,GLO,Efficiency|Quicklime|PFRK|Electricity,scalar,1,1,1.294,1.833
+STEPS,GLO,Efficiency|Quicklime|PFRK|Waste inert,scalar,1,1,1.507,3.059
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Limestone,scalar,1,1,1.01,1.02
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Coal heat,scalar,1,1,1.317,1.927
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Natural gas heat,scalar,1,1,0.939,0.886
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Waste heat,scalar,1,1,1.061,1.13
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Oil heat,scalar,1,1,1.317,1.927
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Biomass heat,scalar,1,1,0.302,0.178
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Electricity,scalar,1,1,1.066,1.141
+STEPS,GLO,Efficiency|Quicklime|PFRK with CCS|Waste inert,scalar,1,1,1.507,3.059
+STEPS,GLO,Production|Quicklime|PFRK,share,1,1,0.9,0.85
+STEPS,GLO,Production|Quicklime|PFRK with CCS,share,0,0,0.1,0.15
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Limestone,scalar,1,1,1.083,1.182
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Sodium chloride,scalar,1,1,1.032,1.067
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Ammonia makeup,scalar,1,1,1.289,1.813
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Coke,scalar,1,1,1.064,1.136
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Coal heat,scalar,1,1,1.875,15
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Natural gas heat,scalar,1,1,0.788,0.65
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Biomass heat,scalar,1,1,0.118,0.063
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Electricity,scalar,1,1,1.286,1.8
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Waste inert,scalar,1,1,1.631,4.417
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Water withdrawal,scalar,1,1,1.2,1.5
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Water cooling,scalar,1,1,1.2,1.5
+STEPS,GLO,Efficiency|Soda ash|Solvay process|Water evaporation,scalar,1,1,1.194,1.483
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Limestone,scalar,1,1,1.083,1.182
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Sodium chloride,scalar,1,1,1.032,1.067
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Ammonia makeup,scalar,1,1,1.289,1.813
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Coke,scalar,1,1,1.064,1.136
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Coal heat,scalar,1,1,2.026,14.593
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Natural gas heat,scalar,1,1,0.751,0.632
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Biomass heat,scalar,1,1,0.105,0.061
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Electricity,scalar,1,1,1.238,1.625
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Waste inert,scalar,1,1,1.631,4.417
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Water withdrawal,scalar,1,1,1.2,1.5
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Water cooling,scalar,1,1,1.2,1.5
+STEPS,GLO,Efficiency|Soda ash|Solvay process with CCS|Water evaporation,scalar,1,1,1.194,1.483
+STEPS,GLO,Efficiency|Soda ash|Trona process|Coal heat,scalar,1,1,1.875,15
+STEPS,GLO,Efficiency|Soda ash|Trona process|Natural gas heat,scalar,1,1,0.788,0.65
+STEPS,GLO,Efficiency|Soda ash|Trona process|Biomass heat,scalar,1,1,0.118,0.063
+STEPS,GLO,Efficiency|Soda ash|Trona process|Water withdrawal,scalar,1,1,1.081,1.176
+STEPS,GLO,Efficiency|Soda ash|Trona process|Water evaporation,scalar,1,1,1.081,1.176
+STEPS,GLO,Production|Soda ash|Solvay process,share,0.733,0.676,0.583,0.525
+STEPS,GLO,Production|Soda ash|Solvay process with CCS,share,0,0,0.065,0.093
+STEPS,GLO,Production|Soda ash|Trona process,share,0.267,0.324,0.352,0.382
+STEPS,GLO,Production|Sodium hydroxide|Membrane cell,share,0.828,0.828,0.914,1
+STEPS,GLO,Production|Sodium hydroxide|Diaphragm cell,share,0.148,0.148,0.074,0
+STEPS,GLO,Production|Sodium hydroxide|Mercury cell,share,0.024,0.024,0.012,0
+STEPS,GLO,Production|Chlorine|Membrane cell,share,0.835,0.835,0.918,1
+STEPS,GLO,Production|Chlorine|Diaphragm cell,share,0.142,0.142,0.071,0
+STEPS,GLO,Production|Chlorine|Mercury cell,share,0.023,0.023,0.011,0
