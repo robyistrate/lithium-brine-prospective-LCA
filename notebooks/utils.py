@@ -2,12 +2,11 @@
 Functions to perform LCA results analysis
 """
 
-from pathlib import Path
-import pandas as pd
-import brightway2 as bw
-import bw2analyzer as bwa
 import bw2calc as bc
 import bw2data as bd
+import bw2analyzer as bwa
+from pathlib import Path
+import pandas as pd
 from bw2io.utils import activity_hash
 import json
 from copy import deepcopy
@@ -30,12 +29,12 @@ def create_biosphere_water_regionalized(
     From: https://github.com/ecological-systems-design/Geothermal_brines/blob/main/src/BW2_calculations/lci_method_aware.py
     """
     
-    if bio_db_name not in bw.databases:
+    if bio_db_name not in bd.databases:
         raise ValueError(f"{bio_db_name} database not found")
     
     # The EF 3.1 water use method implemented in ecoinvent only accounts for
     # emissions of water to air
-    bio_acts = [act for act in bw.Database(bio_db_name) 
+    bio_acts = [act for act in bd.Database(bio_db_name) 
                 if "water" in act['name'].lower() and 'air' in act['categories']]
     
     # combine locations with original water biosphere flows
@@ -57,8 +56,8 @@ def create_biosphere_water_regionalized(
             dbname_code = (reg_bio_db_name, activity_hash(bio_act_data))
             biosphere_data[dbname_code] = bio_act_data
 
-    if reg_bio_db_name in bw.databases:
-        del bw.databases[reg_bio_db_name]
+    if reg_bio_db_name in bd.databases:
+        del bd.databases[reg_bio_db_name]
 
     new_bio_db = bd.Database(reg_bio_db_name)
     new_bio_db.write(biosphere_data)
@@ -126,7 +125,7 @@ def create_aware_method(
     # Add global average CFs for unspecified
     for flow in bio_db:
         if "water" in flow['name'].lower() and 'air' in flow['categories']:
-            aware_score = cf_aware.loc[cf_aware.Ecoinvent_match == "GLO", "Agg_CF_non_irri"].iloc[0]
+            aware_score = cf_aware.loc[cf_aware.Ecoinvent_match == "GLO", "Agg_CF_unspecified"].iloc[0]
             flows_list.append([flow.key, aware_score])
 
     # Write new BW method
@@ -161,15 +160,6 @@ def relink_to_regionalized_water(bio_reg, ds, location):
                 exc.update(
                     {"input": water_flow[0].key}
                 )
-
-def mapping_scenario_variables_to_ids(scenario_data):
-    """
-    Map scenario variables to variable ID.
-    The dict structure is varaiable id: variable
-    """
-    scenario_variables_to_ids = {i.split('|')[-1]: i for i in list(set(scenario_data["variables"]))}
-    return scenario_variables_to_ids
-
 
 def populate_prod_pathaways(config_file, var_id, var_lci, var_product, in_ecoinvent, regionalize, new_dataset, var):
     config_file["production pathways"].pop(var_id, None)
@@ -233,55 +223,97 @@ def recursive_calculation_cumulative_flows(
     
     return cumulative_flows
 
+def multi_lca(activities, impact_methods_obj):
+    calculation_setup = {}
+    calculation_setup["inventories"] = {ds["name"] + "|" + ds["reference product"] + "|" + ds["location"]: {ds.id: 1} for ds in activities}
+    calculation_setup["methods"] = impact_methods_obj
+    data_objs = bd.get_multilca_data_objs(functional_units=calculation_setup["inventories"], 
+                                          method_config=calculation_setup["methods"])
+    mlca= bc.MultiLCA(demands=calculation_setup["inventories"], 
+                      method_config=calculation_setup["methods"], 
+                      data_objs=data_objs)
+    mlca.lci()
+    mlca.lcia()
+    return mlca.scores
 
-def init_simple_lca(calculation_setup: dict[str, list[dict[str, float]]]) -> bc.LCA:
+
+def get_sensitivity_analysis_data(scenario_file):
     """
-    Initialize the LCA object with the given calculation setup
+    This function reads the data for the sensitivity analysis scenarios from an Excel file and prepares it into a dataframe for being used with presamples.
+    Secondly, it adds the bw ids for the involved activities.
     """
-    lca = bc.LCA(
-        demand=calculation_setup["inventories"][0], 
-        method=calculation_setup["methods"][0]
-    )
-    lca.lci()
-    return lca
 
+    # Import scenario df and remove empty rows
+    scenario_data = pd.read_excel(scenario_file).dropna(how="all")
+    scenario_label = list(scenario_data.columns)[10:]
 
-def mlca(
-    lca, 
-    calculation_setup, 
-    result_dict: dict = None, 
-    scenario_name: str = None
-    ) -> dict[tuple[str, tuple], dict[str, float]]:
-    """
-    Simple LCA calculation class to calculate scores for multiple activities and multiple methods.
+    # Map databases codes
+    UNIQUE_DBS = pd.concat([scenario_data['to_database'], scenario_data['from_database']]).unique().tolist()
+    map_bw_keys =  {}
+    for db in UNIQUE_DBS:
+        db_obj = bd.Database(db)
+        for ds in db_obj:
+            if "categories" in ds:
+                map_bw_keys[(ds['name'], ds["categories"])] = ds.id
+            else:
+                map_bw_keys[(ds['reference product'], ds['name'], ds['location'])] = ds.id
 
-    lca: LCA object
-    calculation_setup: dict
-        {"inv": list of dicts, "ia": list of methods}
-    result_dict: dict
-        dictionary to store results in
-        format is: (activity key) -> {method: score}
-    """
-    if not result_dict:
-        result_dict = {}
+    # add the bw code to scenario df (input = process, output = to_process)
+    scenario_data["input id"] = None
+    scenario_data["output id"] = None
+    for index, row in scenario_data.iterrows():
+        output_key = (row["to_reference product"], row["to_process"], row["to_location"])
 
-    # start actual calculation
-    methods = calculation_setup["methods"]
-
-    for i, demand in enumerate(calculation_setup["inventories"]):
-        key = list(demand.keys())[0]
-
-        # calculate the supply array and inventory for this demand
-        lca.redo_lci(demand)
-
-        # perform LCIA calculation for all methods in list, return dict of scores
-        mthd_scores = {}
-        for method in methods:
-            lca.switch_method(method)
-            lca.lcia_calculation()
-            mthd_scores[method] = lca.score
+        if row["from_type"] == "technosphere":
+            input_key = (row["from_reference_product"], row["from_process"], row["from_location"])
+        elif row["from_type"] == "biosphere":
+            input_key = (row["from_process"], tuple(row["from_categories"].split('::')))
     
-        # calculate the scores and top process contributors
-        result_dict[(key, scenario_name)] = mthd_scores
+        scenario_data.at[index, "input id"] = map_bw_keys.get(input_key, None)
+        scenario_data.at[index, "output id"] = map_bw_keys.get(output_key, None)
 
-    return result_dict
+    return scenario_label, scenario_data
+
+
+def run_scenario_lca_matrices(activities, impact_methods_obj, scenario_data_file):
+    """
+    Run scenario analysis using absolute flows from Excel applied directly to LCI matrices.
+    Returns DataFrame: rows = impact categories, columns = scenarios.
+    """
+    scenario_label, scenario_data = get_sensitivity_analysis_data(scenario_data_file)
+    results = {}
+
+    calculation_setup = {}
+    calculation_setup["inventories"] = {ds["name"] + "|" + ds["reference product"] + "|" + ds["location"]: {ds.id: 1} for ds in activities}
+    calculation_setup["methods"] = impact_methods_obj
+    data_objs = bd.get_multilca_data_objs(functional_units=calculation_setup["inventories"], 
+                                          method_config=calculation_setup["methods"])
+    for scenario_name in scenario_label:
+        
+        mlca= bc.MultiLCA(demands=calculation_setup["inventories"], 
+                          method_config=calculation_setup["methods"],
+                          data_objs=data_objs)
+        mlca.lci()  # build matrices
+
+        # Apply scenario flows to matrices
+        for _, row in scenario_data.iterrows():
+            if row['input'] is None or row['output'] is None:
+                continue
+            amount = row[scenario_name]
+
+            if row['from_type'] == "technosphere":
+                row_idx = mlca.technosphere_dict[row['input']]
+                col_idx = mlca.activity_dict[row['output']]
+                mlca.technosphere_matrix[row_idx, col_idx] = amount
+            elif row['from_type'] == "biosphere":
+                row_idx = mlca.biosphere_dict[row['input']]
+                col_idx = mlca.activity_dict[row['output']]
+                mlca.biosphere_matrix[row_idx, col_idx] = amount
+
+        # Redo LCI for updated matrices
+        mlca.redo_lci()
+        mlca.lcia()
+        results[scenario_name] = mlca.scores
+
+    return results
+

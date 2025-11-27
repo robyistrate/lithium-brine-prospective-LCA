@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
-    "name": "iea_electricity_scenarios",
-    "title": "Future environmental impacts of global lithium production",
-    "description": "Datapackage that implements electricity mixes for Chile and Argentina based on IEA scenarios STEPS and APS.",
+    "name": "electricity_reagents_scenarios",
+    "title": "Future climate and water scarcity impacts of direct lithium extraction deployment",
+    "description": "Datapackage that implements electricity mixes for Chile and Argentina based on IEA scenarios STEPS and APS and future changes in the production of reagents used in lithium processing.",
     "source": "xxxxxxx",
     "version": "0.0.1",
     "contributors": [
@@ -12,7 +12,7 @@
         }
     ],
     "dependencies": {
-        "premise": ">=2.1.0"
+        "premise": ">=2.2.0"
     },
     "ecoinvent": {
         "version": "3.10",
@@ -41,7 +41,7 @@
     ],
     "resources": [
         {
-            "path": "scenario_data/scenario_data_electricity.csv",
+            "path": "scenario_data/scenario_data_electricity_reagents.csv",
             "profile": "tabular-data-resource",
             "name": "scenario_data",
             "format": "csv",
@@ -96,12 +96,67 @@
             }
         },
         {
-            "path": "configuration_file/config_electricity.yaml",
+            "path": "configuration_file/config_electricity_reagents.yaml",
             "profile": "data-resource",
             "name": "config",
             "format": "yaml",
             "mediatype": "text/yaml",
             "encoding": "utf-8"
+        },
+                {
+            "path": "inventories/lci-reagents.xlsx",
+            "profile": "data-resource",
+            "name": "inventories",
+            "format": "xlsx",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "name",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "amount",
+                        "type": "number",
+                        "format": "default"
+                    },
+                    {
+                        "name": "database",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "categories",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "unit",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "type",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "reference product",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
         }
     ]
 }

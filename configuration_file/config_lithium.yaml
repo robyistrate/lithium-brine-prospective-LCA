@@ -1,78 +1,38 @@
 markets:
-- except regions:
-  - World
-  includes:
-  - Uyuni Salt Flat
-  - East Taijinair
-  - Salar del Rincon
-  - Salar de Olaroz
-  - Cuenca Centenario-Ratones
-  - Hombre Muerto North
-  - Maricunga
-  - Lakkor Tso Salt Lake
-  - Qinghai Yiliping
-  - Zhabuye
-  - Salar de Tolillar
-  - Silver Peak
-  - Sal de Vida
-  - PPG
-  - Salar de Atacama
-  - Vulcan
-  - Salar del Hombre Muerto
-  - Kachi
-  - Cauchari-Olaroz
-  - Sal de los Angeles
-  - Tres Quebradas
-  - Chaerhan Lake
-  - Pastos Grandes
-  - Salar De Arizaro
-  name: market for lithium carbonate, from brine, S&P forecasts, other projects
-  reference product: lithium carbonate
-  unit: kilogram
 - includes:
-  - Uyuni Salt Flat
-  - East Taijinair
-  - Salar del Rincon
-  - Salar de Olaroz
-  - Cuenca Centenario-Ratones
-  - Hombre Muerto North
-  - Maricunga
-  - Lakkor Tso Salt Lake
-  - Other projects
+  - Salar de Cauchari-Olaroz
+  - Chaerhan
+  - Salar de Centenario
+  - East Taijinar
+  - Lakkor Tso
   - Qinghai Yiliping
-  - Zhabuye
-  - Salar de Tolillar
-  - Silver Peak
-  - Sal de Vida
-  - PPG
   - Salar de Atacama
-  - Vulcan
-  - Salar del Hombre Muerto
-  - Kachi
-  - Cauchari-Olaroz
-  - Sal de los Angeles
+  - Salar de Olaroz
+  - Fenix
+  - Silver Peak
   - Tres Quebradas
-  - Chaerhan Lake
-  - Pastos Grandes
-  - Salar De Arizaro
+  - Zhabuye
+  - Sal de los Angeles
+  - Salar del Hombre Muerto North
+  - Kachi
+  - Maricunga
+  - Salar de Pastos Grandes
+  - Pozuelos
+  - Sal de Vida
+  - Salar de Arizaro
+  - Salar de Tolillar
+  - Salar del Rincon
+  - Salar de Uyuni
+  - Upper Rhine Graben
   name: market for lithium carbonate, from brine, S&P forecasts
-  reference product: lithium carbonate
+  reference product: lithium carbonate, battery-grade
   replaces:
   - location: GLO
     name: lithium carbonate production, from concentrated brine
     product: lithium carbonate
   unit: kilogram
 production pathways:
-  Cauchari-Olaroz:
-    ecoinvent alias:
-      exists in original database: false
-      name: df_rotary_dryer_Salar de Cauchari-Olaroz
-      new dataset: false
-      reference product: df_rotary_dryer
-      regionalize: false
-    production volume:
-      variable: Production|Lithium|Brine (Salar)|Cauchari-Olaroz
-  Chaerhan Lake:
+  Chaerhan:
     ecoinvent alias:
       exists in original database: false
       name: df_rotary_dryer_Chaerhan
@@ -81,16 +41,7 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Chaerhan Lake
-  Cuenca Centenario-Ratones:
-    ecoinvent alias:
-      exists in original database: false
-      name: df_rotary_dryer_Salar de Centenario
-      new dataset: false
-      reference product: df_rotary_dryer
-      regionalize: false
-    production volume:
-      variable: Production|Lithium|Brine (Salar)|Cuenca Centenario-Ratones
-  East Taijinair:
+  East Taijinar:
     ecoinvent alias:
       exists in original database: false
       name: df_rotary_dryer_East Taijinar
@@ -99,15 +50,15 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|East Taijinair
-  Hombre Muerto North:
+  Fenix:
     ecoinvent alias:
       exists in original database: false
-      name: df_rotary_dryer_Salar del Hombre Muerto North
+      name: df_rotary_dryer_Fenix
       new dataset: false
       reference product: df_rotary_dryer
       regionalize: false
     production volume:
-      variable: Production|Lithium|Brine (Salar)|Hombre Muerto North
+      variable: Production|Lithium|Brine (Salar)|Salar del Hombre Muerto
   Kachi:
     ecoinvent alias:
       exists in original database: false
@@ -117,7 +68,7 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Kachi
-  Lakkor Tso Salt Lake:
+  Lakkor Tso:
     ecoinvent alias:
       exists in original database: false
       name: df_rotary_dryer_Lakkor Tso
@@ -135,16 +86,7 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Maricunga
-  Other projects:
-    ecoinvent alias:
-      exists in original database: false
-      name: market for lithium carbonate, from brine, S&P forecasts, other projects
-      new dataset: true
-      reference product: lithium carbonate
-      regionalize: true
-    production volume:
-      variable: Production|Lithium|Brine (Salar)|Other projects
-  PPG:
+  Pozuelos:
     ecoinvent alias:
       exists in original database: false
       name: df_rotary_dryer_Pozuelos
@@ -153,15 +95,6 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|PPG
-  Pastos Grandes:
-    ecoinvent alias:
-      exists in original database: false
-      name: df_rotary_dryer_Salar de Pastos Grandes
-      new dataset: false
-      reference product: df_rotary_dryer
-      regionalize: false
-    production volume:
-      variable: Production|Lithium|Brine (Salar)|Pastos Grandes
   Qinghai Yiliping:
     ecoinvent alias:
       exists in original database: false
@@ -189,7 +122,7 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Sal de los Angeles
-  Salar De Arizaro:
+  Salar de Arizaro:
     ecoinvent alias:
       exists in original database: false
       name: df_rotary_dryer_Salar de Arizaro
@@ -207,6 +140,24 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Salar de Atacama
+  Salar de Cauchari-Olaroz:
+    ecoinvent alias:
+      exists in original database: false
+      name: df_rotary_dryer_Salar de Cauchari-Olaroz
+      new dataset: false
+      reference product: df_rotary_dryer
+      regionalize: false
+    production volume:
+      variable: Production|Lithium|Brine (Salar)|Cauchari-Olaroz
+  Salar de Centenario:
+    ecoinvent alias:
+      exists in original database: false
+      name: df_rotary_dryer_Salar de Centenario
+      new dataset: false
+      reference product: df_rotary_dryer
+      regionalize: false
+    production volume:
+      variable: Production|Lithium|Brine (Salar)|Cuenca Centenario-Ratones
   Salar de Olaroz:
     ecoinvent alias:
       exists in original database: false
@@ -216,6 +167,15 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Salar de Olaroz
+  Salar de Pastos Grandes:
+    ecoinvent alias:
+      exists in original database: false
+      name: df_rotary_dryer_Salar de Pastos Grandes
+      new dataset: false
+      reference product: df_rotary_dryer
+      regionalize: false
+    production volume:
+      variable: Production|Lithium|Brine (Salar)|Pastos Grandes
   Salar de Tolillar:
     ecoinvent alias:
       exists in original database: false
@@ -225,15 +185,24 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Salar de Tolillar
-  Salar del Hombre Muerto:
+  Salar de Uyuni:
     ecoinvent alias:
       exists in original database: false
-      name: df_rotary_dryer_Fenix
+      name: df_rotary_dryer_Salar de Uyuni
       new dataset: false
       reference product: df_rotary_dryer
       regionalize: false
     production volume:
-      variable: Production|Lithium|Brine (Salar)|Salar del Hombre Muerto
+      variable: Production|Lithium|Brine (Salar)|Uyuni Salt Flat
+  Salar del Hombre Muerto North:
+    ecoinvent alias:
+      exists in original database: false
+      name: df_rotary_dryer_Salar del Hombre Muerto North
+      new dataset: false
+      reference product: df_rotary_dryer
+      regionalize: false
+    production volume:
+      variable: Production|Lithium|Brine (Salar)|Hombre Muerto North
   Salar del Rincon:
     ecoinvent alias:
       exists in original database: false
@@ -261,16 +230,7 @@ production pathways:
       regionalize: false
     production volume:
       variable: Production|Lithium|Brine (Salar)|Tres Quebradas
-  Uyuni Salt Flat:
-    ecoinvent alias:
-      exists in original database: false
-      name: df_rotary_dryer_Salar de Uyuni
-      new dataset: false
-      reference product: df_rotary_dryer
-      regionalize: false
-    production volume:
-      variable: Production|Lithium|Brine (Salar)|Uyuni Salt Flat
-  Vulcan:
+  Upper Rhine Graben:
     ecoinvent alias:
       exists in original database: false
       name: df_rotary_dryer_Upper Rhine Graben

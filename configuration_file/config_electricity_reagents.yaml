@@ -1,0 +1,658 @@
+# ###################
+# PRODUCTION PATHWAYS
+# ###################
+production pathways:
+  # === Electricity ===
+  Bioenergy:
+    ecoinvent alias:
+      name: heat and power co-generation, wood chips, 6667 kW
+      reference product: electricity, high voltage
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Bioenergy
+
+  Coal:
+    ecoinvent alias:
+      name: electricity production, hard coal
+      reference product: electricity, high voltage
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Coal
+
+  Hydro reservoir alpine:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, reservoir, alpine region
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro reservoir alpine
+
+  Hydro reservoir non-alpine:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, reservoir, non-alpine region
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro reservoir non-alpine
+
+  Hydro reservoir tropical:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, reservoir, tropical region
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro reservoir tropical
+
+  Hydro run-of-river:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, run-of-river
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro run-of-river
+
+  Hydro storage:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, hydro, pumped storage
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Hydro storage
+
+  Natural gas combined cycle:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, natural gas, combined cycle power plant
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Natural gas combined cycle
+
+  Natural gas conventional:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, natural gas, conventional power plant
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Natural gas conventional
+
+  Nuclear PWR:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, nuclear, pressure water reactor, heavy water moderated
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Nuclear PWR
+
+  Solar PV:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, photovoltaic, 570kWp open ground installation,
+        multi-Si
+      new dataset: false
+      reference product: electricity, low voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Solar PV
+
+  Wind onshore:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, wind, 1-3MW turbine, onshore
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Wind onshore
+
+  Low to medium:
+    ecoinvent alias:
+      exists in original database: false
+      name: market for electricity, medium voltage, IEA
+      new dataset: true
+      reference product: electricity, medium voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Low to medium
+
+  Medium to high:
+    ecoinvent alias:
+      exists in original database: false
+      name: market for electricity, high voltage, IEA
+      new dataset: true
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Medium to high
+
+  # === Reagents ===
+
+  quicklime_calcination:
+    ecoinvent alias:
+      name: quicklime production, PFRK, milled, loose
+      reference product: quicklime, milled, loose
+      exists in original database: false
+      new dataset: true
+      regionalize: false
+    production volume:
+      variable: Production|Quicklime|PFRK
+    efficiency:
+    - variable: Efficiency|Quicklime|PFRK|Limestone
+      reference year: 2020
+      includes:
+        technosphere:
+          - limestone, crushed, washed
+    - variable: Efficiency|Quicklime|PFRK|Coal heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, at hard coal industrial furnace 1-10MW
+    - variable: Efficiency|Quicklime|PFRK|Natural gas heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, natural gas, at industrial furnace >100kW
+    - variable: Efficiency|Quicklime|PFRK|Waste heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat, from municipal waste incineration to generic market for heat district or industrial, other than natural gas 
+    - variable: Efficiency|Quicklime|PFRK|Oil heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, heavy fuel oil, at industrial furnace 1MW           
+    - variable: Efficiency|Quicklime|PFRK|Biomass heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
+    - variable: Efficiency|Quicklime|PFRK|Electricity
+      reference year: 2020
+      includes:
+        technosphere:
+          - electricity, medium voltage
+          - electricity, high voltage
+          - electricity, low voltage  
+    - variable: Efficiency|Quicklime|PFRK|Waste inert
+      reference year: 2020
+      includes:
+        technosphere:
+          - inert waste, for final disposal
+
+  quicklime_calcination_w_CCS:
+    ecoinvent alias:
+      name: quicklime production, PFRK with carbon capture and storage, milled, loose
+      reference product: quicklime, milled, loose
+      exists in original database: false
+      new dataset: true
+      regionalize: false
+    production volume:
+      variable: Production|Quicklime|PFRK with CCS
+    efficiency:
+    - variable: Efficiency|Quicklime|PFRK with CCS|Limestone
+      reference year: 2020
+      includes:
+        technosphere:
+          - limestone, crushed, washed
+    - variable: Efficiency|Quicklime|PFRK with CCS|Coal heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, at hard coal industrial furnace 1-10MW
+    - variable: Efficiency|Quicklime|PFRK with CCS|Natural gas heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, natural gas, at industrial furnace >100kW
+    - variable: Efficiency|Quicklime|PFRK with CCS|Waste heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat, from municipal waste incineration to generic market for heat district or industrial, other than natural gas 
+    - variable: Efficiency|Quicklime|PFRK with CCS|Oil heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, heavy fuel oil, at industrial furnace 1MW           
+    - variable: Efficiency|Quicklime|PFRK with CCS|Biomass heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
+    - variable: Efficiency|Quicklime|PFRK with CCS|Electricity
+      reference year: 2020
+      includes:
+        technosphere:
+          - electricity, medium voltage
+          - electricity, high voltage
+          - electricity, low voltage  
+    - variable: Efficiency|Quicklime|PFRK with CCS|Waste inert
+      reference year: 2020
+      includes:
+        technosphere:
+          - inert waste, for final disposal
+
+  soda_ash_Solvay:
+    ecoinvent alias:
+      name: soda ash production, Solvay process
+      reference product: soda ash, light
+      exists in original database: false
+      new dataset: true
+      regionalize: false
+    production volume:
+      variable: Production|Soda ash|Solvay process
+    efficiency:
+    - variable: Efficiency|Soda ash|Solvay process|Limestone
+      reference year: 2020
+      includes:
+        technosphere:
+          - limestone, crushed, washed
+    - variable: Efficiency|Soda ash|Solvay process|Sodium chloride
+      reference year: 2020
+      includes:
+        technosphere:
+          - sodium chloride, brine solution
+    - variable: Efficiency|Soda ash|Solvay process|Ammonia makeup
+      reference year: 2020
+      includes:
+        technosphere:
+          - ammonia, anhydrous, liquid
+    - variable: Efficiency|Soda ash|Solvay process|Coke
+      reference year: 2020
+      includes:
+        technosphere:
+          - coke
+    - variable: Efficiency|Soda ash|Solvay process|Coal heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, at hard coal industrial furnace 1-10MW
+    - variable: Efficiency|Soda ash|Solvay process|Natural gas heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, natural gas, at industrial furnace >100kW
+    - variable: Efficiency|Soda ash|Solvay process|Biomass heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
+    - variable: Efficiency|Soda ash|Solvay process|Electricity
+      reference year: 2020
+      includes:
+        technosphere:
+          - electricity, medium voltage
+          - electricity, high voltage
+          - electricity, low voltage       
+    - variable: Efficiency|Soda ash|Solvay process|Waste inert
+      reference year: 2020
+      includes:
+        technosphere:
+          - inert waste, for final disposal
+    - variable: Efficiency|Soda ash|Solvay process|Water withdrawal
+      reference year: 2020
+      includes:
+        biosphere:
+          - Water, unspecified natural origin
+    - variable: Efficiency|Soda ash|Solvay process|Water cooling
+      reference year: 2020
+      includes:
+        biosphere:
+          - Water, cooling, unspecified natural origin
+  #  - variable: Efficiency|Soda ash|Solvay process|Water discharge
+  #    reference year: 2020
+  #    includes:
+  #      biosphere:
+  #        - Water
+  #    excludes:
+  #        biosphere:
+  #            - Water, cooling, unspecified natural origin
+  #            - Water, unspecified natural origin
+    - variable: Efficiency|Soda ash|Solvay process|Water evaporation
+      reference year: 2020
+      includes:
+        biosphere:
+           - Water
+      excludes:
+          biosphere:
+              - Water, cooling, unspecified natural origin
+              - Water, unspecified natural origin
+
+  
+  soda_ash_Solvay_w_CCS:
+    ecoinvent alias:
+      name: soda ash production, Solvay process with carbon capture and storage
+      reference product: soda ash, light
+      exists in original database: false
+      new dataset: true
+      regionalize: false
+    production volume:
+      variable: Production|Soda ash|Solvay process with CCS
+    efficiency:
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Limestone
+      reference year: 2020
+      includes:
+        technosphere:
+          - limestone, crushed, washed
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Sodium chloride
+      reference year: 2020
+      includes:
+        technosphere:
+          - sodium chloride, brine solution
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Ammonia makeup
+      reference year: 2020
+      includes:
+        technosphere:
+          - ammonia, anhydrous, liquid
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Coke
+      reference year: 2020
+      includes:
+        technosphere:
+          - coke
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Coal heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, at hard coal industrial furnace 1-10MW
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Natural gas heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, natural gas, at industrial furnace >100kW
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Biomass heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Electricity
+      reference year: 2020
+      includes:
+        technosphere:
+          - electricity, medium voltage
+          - electricity, high voltage
+          - electricity, low voltage   
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Waste inert
+      reference year: 2020
+      includes:
+        technosphere:
+          - inert waste, for final disposal
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Water withdrawal
+      reference year: 2020
+      includes:
+        biosphere:
+          - Water, unspecified natural origin
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Water cooling
+      reference year: 2020
+      includes:
+        biosphere:
+          - Water, cooling, unspecified natural origin
+   # - variable: Efficiency|Soda ash|Solvay process with CCS|Water discharge
+   #   reference year: 2020
+   #   includes:
+   #     biosphere:
+   #       - Water
+   #       - water
+   #   excludes:
+   #       biosphere:
+   #           - Water, cooling, unspecified natural origin
+   #           - Water, unspecified natural origin
+    - variable: Efficiency|Soda ash|Solvay process with CCS|Water evaporation
+      reference year: 2020
+      includes:
+        biosphere:
+           - Water
+           - air
+      excludes:
+          biosphere:
+              - Water, cooling, unspecified natural origin
+              - Water, unspecified natural origin
+
+  soda_ash_trona:
+    ecoinvent alias:
+      name: soda ash production, trona process
+      reference product: soda ash, light
+      exists in original database: false
+      new dataset: true
+      regionalize: false
+    production volume:
+      variable: Production|Soda ash|Trona process
+    efficiency:
+    - variable: Efficiency|Soda ash|Trona process|Coal heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, at hard coal industrial furnace 1-10MW
+    - variable: Efficiency|Soda ash|Trona process|Natural gas heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, natural gas, at industrial furnace >100kW
+    - variable: Efficiency|Soda ash|Trona process|Biomass heat
+      reference year: 2020
+      includes:
+        technosphere:
+          - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
+    - variable: Efficiency|Soda ash|Trona process|Water withdrawal
+      reference year: 2020
+      includes:
+        biosphere:
+          - Water, unspecified natural origin
+  #  - variable: Efficiency|Soda ash|Trona process|Water discharge
+  #    reference year: 2020
+  #    includes:
+  #      biosphere:
+  #        - Water
+  #    excludes:
+  #        biosphere:
+  #            - Water, cooling, unspecified natural origin
+  #            - Water, unspecified natural origin
+    - variable: Efficiency|Soda ash|Trona process|Water evaporation
+      reference year: 2020
+      includes:
+        biosphere:
+           - Water
+      excludes:
+        biosphere:
+            - Water, cooling, unspecified natural origin
+            - Water, unspecified natural origin
+
+  sodium_hydroxide_membrane_cell:
+    ecoinvent alias:  
+      name: chlor-alkali electrolysis, membrane cell
+      reference product: sodium hydroxide, without water, in 50% solution state
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Sodium hydroxide|Membrane cell
+
+  sodium_hydroxide_diaphragm_cell:
+    ecoinvent alias:  
+      name: chlor-alkali electrolysis, diaphragm cell
+      reference product: sodium hydroxide, without water, in 50% solution state
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Sodium hydroxide|Diaphragm cell
+
+  sodium_hydroxide_mercury_cell:
+    ecoinvent alias:  
+      name: chlor-alkali electrolysis, mercury cell
+      reference product: sodium hydroxide, without water, in 50% solution state
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Sodium hydroxide|Mercury cell
+
+  chlorine_membrane_cell:
+    ecoinvent alias:  
+      name: chlor-alkali electrolysis, membrane cell
+      reference product: chlorine, gaseous
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Chlorine|Membrane cell
+
+  chlorine_diaphragm_cell:
+    ecoinvent alias:  
+      name: chlor-alkali electrolysis, diaphragm cell
+      reference product: chlorine, gaseous
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Chlorine|Diaphragm cell
+
+  chlorine_mercury_cell:
+    ecoinvent alias:  
+      name: chlor-alkali electrolysis, mercury cell
+      reference product: chlorine, gaseous
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Chlorine|Mercury cell
+
+
+# ###################
+# MARKETS
+# ###################
+markets:
+- name: market for electricity, high voltage, IEA
+  reference product: electricity, high voltage
+  unit: kilowatt hour
+  includes:
+  - Hydro reservoir tropical
+  - Natural gas conventional
+  - Hydro storage
+  - Wind onshore
+  - Hydro reservoir alpine
+  - Hydro reservoir non-alpine
+  - Solar PV
+  - Hydro run-of-river
+  - Coal
+  - Nuclear PWR
+  - Natural gas combined cycle
+  - Bioenergy
+  replaces:
+  - location: CL
+    name: market for electricity, high voltage
+    product: electricity, high voltage
+  - location: AR
+    name: market for electricity, high voltage
+    product: electricity, high voltage
+  except regions:
+  - World
+
+- name: market for electricity, medium voltage, IEA
+  reference product: electricity, medium voltage
+  unit: kilowatt hour
+  includes:
+  - Medium to high
+  replaces:
+  - location: CL
+    name: market for electricity, medium voltage
+    product: electricity, medium voltage
+  - location: AR
+    name: market for electricity, medium voltage
+    product: electricity, medium voltage
+  except regions:
+  - World
+
+- name: market for electricity, low voltage, IEA
+  reference product: electricity, low voltage
+  unit: kilowatt hour
+  includes:
+  - Low to medium
+  replaces:
+  - location: CL
+    name: market for electricity, low voltage
+    product: electricity, low voltage
+  - location: AR
+    name: market for electricity, low voltage
+    product: electricity, low voltage
+  except regions:
+  - World
+
+- name: market for quicklime, milled, packed (prospective)
+  reference product: quicklime, milled, packed
+  unit: kilogram
+  includes:
+    - quicklime_calcination
+    - quicklime_calcination_w_CCS
+  add:
+    - name: market for packing, lime product
+      reference product: packing, lime product
+      amount: 1.0
+  replaces:
+    - name: market for quicklime, milled, packed
+      product: quicklime, milled, packed
+
+- name: market for soda ash, light (prospective)
+  reference product: soda ash, light
+  unit: kilogram
+  includes:
+    - soda_ash_Solvay
+    - soda_ash_Solvay_w_CCS
+    - soda_ash_trona
+  replaces:
+    - name: market for soda ash, light
+      product: soda ash, light
+
+- name: market for sodium hydroxide, without water, in 50% solution state (prospective)
+  reference product: sodium hydroxide, without water, in 50% solution state
+  unit: kilogram
+  includes:
+    - sodium_hydroxide_membrane_cell
+    - sodium_hydroxide_diaphragm_cell
+    - sodium_hydroxide_mercury_cell
+  add:
+    - name: market for transport, freight train
+      reference product: transport, freight train
+      amount: 0.309
+    - name: market for transport, freight, lorry, unspecified
+      reference product: transport, freight, lorry, unspecified
+      amount: 0.2088
+    - name: market for transport, freight, sea, container ship
+      reference product: transport, freight, sea, container ship
+      amount: 0.599
+    - name: market for transport, freight, inland waterways, barge
+      reference product: transport, freight, inland waterways, barge
+      amount: 0.0246
+  replaces:
+    - name: market for sodium hydroxide, without water, in 50% solution state
+      product: sodium hydroxide, without water, in 50% solution state
+
+- name: market for chlorine, gaseous (prospective)
+  reference product: chlorine, gaseous
+  unit: kilogram
+  includes:
+    - chlorine_membrane_cell
+    - chlorine_diaphragm_cell
+    - chlorine_mercury_cell
+  replaces:
+    - name: market for chlorine, gaseous
+      product: chlorine, gaseous

@@ -47,7 +47,7 @@
     ],
     "resources": [
         {
-            "path": "scenario_data/external/lithium_scenario_data_with_others_22-01-2025.csv",
+            "path": "scenario_data/external/lithium_scenario_data_with_LCIs_07-11-2025.csv",
             "profile": "tabular-data-resource",
             "name": "scenario_data",
             "format": "csv",
