@@ -1,0 +1,41 @@
+Cell chemistry,Impact,Li scenario,Value
+LFP,Climate change,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2025,56.48941370950976
+NMC811,Climate change,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2025,57.05505783691902
+LFP,Water scarcity,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2025,23.141206272079327
+NMC811,Water scarcity,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2025,131.5423660246811
+NMC811,Climate change,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2035,43.37829629332201
+LFP,Climate change,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2035,35.05103590827087
+NMC811,Water scarcity,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2035,121.42991451817045
+LFP,Water scarcity,lithium_baseline_S&P-Baseline_remind SSP2-NDC 2035,15.803988211368601
+NMC811,Climate change,lithium_baseline_S&P-Ambitious_remind SSP2-NDC 2035,44.566623575057406
+LFP,Climate change,lithium_baseline_S&P-Ambitious_remind SSP2-NDC 2035,36.01336190698701
+NMC811,Water scarcity,lithium_baseline_S&P-Ambitious_remind SSP2-NDC 2035,122.02737498179928
+LFP,Water scarcity,lithium_baseline_S&P-Ambitious_remind SSP2-NDC 2035,16.287821027701213
+NMC811,Climate change,lithium_baseline_S&P-Very Ambitious_remind SSP2-NDC 2035,45.46705318068445
+LFP,Climate change,lithium_baseline_S&P-Very Ambitious_remind SSP2-NDC 2035,36.74254386034247
+NMC811,Water scarcity,lithium_baseline_S&P-Very Ambitious_remind SSP2-NDC 2035,122.46082572018109
+LFP,Water scarcity,lithium_baseline_S&P-Very Ambitious_remind SSP2-NDC 2035,16.638836203117293
+NMC811,Climate change,lithium_optimized_S&P-Baseline_remind SSP2-NDC 2035,41.147808948829855
+LFP,Climate change,lithium_optimized_S&P-Baseline_remind SSP2-NDC 2035,33.24475243472612
+NMC811,Water scarcity,lithium_optimized_S&P-Baseline_remind SSP2-NDC 2035,120.90712676862937
+LFP,Water scarcity,lithium_optimized_S&P-Baseline_remind SSP2-NDC 2035,15.380626530092623
+LFP,Climate change,lithium_optimized_S&P-Ambitious_remind SSP2-NDC 2035,33.72601177720451
+NMC811,Climate change,lithium_optimized_S&P-Ambitious_remind SSP2-NDC 2035,41.74209155675079
+LFP,Water scarcity,lithium_optimized_S&P-Ambitious_remind SSP2-NDC 2035,15.644094505610228
+NMC811,Water scarcity,lithium_optimized_S&P-Ambitious_remind SSP2-NDC 2035,121.23246993098336
+NMC811,Climate change,lithium_optimized_S&P-Very Ambitious_remind SSP2-NDC 2035,42.400499956750224
+LFP,Climate change,lithium_optimized_S&P-Very Ambitious_remind SSP2-NDC 2035,34.259201184209694
+NMC811,Water scarcity,lithium_optimized_S&P-Very Ambitious_remind SSP2-NDC 2035,121.39525703332839
+LFP,Water scarcity,lithium_optimized_S&P-Very Ambitious_remind SSP2-NDC 2035,15.775922044735818
+NMC811,Climate change,lithium_optimized+elec-heat_S&P-Baseline_remind SSP2-NDC 2035,38.779851129081564
+LFP,Climate change,lithium_optimized+elec-heat_S&P-Baseline_remind SSP2-NDC 2035,31.327143223202047
+NMC811,Water scarcity,lithium_optimized+elec-heat_S&P-Baseline_remind SSP2-NDC 2035,121.70069800379339
+LFP,Water scarcity,lithium_optimized+elec-heat_S&P-Baseline_remind SSP2-NDC 2035,16.023272905107216
+LFP,Climate change,lithium_optimized+elec-heat_S&P-Ambitious_remind SSP2-NDC 2035,31.618771609674642
+NMC811,Climate change,lithium_optimized+elec-heat_S&P-Ambitious_remind SSP2-NDC 2035,39.13996814818532
+LFP,Water scarcity,lithium_optimized+elec-heat_S&P-Ambitious_remind SSP2-NDC 2035,16.31455471674917
+NMC811,Water scarcity,lithium_optimized+elec-heat_S&P-Ambitious_remind SSP2-NDC 2035,122.06038705697634
+LFP,Climate change,lithium_optimized+elec-heat_S&P-Very Ambitious_remind SSP2-NDC 2035,31.86457380435187
+NMC811,Climate change,lithium_optimized+elec-heat_S&P-Very Ambitious_remind SSP2-NDC 2035,39.44349674544184
+LFP,Water scarcity,lithium_optimized+elec-heat_S&P-Very Ambitious_remind SSP2-NDC 2035,16.626591833615038
+NMC811,Water scarcity,lithium_optimized+elec-heat_S&P-Very Ambitious_remind SSP2-NDC 2035,122.44570578030243
