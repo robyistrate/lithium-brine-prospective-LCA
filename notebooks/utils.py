@@ -1,5 +1,5 @@
 """"
-Functions to perform LCA results analysis
+Functions to create LCI databases and perform LCA results analysis
 """
 
 import bw2calc as bc
@@ -11,6 +11,8 @@ from bw2io.utils import activity_hash
 import json
 from copy import deepcopy
 import pycountry
+from constructive_geometries import *
+import wurst
 
 
 def create_biosphere_water_regionalized(
@@ -160,6 +162,190 @@ def relink_to_regionalized_water(bio_reg, ds, location):
                 exc.update(
                     {"input": water_flow[0].key}
                 )
+
+
+def get_ds_for_location(ds_name, ds_ref_prod, location, DB_NAME):
+    """
+    This function finds a dataset for the given location or closer
+    """
+    geomatcher = Geomatcher() # Initialize the geomatcher object   
+    possible_datasets = [ds for ds in bd.Database(DB_NAME)
+                         if ds["name"]==ds_name
+                         and ds["reference product"]==ds_ref_prod]
+    
+    # Check if there is an exact match for the location
+    match_dataset = [ds for ds in possible_datasets if ds['location'] == location]
+    if len(match_dataset) == 0:
+        # If there is no specific dataset for the location, search for the supraregional locations
+        loc_intersection = geomatcher.intersects(location, biggest_first=False)
+        
+        for loc in [i[1] if type(i)==tuple else i for i in loc_intersection]:
+            match_dataset = [ds for ds in possible_datasets if ds['location'] == loc]
+            if len(match_dataset) > 0:
+                break
+            else:
+                match_dataset = [ds for ds in possible_datasets if ds['location'] == 'RoW']
+    return match_dataset
+
+
+def create_electric_boiler_activity(actv_name, location, database_name, electricity_source):
+    """
+    This function creates a simple LCI for an electric industrial boiler for heat supply.
+
+    Description: "Electric boilers are a commercialized technology that pass an electric current through 
+    the water between electrodes (electrode boilers) or through immersed heating elements (electric resistance boilers) 
+    to produce steam and hot water. While electrode boilers tend to have higher maximum capacities, up to 335 MMBtu/hr, 
+    than electric resistance boilers, the efficiencies of both electric boilers are nearly 100%" 
+    (Schoeneberger et al 2022 - Advances in Applied Energy 5, 100089)
+
+    Electric boiler efficiency: 99% (Schoeneberger et al 2022 - Advances in Applied Energy 5, 100089)
+
+    The process contains only the input electricity adapted to the electricity source of each site.
+    Water consumption and water loss are assumed negligible due to closed system
+    """
+    BOILER_EFFICIENCY = 0.99
+    electricity_amount = (1 / BOILER_EFFICIENCY) / 3.6 # kWh electricity/MJ heat output
+    
+    # Create activity dictionary
+    boiler_dict = {
+        'name': actv_name,
+        'reference product': "heat, central or small-scale, other than natural gas",
+        'location': location,
+        'production amount': 1,
+        'unit': "megajoule",
+        'database': database_name,
+        'code': wurst.filesystem.get_uuid()
+    }
+
+    # Add exchanges
+    exchanges = []
+    
+    # Add production to exchanges
+    exchanges.append({
+        'name': boiler_dict['name'],
+        'product': boiler_dict['reference product'],
+        'location': boiler_dict['location'],
+        'amount': boiler_dict['production amount'],
+        'unit': boiler_dict['unit'],
+        'database': boiler_dict['database'],
+        'type': 'production',
+        "input": (boiler_dict["database"], boiler_dict["code"])
+    })
+
+    # Add technosphere exchanges (only electricity)
+
+    # Diesel generator has MJ diesel burned as unit.
+    # Convert kWh electricity to MJ diesel assuming the efficiency
+    DIESEL_GENERATOR_EFFICIENCY = 0.4
+    if electricity_source["name"] == "diesel, burned in diesel-electric generating set, 10MW":
+        electricity_amount = electricity_amount * 3.6 / DIESEL_GENERATOR_EFFICIENCY
+
+    exchanges.append({
+        'name': electricity_source['name'],
+        'product': electricity_source['reference product'],
+        'location': electricity_source['location'],
+        'amount': electricity_amount,
+        'unit': electricity_source['unit'],
+        'database': electricity_source['database'],
+        'type': 'technosphere',
+        "input": (electricity_source["database"], electricity_source["code"])
+    })
+        
+    boiler_dict.update({'exchanges': exchanges})
+    return boiler_dict
+
+
+def create_heat_pump_activity(actv_name, location, database_name, electricity_source, ei_db):
+    """
+    This function creates an LCI for heat supply from heat pump for each project.
+    The heat pump LCI is adapted from ecoinvent
+
+    """
+    # Get original LCI from ecoinvent
+    heat_pump_filter = (
+        "heat production, at heat pump 30kW, allocation exergy",
+        "heat, central or small-scale, other than natural gas",
+        "Europe without Switzerland")
+    
+    get_heat_pump_ds = [
+        ac for ac in bd.Database(ei_db) 
+        if ac["name"]==heat_pump_filter[0]
+        and ac["reference product"]==heat_pump_filter[1] 
+        and ac["location"]==heat_pump_filter[2]][0]
+    
+    # Create project-specific heat pump activity dictionary
+    heat_pump_dict = {
+        'name': actv_name,
+        'reference product': get_heat_pump_ds["reference product"],
+        'location': location,
+        'production amount': 1,
+        'unit': get_heat_pump_ds["unit"],
+        'database': database_name,
+        'code': wurst.filesystem.get_uuid()
+    }
+
+  # Add exchanges
+    exchanges = []
+
+    # Add production to exchanges
+    exchanges.append({
+        'name': heat_pump_dict['name'],
+        'product': heat_pump_dict['reference product'],
+        'location': heat_pump_dict['location'],
+        'amount': heat_pump_dict['production amount'],
+        'unit': heat_pump_dict['unit'],
+        'database': heat_pump_dict['database'],
+        'type': 'production',
+        "input": (heat_pump_dict["database"], heat_pump_dict["code"])
+    })
+
+    # Add technosphere and biosphere exchanges
+    for ex in get_heat_pump_ds.exchanges():
+        if ex["type"] == "production":
+            pass
+        else:
+            exchange = {
+                'name': ex["name"],
+                'unit': ex["unit"],
+                'type': ex["type"],
+                'amount': ex["amount"],
+            }
+
+            if ex["type"] == "technosphere":
+                exchange['product'] = ex.input["reference product"]
+                exchange['location'] = ex.input["location"]
+                exchange['database'] = ex.input["database"]
+                exchange['input'] = (ex.input['database'], ex.input['code'])
+
+                # Switch electricity to project-specific source:
+                if ex.input["reference product"]=="electricity, low voltage":
+                    
+                    # Diesel generator has MJ diesel burned as unit.
+                    # Convert kWh electricity to MJ diesel assuming the efficiency
+                    DIESEL_GENERATOR_EFFICIENCY = 0.4
+                    if electricity_source["name"] == "diesel, burned in diesel-electric generating set, 10MW":
+                        electricity_amount = ex["amount"] * 3.6 / DIESEL_GENERATOR_EFFICIENCY
+                    else:
+                        electricity_amount = ex["amount"] 
+                        
+                    exchange.update({
+                        'name': electricity_source["name"],
+                        'product': electricity_source["reference product"],
+                        "location": electricity_source["location"],
+                        "amount": electricity_amount,
+                        "unit": electricity_source['unit'],
+                        'input': (electricity_source['database'], electricity_source['code'])
+                    })
+                
+            elif ex["type"] == "biosphere":
+                exchange['categories'] = ex.input["categories"]
+                exchange['database'] = ex.input["database"]
+                exchange['input'] = (ex.input['database'], ex.input['code'])
+
+            exchanges.append(exchange)
+    heat_pump_dict.update({"exchanges": exchanges})
+    return heat_pump_dict
+
 
 def populate_prod_pathaways(config_file, var_id, var_lci, var_product, in_ecoinvent, regionalize, new_dataset, var):
     config_file["production pathways"].pop(var_id, None)
