@@ -1,0 +1,165 @@
+Impact category,LCI dataset,lithium_baseline_ei_cutoff_3.10_remind_SSP2-NDC_2025_NationalPlans 2026-05-29,lithium_baseline_ei_cutoff_3.10_remind_SSP2-NDC_2035_NationalPlans 2026-05-29,lithium_optimized_ei_cutoff_3.10_remind_SSP2-NDC_2035_NationalPlans 2026-05-29,lithium_optimized+elec-heat_boiler_ei_cutoff_3.10_remind_SSP2-NDC_2035_NationalPlans 2026-05-29,lithium_optimized+elec-heat_heatpump_ei_cutoff_3.10_remind_SSP2-NDC_2035_NationalPlans 2026-05-29
+Climate change,"market for quicklime, milled, packed (prospective)|quicklime, milled, packed|GLO",1.2172174420554596,0.9625461602826382,0.9625461602826382,0.9625461602826382,0.9625461601833415
+Climate change,"diesel, burned in diesel-electric generating set, 10MW|diesel, burned in diesel-electric generating set, 10MW|GLO",0.09755994814787004,0.08792989049283827,0.08792989049283827,0.08792989049283827,0.08792989049190414
+Climate change,"treatment of salt tailing from potash mine, residual material landfill|salt tailing from potash mine|RoW",-0.006760598805300139,-0.00597095297010523,-0.00597095297010523,-0.00597095297010523,-0.005970952969697389
+Climate change,"treatment of waste gypsum, inert material landfill|waste gypsum|RoW",-0.0060677327425857665,-0.005451654517211766,-0.005451654517211766,-0.005451654517211766,-0.005451654517406097
+Climate change,"market for wastewater, average|wastewater, average|RoW",-0.3974932696033209,-0.3395315549917738,-0.3395315549917738,-0.3395315549917738,-0.3395315549530469
+Climate change,"heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction|heat, district or industrial, other than natural gas|RoW",0.035287908524952796,0.03234477381057736,0.03234477381057736,0.03234477381057736,0.032344773810051505
+Climate change,"heat production, natural gas, at industrial furnace >100kW|heat, district or industrial, natural gas|EUR",0.06960388251978485,0.069064897489089,0.069064897489089,0.069064897489089,0.06906489748888776
+Climate change,"heat production, natural gas, at industrial furnace >100kW|heat, district or industrial, natural gas|CHA",0.07253060841882329,0.0719041487613846,0.0719041487613846,0.0719041487613846,0.07190414875420816
+Climate change,"heat and power co-generation, natural gas, conventional power plant, 100MW electrical|electricity, high voltage|AR",0.3974308298895985,0.3954836354332036,0.3954836354332036,0.3954836354332036,0.3954836354313979
+Climate change,"market for solvent, organic|solvent, organic|GLO",1.1380291086746213,1.0627114624232217,1.0627114624232217,1.0627114624232217,1.0627114623863547
+Climate change,"heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction|electricity, high voltage|RoW",0.7753044752712602,0.7106413918939632,0.7106413918939632,0.7106413918939632,0.7106413918830328
+Climate change,"heat production, light fuel oil, at industrial furnace 1MW|heat, district or industrial, other than natural gas|LAM",0.09416629746746247,0.09335901915084562,0.09335901915084562,0.09335901915084562,0.09335901915051192
+Climate change,"market for electricity, medium voltage|electricity, medium voltage|AR",0.3363954999299139,0.1355651854210139,0.1355651854210139,0.1355651854210139,0.13556518541915705
+Climate change,"market for soda ash, light (prospective)|soda ash, light|GLO",1.2164368875380704,0.706605458144346,0.706605458144346,0.706605458144346,0.7066054580112139
+Climate change,"heat and power co-generation, natural gas, conventional power plant, 100MW electrical|heat, district or industrial, natural gas|LAM",0.024279489822482497,0.02417131214851274,0.02417131214851274,0.02417131214851274,0.024171312148374535
+Climate change,market for cationic resin|cationic resin|RoW,1.6899295332323128,1.5256707206118962,1.5256707206118962,1.5256707206118962,1.525670720568997
+Climate change,"heat production, natural gas, at industrial furnace >100kW|heat, district or industrial, natural gas|LAM",0.07636593353780975,0.07583832331362506,0.07583832331362506,0.07583832331362506,0.0758383233130698
+Climate change,market for calcium chloride|calcium chloride|RoW,0.6927125532101441,0.6152401302313059,0.6152401302313059,0.6152401302313059,0.6152401301980877
+Climate change,"heat production, propane, at industrial furnace >100kW|heat, district or industrial, other than natural gas|RoW",0.08854277562311201,0.08549316531474316,0.08549316531474316,0.08549316531474316,0.0854931653116743
+Climate change,"market for hazardous waste, for underground deposit|hazardous waste, for underground deposit|RoW",-0.21570707667588512,-0.18086365507260066,-0.18086365507260066,-0.18086365507260066,-0.1808636549266297
+Climate change,"market for electricity, medium voltage|electricity, medium voltage|BO",0.30917634343048545,0.09988141971110236,0.09988141971110236,0.09988141971110236,0.09988141970240974
+Climate change,"transport, freight, lorry >32 metric ton, EURO3|transport, freight, lorry >32 metric ton, EURO3|RoW",0.10822837749541987,0.08955382189616491,0.08955382189616491,0.08955382189616491,0.08955382189401041
+Climate change,"market for electricity, medium voltage|electricity, medium voltage|US-WECC",0.36499163257467454,0.010778309619529816,0.010778309619529816,0.010778309619529816,0.010778309617904859
+Climate change,"market for hydrochloric acid, without water, in 30% solution state|hydrochloric acid, without water, in 30% solution state|RoW",0.8173760711396749,0.5613729475629055,0.5613729475629055,0.5613729475629055,0.5613729472445731
+Climate change,"market for sodium hydroxide, without water, in 50% solution state (prospective)|sodium hydroxide, without water, in 50% solution state|GLO",1.142278842539967,0.6548122371924828,0.6548122371924828,0.6548122371924828,0.6548122370326491
+Climate change,"market for electricity, medium voltage|electricity, medium voltage|CN-NWG",0.678593226480572,0.34860216355763174,0.34860216355763174,0.34860216355763174,0.34860216349616
+Climate change,"treatment of spent solvent mixture, hazardous waste incineration|spent solvent mixture|RoW",-1.9847884979665926,-1.954218942960809,-1.954218942960809,-1.954218942960809,-1.954218942947898
+Climate change,"market for steam, in chemical industry|steam, in chemical industry|RoW",0.3391921276171128,0.325359817367277,0.325359817367277,0.325359817367277,0.3253598173721577
+Climate change,"market for electricity, medium voltage|electricity, medium voltage|DE",0.18435727416249792,0.02965986619189286,0.02965986619189286,0.02965986619189286,0.029659866182100335
+Climate change,"market for electricity, medium voltage|electricity, medium voltage|CL",0.327886222070809,0.04597220328806215,0.04597220328806215,0.04597220328806215,0.045972203283455686
+Climate change,market for sulfuric acid|sulfuric acid|RoW,0.15366114367873238,0.11758225782417184,0.11758225782417184,0.11758225782417184,0.1175822577736202
+Climate change,"electricity production, natural gas, conventional power plant|electricity, high voltage|AR",0.6852250615711285,0.6817922695057889,0.6817922695057889,0.6817922695057889,0.6817922694992704
+Climate change,"machine operation, diesel, >= 74.57 kW, high load factor|machine operation, diesel, >= 74.57 kW, high load factor|GLO",159.50068679059206,144.90791331430793,144.90791331430793,144.90791331430793,144.90791331056846
+Climate change,"heat production, industrial electric boiler, Salar del Rincon|heat, central or small-scale, other than natural gas|AR",0.09438706714607815,0.03803737048108524,0.03803737048108524,0.03803737048108524,0.038037370480559024
+Climate change,"market for limestone, crushed, washed|limestone, crushed, washed|RoW",0.005957694829708345,0.005186949252917739,0.005186949252917739,0.005186949252917739,0.005186949243749909
+Water scarcity,"market for quicklime, milled, packed (prospective)|quicklime, milled, packed|GLO",0.03037141070106255,0.025964075761393833,0.025964075761393833,0.025964075761393833,0.025964075723789653
+Water scarcity,"diesel, burned in diesel-electric generating set, 10MW|diesel, burned in diesel-electric generating set, 10MW|GLO",0.0017127351549890172,0.0019226814416477736,0.0019226814416477736,0.0019226814416477736,0.0019226814413018823
+Water scarcity,"treatment of salt tailing from potash mine, residual material landfill|salt tailing from potash mine|RoW",-0.0006344281458889559,-0.0006161437882782658,-0.0006161437882782658,-0.0006161437882782658,-0.0006161437881121454
+Water scarcity,"treatment of waste gypsum, inert material landfill|waste gypsum|RoW",-0.0004201661180778265,-0.0004096566646367176,-0.0004096566646367176,-0.0004096566646367176,-0.00040965666462044266
+Water scarcity,"market for wastewater, average|wastewater, average|RoW",-0.08983831235191814,-0.08362898094451734,-0.08362898094451734,-0.08362898094451734,-0.08362898092462534
+Water scarcity,"heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction|heat, district or industrial, other than natural gas|RoW",0.0029468624321169045,0.002941176929402252,0.002941176929402252,0.002941176929402252,0.002941176929251034
+Water scarcity,"heat production, natural gas, at industrial furnace >100kW|heat, district or industrial, natural gas|EUR",0.0005629616526382125,0.00048774550917747843,0.00048774550917747843,0.00048774550917747843,0.00048774550920680794
+Water scarcity,"heat production, natural gas, at industrial furnace >100kW|heat, district or industrial, natural gas|CHA",0.001097050092714062,0.0010339435702421801,0.0010339435702421801,0.0010339435702421801,0.0010339435674386944
+Water scarcity,"heat and power co-generation, natural gas, conventional power plant, 100MW electrical|electricity, high voltage|AR",0.017211446767615803,0.01656028118824701,0.01656028118824701,0.01656028118824701,0.016560281187713452
+Water scarcity,"market for solvent, organic|solvent, organic|GLO",0.49515408706967534,0.48731738230903987,0.48731738230903987,0.48731738230903987,0.48731738228892685
+Water scarcity,"heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction|electricity, high voltage|RoW",0.0647449980514256,0.06462008288639941,0.06462008288639941,0.06462008288639941,0.06462008288328401
+Water scarcity,"heat production, light fuel oil, at industrial furnace 1MW|heat, district or industrial, other than natural gas|LAM",0.0019239659480415733,0.0015550537019137502,0.0015550537019137502,0.0015550537019137502,0.0015550537017894471
+Water scarcity,"market for electricity, medium voltage|electricity, medium voltage|AR",0.35564030582093475,0.49305844376976693,0.49305844376976693,0.49305844376976693,0.4930584437691744
+Water scarcity,"market for soda ash, light (prospective)|soda ash, light|GLO",0.2904674566347422,0.20752617666740666,0.20752617666740666,0.20752617666740666,0.20752617661598738
+Water scarcity,"heat and power co-generation, natural gas, conventional power plant, 100MW electrical|heat, district or industrial, natural gas|LAM",0.0009561914979015868,0.0009200156331761375,0.0009200156331761375,0.0009200156331761375,0.000920015633153888
+Water scarcity,market for cationic resin|cationic resin|RoW,1.0024711100193373,0.9833499109530833,0.9833499109530833,0.9833499109530833,0.9833499109311934
+Water scarcity,"heat production, natural gas, at industrial furnace >100kW|heat, district or industrial, natural gas|LAM",0.0017102416414893622,0.0012619870673258701,0.0012619870673258701,0.0012619870673258701,0.0012619870670901123
+Water scarcity,market for calcium chloride|calcium chloride|RoW,1.088675841631833,1.0798403166840091,1.0798403166840091,1.0798403166840091,1.0798403166684367
+Water scarcity,"heat production, propane, at industrial furnace >100kW|heat, district or industrial, other than natural gas|RoW",0.002700874869110075,0.002348510727412314,0.002348510727412314,0.002348510727412314,0.0023485107260649936
+Water scarcity,"market for hazardous waste, for underground deposit|hazardous waste, for underground deposit|RoW",-0.06427337487061176,-0.06387128086800284,-0.06387128086800284,-0.06387128086800284,-0.0638712808236962
+Water scarcity,"market for electricity, medium voltage|electricity, medium voltage|BO",0.027643641446718124,0.023642229934532497,0.023642229934532497,0.023642229934532497,0.02364222993118897
+Water scarcity,"transport, freight, lorry >32 metric ton, EURO3|transport, freight, lorry >32 metric ton, EURO3|RoW",0.00959810115927488,0.013551640654298012,0.013551640654298012,0.013551640654298012,0.01355164065338446
+Water scarcity,"market for electricity, medium voltage|electricity, medium voltage|US-WECC",0.07128387754911863,0.03855138319988235,0.03855138319988235,0.03855138319988235,0.03855138319880929
+Water scarcity,"market for hydrochloric acid, without water, in 30% solution state|hydrochloric acid, without water, in 30% solution state|RoW",0.49915599947981,0.3611807360557226,0.3611807360557226,0.3611807360557226,0.36118073593125605
+Water scarcity,"market for sodium hydroxide, without water, in 50% solution state (prospective)|sodium hydroxide, without water, in 50% solution state|GLO",0.6952419961469187,0.2553107427042203,0.2553107427042203,0.2553107427042203,0.255310742639809
+Water scarcity,"market for electricity, medium voltage|electricity, medium voltage|CN-NWG",0.06697386493197702,0.047770647911221834,0.047770647911221834,0.047770647911221834,0.04777064787930782
+Water scarcity,"treatment of spent solvent mixture, hazardous waste incineration|spent solvent mixture|RoW",-0.0735770119724651,-0.05280215352602156,-0.05280215352602156,-0.05280215352602156,-0.05280215352237367
+Water scarcity,"market for steam, in chemical industry|steam, in chemical industry|RoW",0.0139630660643015,0.01172501888247977,0.01172501888247977,0.01172501888247977,0.0117250188845873
+Water scarcity,"market for electricity, medium voltage|electricity, medium voltage|DE",0.09248090822535554,0.061011388441977454,0.061011388441977454,0.061011388441977454,0.061011388437206736
+Water scarcity,"market for electricity, medium voltage|electricity, medium voltage|CL",0.04663411497180907,0.07384909272947415,0.07384909272947415,0.07384909272947415,0.073849092728076
+Water scarcity,market for sulfuric acid|sulfuric acid|RoW,0.5606410950376332,0.5545237108092025,0.5545237108092025,0.5545237108092025,0.5545237107877818
+Water scarcity,"electricity production, natural gas, conventional power plant|electricity, high voltage|AR",0.029736954591250066,0.02858471653528217,0.02858471653528217,0.02858471653528217,0.02858471653273613
+Water scarcity,"machine operation, diesel, >= 74.57 kW, high load factor|machine operation, diesel, >= 74.57 kW, high load factor|GLO",5.151696997544702,5.0542140461331435,5.0542140461331435,5.0542140461331435,5.054214044825123
+Water scarcity,"heat production, industrial electric boiler, Salar del Rincon|heat, central or small-scale, other than natural gas|AR",0.09978684445055822,0.1383441230597002,0.1383441230597002,0.1383441230597002,0.1383441230595313
+Water scarcity,"market for limestone, crushed, washed|limestone, crushed, washed|RoW",0.0038355823286763692,0.003928451560376429,0.003928451560376429,0.003928451560376429,0.0039284515578437195
+Climate change,"heat production, industrial electric boiler, Salar de Cauchari-Olaroz|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Qinghai Yiliping|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.09781205701572386,
+Climate change,"heat production, industrial electric boiler, Salar de Centenario|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Zhabuye|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.09781205701572386,
+Climate change,"heat production, industrial electric boiler, Salar de Arizaro|heat, central or small-scale, other than natural gas|AR",,,,0.22204518288272884,
+Climate change,"heat production, industrial electric boiler, Salar de Atacama|heat, central or small-scale, other than natural gas|CL",,,,0.012899047221223621,
+Climate change,"heat production, industrial electric boiler, Salar de Uyuni|heat, central or small-scale, other than natural gas|BO",,,,0.028025090320411637,
+Climate change,"heat production, industrial electric boiler, Salar de Tolillar|heat, central or small-scale, other than natural gas|AR",,,,0.19129974311403133,
+Climate change,"heat production, industrial electric boiler, Sal de los Angeles|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Salar de Olaroz|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Silver Peak|heat, central or small-scale, other than natural gas|US-WECC",,,,0.003024217130996684,
+Climate change,"heat production, industrial electric boiler, Chaerhan|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.09781205701572386,
+Climate change,"heat production, industrial electric boiler, Fenix|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Salar del Hombre Muerto North|heat, central or small-scale, other than natural gas|AR",,,,0.1993943343101398,
+Climate change,"heat production, industrial electric boiler, Maricunga|heat, central or small-scale, other than natural gas|CL",,,,0.012899047221223621,
+Climate change,"heat production, industrial electric boiler, Salar de Pastos Grandes|heat, central or small-scale, other than natural gas|AR",,,,0.19129974311403133,
+Climate change,"heat production, industrial electric boiler, Tres Quebradas|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Pozuelos|heat, central or small-scale, other than natural gas|AR",,,,0.11096623010893013,
+Climate change,"heat production, industrial electric boiler, Kachi|heat, central or small-scale, other than natural gas|AR",,,,0.03803737048108524,
+Climate change,"heat production, industrial electric boiler, Sal de Vida|heat, central or small-scale, other than natural gas|AR",,,,0.22204518288272884,
+Climate change,"heat production, industrial electric boiler, Lakkor Tso|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.09781205701572386,
+Climate change,"heat production, industrial electric boiler, East Taijinar|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.09781205701572386,
+Climate change,"heat production, industrial electric boiler, Upper Rhine Graben|heat, central or small-scale, other than natural gas|DE",,,,0.008322072626964732,
+Water scarcity,"heat production, industrial electric boiler, Salar de Cauchari-Olaroz|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Qinghai Yiliping|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.013403661324085641,
+Water scarcity,"heat production, industrial electric boiler, Salar de Centenario|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Zhabuye|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.013403661324085641,
+Water scarcity,"heat production, industrial electric boiler, Salar de Arizaro|heat, central or small-scale, other than natural gas|AR",,,,0.004855256272297786,
+Water scarcity,"heat production, industrial electric boiler, Salar de Atacama|heat, central or small-scale, other than natural gas|CL",,,,0.02072084577702491,
+Water scarcity,"heat production, industrial electric boiler, Salar de Uyuni|heat, central or small-scale, other than natural gas|BO",,,,0.006633622461594184,
+Water scarcity,"heat production, industrial electric boiler, Salar de Tolillar|heat, central or small-scale, other than natural gas|AR",,,,0.008020403243963144,
+Water scarcity,"heat production, industrial electric boiler, Sal de los Angeles|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Salar de Olaroz|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Silver Peak|heat, central or small-scale, other than natural gas|US-WECC",,,,0.010816886656574834,
+Water scarcity,"heat production, industrial electric boiler, Chaerhan|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.013403661324085641,
+Water scarcity,"heat production, industrial electric boiler, Fenix|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Salar del Hombre Muerto North|heat, central or small-scale, other than natural gas|AR",,,,0.01813133678553415,
+Water scarcity,"heat production, industrial electric boiler, Maricunga|heat, central or small-scale, other than natural gas|CL",,,,0.02072084577702491,
+Water scarcity,"heat production, industrial electric boiler, Salar de Pastos Grandes|heat, central or small-scale, other than natural gas|AR",,,,0.008020403243963144,
+Water scarcity,"heat production, industrial electric boiler, Tres Quebradas|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Pozuelos|heat, central or small-scale, other than natural gas|AR",,,,0.004646543645220999,
+Water scarcity,"heat production, industrial electric boiler, Kachi|heat, central or small-scale, other than natural gas|AR",,,,0.1383441230597002,
+Water scarcity,"heat production, industrial electric boiler, Sal de Vida|heat, central or small-scale, other than natural gas|AR",,,,0.004855256272297786,
+Water scarcity,"heat production, industrial electric boiler, Lakkor Tso|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.013403661324085641,
+Water scarcity,"heat production, industrial electric boiler, East Taijinar|heat, central or small-scale, other than natural gas|CN-NWG",,,,0.013403661324085641,
+Water scarcity,"heat production, industrial electric boiler, Upper Rhine Graben|heat, central or small-scale, other than natural gas|DE",,,,0.01711879623463518,
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar del Hombre Muerto North|heat, central or small-scale, other than natural gas|AR",,,,,0.04460344807254362
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Centenario|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Maricunga|heat, central or small-scale, other than natural gas|CL",,,,,0.0035933582327812635
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Olaroz|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Zhabuye|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.02226562719148523
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Upper Rhine Graben|heat, central or small-scale, other than natural gas|DE",,,,,0.002586887011448374
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Fenix|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, East Taijinar|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.02226562719148523
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Tres Quebradas|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Tolillar|heat, central or small-scale, other than natural gas|AR",,,,,0.04282345718236391
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar del Rincon|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Atacama|heat, central or small-scale, other than natural gas|CL",,,,,0.0035933582327812635
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Sal de los Angeles|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Qinghai Yiliping|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.02226562719148523
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Silver Peak|heat, central or small-scale, other than natural gas|US-WECC",,,,,0.0014218949457558128
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Pozuelos|heat, central or small-scale, other than natural gas|AR",,,,,0.025158214071302778
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Cauchari-Olaroz|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Lakkor Tso|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.02226562719148523
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Kachi|heat, central or small-scale, other than natural gas|AR",,,,,0.009121245352309647
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Uyuni|heat, central or small-scale, other than natural gas|BO",,,,,0.006919556959101457
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Chaerhan|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.02226562719148523
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Arizaro|heat, central or small-scale, other than natural gas|AR",,,,,0.0495843411830778
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Salar de Pastos Grandes|heat, central or small-scale, other than natural gas|AR",,,,,0.04282345718236391
+Climate change,"heat production, at heat pump 30kW, allocation exergy, Sal de Vida|heat, central or small-scale, other than natural gas|AR",,,,,0.0495843411830778
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar del Hombre Muerto North|heat, central or small-scale, other than natural gas|AR",,,,,0.004013444233342581
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Centenario|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Maricunga|heat, central or small-scale, other than natural gas|CL",,,,,0.004582874153357641
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Olaroz|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Zhabuye|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.002973834071817713
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Upper Rhine Graben|heat, central or small-scale, other than natural gas|DE",,,,,0.0037907877811643106
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Fenix|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, East Taijinar|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.002973834071817713
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Tres Quebradas|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Tolillar|heat, central or small-scale, other than natural gas|AR",,,,,0.0017900620805815098
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar del Rincon|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Atacama|heat, central or small-scale, other than natural gas|CL",,,,,0.004582874153357641
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Sal de los Angeles|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Qinghai Yiliping|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.002973834071817713
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Silver Peak|heat, central or small-scale, other than natural gas|US-WECC",,,,,0.002405005427427843
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Pozuelos|heat, central or small-scale, other than natural gas|AR",,,,,0.0010481544034714944
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Cauchari-Olaroz|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Lakkor Tso|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.002973834071817713
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Kachi|heat, central or small-scale, other than natural gas|AR",,,,,0.030448091682293957
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Uyuni|heat, central or small-scale, other than natural gas|BO",,,,,0.0014851106505624318
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Chaerhan|heat, central or small-scale, other than natural gas|CN-NWG",,,,,0.002973834071817713
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Arizaro|heat, central or small-scale, other than natural gas|AR",,,,,0.0010940500309014746
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Salar de Pastos Grandes|heat, central or small-scale, other than natural gas|AR",,,,,0.0017900620805815098
+Water scarcity,"heat production, at heat pump 30kW, allocation exergy, Sal de Vida|heat, central or small-scale, other than natural gas|AR",,,,,0.0010940500309014746

@@ -1,0 +1,865 @@
+Project name,Impact,SA scenario,Total
+Maricunga,Climate change,2035_BAT_Fuel mix_15CCS,5.097611452581118
+Tres Quebradas,Climate change,2035_BAT_Fuel mix_15CCS,4.065062296707812
+Salar de Pastos Grandes,Climate change,2035_BAT_Fuel mix_15CCS,11.009605988002436
+Salar de Arizaro,Climate change,2035_BAT_Fuel mix_15CCS,39.63554583333898
+Upper Rhine Graben,Climate change,2035_BAT_Fuel mix_15CCS,3.084781430047712
+East Taijinar,Climate change,2035_BAT_Fuel mix_15CCS,13.382367590579243
+Silver Peak,Climate change,2035_BAT_Fuel mix_15CCS,1.8869111248795831
+Salar del Rincon,Climate change,2035_BAT_Fuel mix_15CCS,16.632050156411733
+Salar del Hombre Muerto North,Climate change,2035_BAT_Fuel mix_15CCS,8.6377992445864
+Zhabuye,Climate change,2035_BAT_Fuel mix_15CCS,2.888526512159035
+Salar de Atacama,Climate change,2035_BAT_Fuel mix_15CCS,3.003465014322073
+Chaerhan,Climate change,2035_BAT_Fuel mix_15CCS,23.369371546047347
+Sal de los Angeles,Climate change,2035_BAT_Fuel mix_15CCS,29.312718498322088
+Sal de Vida,Climate change,2035_BAT_Fuel mix_15CCS,3.4158798648057753
+Pozuelos,Climate change,2035_BAT_Fuel mix_15CCS,20.304674020677233
+Lakkor Tso,Climate change,2035_BAT_Fuel mix_15CCS,30.41510198124972
+Salar de Uyuni,Climate change,2035_BAT_Fuel mix_15CCS,22.67463791722593
+Qinghai Yiliping,Climate change,2035_BAT_Fuel mix_15CCS,22.442202535248086
+Salar de Centenario,Climate change,2035_BAT_Fuel mix_15CCS,21.3771189417103
+Salar de Olaroz,Climate change,2035_BAT_Fuel mix_15CCS,2.8788090230198877
+Kachi,Climate change,2035_BAT_Fuel mix_15CCS,29.96211727601013
+Fenix,Climate change,2035_BAT_Fuel mix_15CCS,21.840506944824845
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_Fuel mix_15CCS,6.61015842063793
+Salar de Tolillar,Climate change,2035_BAT_Fuel mix_15CCS,30.19699545937082
+Maricunga,Water scarcity,2035_BAT_Fuel mix_15CCS,15.828846615713434
+Tres Quebradas,Water scarcity,2035_BAT_Fuel mix_15CCS,7.449144070103019
+Salar de Pastos Grandes,Water scarcity,2035_BAT_Fuel mix_15CCS,10.16955485623335
+Salar de Arizaro,Water scarcity,2035_BAT_Fuel mix_15CCS,8.241151869777099
+Upper Rhine Graben,Water scarcity,2035_BAT_Fuel mix_15CCS,0.9074088111508529
+East Taijinar,Water scarcity,2035_BAT_Fuel mix_15CCS,6.58606426046039
+Silver Peak,Water scarcity,2035_BAT_Fuel mix_15CCS,3.4651850757913576
+Salar del Rincon,Water scarcity,2035_BAT_Fuel mix_15CCS,35.3328848027104
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_Fuel mix_15CCS,1.5946213305240584
+Zhabuye,Water scarcity,2035_BAT_Fuel mix_15CCS,3.361054189122867
+Salar de Atacama,Water scarcity,2035_BAT_Fuel mix_15CCS,5.429202230981389
+Chaerhan,Water scarcity,2035_BAT_Fuel mix_15CCS,6.890138442110302
+Sal de los Angeles,Water scarcity,2035_BAT_Fuel mix_15CCS,4.736000386329811
+Sal de Vida,Water scarcity,2035_BAT_Fuel mix_15CCS,0.43878234589508536
+Pozuelos,Water scarcity,2035_BAT_Fuel mix_15CCS,15.570280761918895
+Lakkor Tso,Water scarcity,2035_BAT_Fuel mix_15CCS,10.383552030736203
+Salar de Uyuni,Water scarcity,2035_BAT_Fuel mix_15CCS,6.758763042454776
+Qinghai Yiliping,Water scarcity,2035_BAT_Fuel mix_15CCS,9.288410845022147
+Salar de Centenario,Water scarcity,2035_BAT_Fuel mix_15CCS,4.01840711952786
+Salar de Olaroz,Water scarcity,2035_BAT_Fuel mix_15CCS,1.9167689265012169
+Kachi,Water scarcity,2035_BAT_Fuel mix_15CCS,5.484645502338195
+Fenix,Water scarcity,2035_BAT_Fuel mix_15CCS,3.7114990552950924
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_Fuel mix_15CCS,1.5510756274833737
+Salar de Tolillar,Water scarcity,2035_BAT_Fuel mix_15CCS,3.3678206330575
+Maricunga,Climate change,2035_BAT_Biomass_15CCS,4.719227387842122
+Tres Quebradas,Climate change,2035_BAT_Biomass_15CCS,3.7999282494275284
+Salar de Pastos Grandes,Climate change,2035_BAT_Biomass_15CCS,9.728844899312987
+Salar de Arizaro,Climate change,2035_BAT_Biomass_15CCS,37.41373674974668
+Upper Rhine Graben,Climate change,2035_BAT_Biomass_15CCS,2.7623374321860235
+East Taijinar,Climate change,2035_BAT_Biomass_15CCS,13.030003465558712
+Silver Peak,Climate change,2035_BAT_Biomass_15CCS,1.6219585611303362
+Salar del Rincon,Climate change,2035_BAT_Biomass_15CCS,15.452185126096253
+Salar del Hombre Muerto North,Climate change,2035_BAT_Biomass_15CCS,7.851463952018822
+Zhabuye,Climate change,2035_BAT_Biomass_15CCS,2.645411925301869
+Salar de Atacama,Climate change,2035_BAT_Biomass_15CCS,2.709359395020196
+Chaerhan,Climate change,2035_BAT_Biomass_15CCS,23.11557565653932
+Sal de los Angeles,Climate change,2035_BAT_Biomass_15CCS,28.451729974125435
+Sal de Vida,Climate change,2035_BAT_Biomass_15CCS,3.1036938521647044
+Pozuelos,Climate change,2035_BAT_Biomass_15CCS,18.683127693253287
+Lakkor Tso,Climate change,2035_BAT_Biomass_15CCS,30.16107434212224
+Salar de Uyuni,Climate change,2035_BAT_Biomass_15CCS,19.396071660874906
+Qinghai Yiliping,Climate change,2035_BAT_Biomass_15CCS,22.188436250866676
+Salar de Centenario,Climate change,2035_BAT_Biomass_15CCS,20.20335647532322
+Salar de Olaroz,Climate change,2035_BAT_Biomass_15CCS,2.505135751808488
+Kachi,Climate change,2035_BAT_Biomass_15CCS,28.55303328110415
+Fenix,Climate change,2035_BAT_Biomass_15CCS,20.76749780863549
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_Biomass_15CCS,5.912617320175739
+Salar de Tolillar,Climate change,2035_BAT_Biomass_15CCS,28.956228413346132
+Maricunga,Water scarcity,2035_BAT_Biomass_15CCS,15.849131868130074
+Tres Quebradas,Water scarcity,2035_BAT_Biomass_15CCS,7.463541460357569
+Salar de Pastos Grandes,Water scarcity,2035_BAT_Biomass_15CCS,10.212778985243817
+Salar de Arizaro,Water scarcity,2035_BAT_Biomass_15CCS,8.361800544563062
+Upper Rhine Graben,Water scarcity,2035_BAT_Biomass_15CCS,0.9231239172105783
+East Taijinar,Water scarcity,2035_BAT_Biomass_15CCS,6.602730511900555
+Silver Peak,Water scarcity,2035_BAT_Biomass_15CCS,3.479266681301024
+Salar del Rincon,Water scarcity,2035_BAT_Biomass_15CCS,35.39695359104809
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_Biomass_15CCS,1.6237055426872644
+Zhabuye,Water scarcity,2035_BAT_Biomass_15CCS,3.367942833972717
+Salar de Atacama,Water scarcity,2035_BAT_Biomass_15CCS,5.445135290868419
+Chaerhan,Water scarcity,2035_BAT_Biomass_15CCS,6.903920078181635
+Sal de los Angeles,Water scarcity,2035_BAT_Biomass_15CCS,4.7827548023881725
+Sal de Vida,Water scarcity,2035_BAT_Biomass_15CCS,0.45427849586622926
+Pozuelos,Water scarcity,2035_BAT_Biomass_15CCS,15.658336593673193
+Lakkor Tso,Water scarcity,2035_BAT_Biomass_15CCS,10.397346118677255
+Salar de Uyuni,Water scarcity,2035_BAT_Biomass_15CCS,6.936803039415121
+Qinghai Yiliping,Water scarcity,2035_BAT_Biomass_15CCS,9.302190887526267
+Salar de Centenario,Water scarcity,2035_BAT_Biomass_15CCS,4.082146931065523
+Salar de Olaroz,Water scarcity,2035_BAT_Biomass_15CCS,1.933928609817114
+Kachi,Water scarcity,2035_BAT_Biomass_15CCS,5.56116420350231
+Fenix,Water scarcity,2035_BAT_Biomass_15CCS,3.7697676232675255
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_Biomass_15CCS,1.577429579433705
+Salar de Tolillar,Water scarcity,2035_BAT_Biomass_15CCS,3.4351990689864014
+Maricunga,Climate change,2035_BAT_NG_15CCS,5.150058608137036
+Tres Quebradas,Climate change,2035_BAT_NG_15CCS,4.104039448668799
+Salar de Pastos Grandes,Climate change,2035_BAT_NG_15CCS,10.878351501141916
+Salar de Arizaro,Climate change,2035_BAT_NG_15CCS,39.9621639967777
+Upper Rhine Graben,Climate change,2035_BAT_NG_15CCS,3.1104028280158684
+East Taijinar,Climate change,2035_BAT_NG_15CCS,13.404211132039938
+Silver Peak,Climate change,2035_BAT_NG_15CCS,1.9221480396031398
+Salar del Rincon,Climate change,2035_BAT_NG_15CCS,16.80549387620183
+Salar del Hombre Muerto North,Climate change,2035_BAT_NG_15CCS,8.588123457890553
+Zhabuye,Climate change,2035_BAT_NG_15CCS,2.847635197269642
+Salar de Atacama,Climate change,2035_BAT_NG_15CCS,3.046245407341955
+Chaerhan,Climate change,2035_BAT_NG_15CCS,23.40668107832813
+Sal de los Angeles,Climate change,2035_BAT_NG_15CCS,29.439300900883527
+Sal de Vida,Climate change,2035_BAT_NG_15CCS,3.444097013397716
+Pozuelos,Climate change,2035_BAT_NG_15CCS,20.543082112843518
+Lakkor Tso,Climate change,2035_BAT_NG_15CCS,30.45244397117057
+Salar de Uyuni,Climate change,2035_BAT_NG_15CCS,23.15669373822711
+Qinghai Yiliping,Climate change,2035_BAT_NG_15CCS,22.47950788614405
+Salar de Centenario,Climate change,2035_BAT_NG_15CCS,21.549694736292754
+Salar de Olaroz,Climate change,2035_BAT_NG_15CCS,2.8957287715956275
+Kachi,Climate change,2035_BAT_NG_15CCS,30.169292215464157
+Fenix,Climate change,2035_BAT_NG_15CCS,21.99826979073979
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_NG_15CCS,6.572816563418026
+Salar de Tolillar,Climate change,2035_BAT_NG_15CCS,30.379423018671325
+Maricunga,Water scarcity,2035_BAT_NG_15CCS,15.821767828872899
+Tres Quebradas,Water scarcity,2035_BAT_NG_15CCS,7.4442259827408135
+Salar de Pastos Grandes,Water scarcity,2035_BAT_NG_15CCS,10.139768622291399
+Salar de Arizaro,Water scarcity,2035_BAT_NG_15CCS,8.19993840458862
+Upper Rhine Graben,Water scarcity,2035_BAT_NG_15CCS,0.9010167097825995
+East Taijinar,Water scarcity,2035_BAT_NG_15CCS,6.578962890587432
+Silver Peak,Water scarcity,2035_BAT_NG_15CCS,3.4602002899049307
+Salar del Rincon,Water scarcity,2035_BAT_NG_15CCS,35.31099883184315
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_NG_15CCS,1.5769169659151852
+Zhabuye,Water scarcity,2035_BAT_NG_15CCS,3.3550987194160964
+Salar de Atacama,Water scarcity,2035_BAT_NG_15CCS,5.423738136650446
+Chaerhan,Water scarcity,2035_BAT_NG_15CCS,6.885430656312052
+Sal de los Angeles,Water scarcity,2035_BAT_NG_15CCS,4.720029706477302
+Sal de Vida,Water scarcity,2035_BAT_NG_15CCS,0.4326579516174568
+Pozuelos,Water scarcity,2035_BAT_NG_15CCS,15.54020247688116
+Lakkor Tso,Water scarcity,2035_BAT_NG_15CCS,10.378839915811863
+Salar de Uyuni,Water scarcity,2035_BAT_NG_15CCS,6.697948923788151
+Qinghai Yiliping,Water scarcity,2035_BAT_NG_15CCS,9.283703611590786
+Salar de Centenario,Water scarcity,2035_BAT_NG_15CCS,3.996634899243309
+Salar de Olaroz,Water scarcity,2035_BAT_NG_15CCS,1.9091202806573322
+Kachi,Water scarcity,2035_BAT_NG_15CCS,5.458508289007758
+Fenix,Water scarcity,2035_BAT_NG_15CCS,3.691595728486149
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_NG_15CCS,1.5354973397229696
+Salar de Tolillar,Water scarcity,2035_BAT_NG_15CCS,3.344805543151394
+Maricunga,Climate change,2035_BAT_Fuel mix_0CCS,5.135981413327579
+Tres Quebradas,Climate change,2035_BAT_Fuel mix_0CCS,4.087689818820751
+Salar de Pastos Grandes,Climate change,2035_BAT_Fuel mix_0CCS,11.729808384775747
+Salar de Arizaro,Climate change,2035_BAT_Fuel mix_0CCS,39.82517907277316
+Upper Rhine Graben,Climate change,2035_BAT_Fuel mix_0CCS,3.1539409158842306
+East Taijinar,Climate change,2035_BAT_Fuel mix_0CCS,13.469712306773708
+Silver Peak,Climate change,2035_BAT_Fuel mix_0CCS,1.9166227888619025
+Salar del Rincon,Climate change,2035_BAT_Fuel mix_0CCS,16.73275822038307
+Salar del Hombre Muerto North,Climate change,2035_BAT_Fuel mix_0CCS,9.020881752452985
+Zhabuye,Climate change,2035_BAT_Fuel mix_0CCS,3.055779781517499
+Salar de Atacama,Climate change,2035_BAT_Fuel mix_0CCS,3.0294365731766515
+Chaerhan,Climate change,2035_BAT_Fuel mix_0CCS,23.391032970155518
+Sal de los Angeles,Climate change,2035_BAT_Fuel mix_0CCS,29.386180970778987
+Sal de Vida,Climate change,2035_BAT_Fuel mix_0CCS,3.47631825405021
+Pozuelos,Climate change,2035_BAT_Fuel mix_0CCS,20.44301343505851
+Lakkor Tso,Climate change,2035_BAT_Fuel mix_0CCS,30.436786265572213
+Salar de Uyuni,Climate change,2035_BAT_Fuel mix_0CCS,22.954296998243176
+Qinghai Yiliping,Climate change,2035_BAT_Fuel mix_0CCS,22.46386110606474
+Salar de Centenario,Climate change,2035_BAT_Fuel mix_0CCS,21.47725035232574
+Salar de Olaroz,Climate change,2035_BAT_Fuel mix_0CCS,2.9833747435809346
+Kachi,Climate change,2035_BAT_Fuel mix_0CCS,30.082322896599255
+Fenix,Climate change,2035_BAT_Fuel mix_0CCS,21.932042138583316
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_Fuel mix_0CCS,6.937126740608023
+Salar de Tolillar,Climate change,2035_BAT_Fuel mix_0CCS,30.302842471443263
+Maricunga,Water scarcity,2035_BAT_Fuel mix_0CCS,15.826959364153248
+Tres Quebradas,Water scarcity,2035_BAT_Fuel mix_0CCS,7.447967775910503
+Salar de Pastos Grandes,Water scarcity,2035_BAT_Fuel mix_0CCS,10.142912609049425
+Salar de Arizaro,Water scarcity,2035_BAT_Fuel mix_0CCS,8.231294044680864
+Upper Rhine Graben,Water scarcity,2035_BAT_Fuel mix_0CCS,0.9045495469075152
+East Taijinar,Water scarcity,2035_BAT_Fuel mix_0CCS,6.582535924380943
+Silver Peak,Water scarcity,2035_BAT_Fuel mix_0CCS,3.463765996985899
+Salar del Rincon,Water scarcity,2035_BAT_Fuel mix_0CCS,35.32764973074676
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_Fuel mix_0CCS,1.580291549207392
+Zhabuye,Water scarcity,2035_BAT_Fuel mix_0CCS,3.354948970537847
+Salar de Atacama,Water scarcity,2035_BAT_Fuel mix_0CCS,5.4278675002736945
+Chaerhan,Water scarcity,2035_BAT_Fuel mix_0CCS,6.889012397890568
+Sal de los Angeles,Water scarcity,2035_BAT_Fuel mix_0CCS,4.732181122785157
+Sal de Vida,Water scarcity,2035_BAT_Fuel mix_0CCS,0.43623777785436757
+Pozuelos,Water scarcity,2035_BAT_Fuel mix_0CCS,15.563088300125123
+Lakkor Tso,Water scarcity,2035_BAT_Fuel mix_0CCS,10.38242485258764
+Salar de Uyuni,Water scarcity,2035_BAT_Fuel mix_0CCS,6.744222355859414
+Qinghai Yiliping,Water scarcity,2035_BAT_Fuel mix_0CCS,9.287284943357983
+Salar de Centenario,Water scarcity,2035_BAT_Fuel mix_0CCS,4.013201038022429
+Salar de Olaroz,Water scarcity,2035_BAT_Fuel mix_0CCS,1.9126175906118532
+Kachi,Water scarcity,2035_BAT_Fuel mix_0CCS,5.478395701748358
+Fenix,Water scarcity,2035_BAT_Fuel mix_0CCS,3.70673989226629
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_Fuel mix_0CCS,1.5388050764790595
+Salar de Tolillar,Water scarcity,2035_BAT_Fuel mix_0CCS,3.362317375567173
+Maricunga,Climate change,2035_BAT_Biomass_0CCS,4.764480162447667
+Tres Quebradas,Climate change,2035_BAT_Biomass_0CCS,3.8275105203044992
+Salar de Pastos Grandes,Climate change,2035_BAT_Biomass_0CCS,10.45405165859628
+Salar de Arizaro,Climate change,2035_BAT_Biomass_0CCS,37.64489002803209
+Upper Rhine Graben,Climate change,2035_BAT_Biomass_0CCS,2.8362323143139534
+East Taijinar,Climate change,2035_BAT_Biomass_0CCS,13.122158329800605
+Silver Peak,Climate change,2035_BAT_Biomass_0CCS,1.6564015831867889
+Salar del Rincon,Climate change,2035_BAT_Biomass_0CCS,15.574941733947663
+Salar del Hombre Muerto North,Climate change,2035_BAT_Biomass_0CCS,8.239450059284982
+Zhabuye,Climate change,2035_BAT_Biomass_0CCS,2.8126686403334746
+Salar de Atacama,Climate change,2035_BAT_Biomass_0CCS,2.7408001096496024
+Chaerhan,Climate change,2035_BAT_Biomass_0CCS,23.141979897408536
+Sal de los Angeles,Climate change,2035_BAT_Biomass_0CCS,28.541282893974444
+Sal de Vida,Climate change,2035_BAT_Biomass_0CCS,3.1689190555744977
+Pozuelos,Climate change,2035_BAT_Biomass_0CCS,18.851771628016596
+Lakkor Tso,Climate change,2035_BAT_Biomass_0CCS,30.187505678592757
+Salar de Uyuni,Climate change,2035_BAT_Biomass_0CCS,19.737004165751244
+Qinghai Yiliping,Climate change,2035_BAT_Biomass_0CCS,22.214837095310063
+Salar de Centenario,Climate change,2035_BAT_Biomass_0CCS,20.32542411713249
+Salar de Olaroz,Climate change,2035_BAT_Biomass_0CCS,2.6144325589708983
+Kachi,Climate change,2035_BAT_Biomass_0CCS,28.699573032828795
+Fenix,Climate change,2035_BAT_Biomass_0CCS,20.879086308615875
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_Biomass_0CCS,6.244333889249208
+Salar de Tolillar,Climate change,2035_BAT_Biomass_0CCS,29.085263906272903
+Maricunga,Water scarcity,2035_BAT_Biomass_0CCS,15.846869504292574
+Tres Quebradas,Water scarcity,2035_BAT_Biomass_0CCS,7.462095133160825
+Salar de Pastos Grandes,Water scarcity,2035_BAT_Biomass_0CCS,10.18586399775263
+Salar de Arizaro,Water scarcity,2035_BAT_Biomass_0CCS,8.349679884251001
+Upper Rhine Graben,Water scarcity,2035_BAT_Biomass_0CCS,0.9200065743982191
+East Taijinar,Water scarcity,2035_BAT_Biomass_0CCS,6.598940023251389
+Silver Peak,Water scarcity,2035_BAT_Biomass_0CCS,3.4775897441974997
+Salar del Rincon,Water scarcity,2035_BAT_Biomass_0CCS,35.39051687697335
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_Biomass_0CCS,1.609108514277171
+Zhabuye,Water scarcity,2035_BAT_Biomass_0CCS,3.3618374267934827
+Salar de Atacama,Water scarcity,2035_BAT_Biomass_0CCS,5.443502492049928
+Chaerhan,Water scarcity,2035_BAT_Biomass_0CCS,6.902535551214518
+Sal de los Angeles,Water scarcity,2035_BAT_Biomass_0CCS,4.778058612071403
+Sal de Vida,Water scarcity,2035_BAT_Biomass_0CCS,0.45147304703983726
+Pozuelos,Water scarcity,2035_BAT_Biomass_0CCS,15.64949254035183
+Lakkor Tso,Water scarcity,2035_BAT_Biomass_0CCS,10.395960226964487
+Salar de Uyuni,Water scarcity,2035_BAT_Biomass_0CCS,6.918922961062613
+Qinghai Yiliping,Water scarcity,2035_BAT_Biomass_0CCS,9.30080653271587
+Salar de Centenario,Water scarcity,2035_BAT_Biomass_0CCS,4.075745328468335
+Salar de Olaroz,Water scarcity,2035_BAT_Biomass_0CCS,1.9295194300736298
+Kachi,Water scarcity,2035_BAT_Biomass_0CCS,5.5534791969908355
+Fenix,Water scarcity,2035_BAT_Biomass_0CCS,3.7639155582697805
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_Biomass_0CCS,1.5649002481559298
+Salar de Tolillar,Water scarcity,2035_BAT_Biomass_0CCS,3.4284320430230006
+Maricunga,Climate change,2035_BAT_NG_0CCS,5.187400428591748
+Tres Quebradas,Climate change,2035_BAT_NG_0CCS,4.125926835693412
+Salar de Pastos Grandes,Climate change,2035_BAT_NG_0CCS,11.597807065734784
+Salar de Arizaro,Climate change,2035_BAT_NG_0CCS,40.145595018248464
+Upper Rhine Graben,Climate change,2035_BAT_NG_0CCS,3.1788549940599244
+East Taijinar,Climate change,2035_BAT_NG_0CCS,13.490837380608205
+Silver Peak,Climate change,2035_BAT_NG_0CCS,1.9511529466423705
+Salar del Rincon,Climate change,2035_BAT_NG_0CCS,16.902908352118935
+Salar del Hombre Muerto North,Climate change,2035_BAT_NG_0CCS,8.970473840698968
+Zhabuye,Climate change,2035_BAT_NG_0CCS,3.014888123184819
+Salar de Atacama,Climate change,2035_BAT_NG_0CCS,3.0713999905611282
+Chaerhan,Climate change,2035_BAT_NG_0CCS,23.42763402553507
+Sal de los Angeles,Climate change,2035_BAT_NG_0CCS,29.510359799379092
+Sal de Vida,Climate change,2035_BAT_NG_0CCS,3.503820392945584
+Pozuelos,Climate change,2035_BAT_NG_0CCS,20.676894670187295
+Lakkor Tso,Climate change,2035_BAT_NG_0CCS,30.473419145935644
+Salar de Uyuni,Climate change,2035_BAT_NG_0CCS,23.42719986013897
+Qinghai Yiliping,Climate change,2035_BAT_NG_0CCS,22.500458061189327
+Salar de Centenario,Climate change,2035_BAT_NG_0CCS,21.64654933593972
+Salar de Olaroz,Climate change,2035_BAT_NG_0CCS,2.9995878524498436
+Kachi,Climate change,2035_BAT_NG_0CCS,30.285564071435413
+Fenix,Climate change,2035_BAT_NG_0CCS,22.086809442913754
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_NG_0CCS,6.899075907672186
+Salar de Tolillar,Climate change,2035_BAT_NG_0CCS,30.481806160154072
+Maricunga,Water scarcity,2035_BAT_NG_0CCS,15.820007946106687
+Tres Quebradas,Water scarcity,2035_BAT_NG_0CCS,7.44314137790481
+Salar de Pastos Grandes,Water scarcity,2035_BAT_NG_0CCS,10.113218974866792
+Salar de Arizaro,Water scarcity,2035_BAT_NG_0CCS,8.190848922697729
+Upper Rhine Graben,Water scarcity,2035_BAT_NG_0CCS,0.8982450751616005
+East Taijinar,Water scarcity,2035_BAT_NG_0CCS,6.5755235673463295
+Silver Peak,Water scarcity,2035_BAT_NG_0CCS,3.458868766430288
+Salar del Rincon,Water scarcity,2035_BAT_NG_0CCS,35.30617177582998
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_NG_0CCS,1.5626779234338364
+Zhabuye,Water scarcity,2035_BAT_NG_0CCS,3.348993562743549
+Salar de Atacama,Water scarcity,2035_BAT_NG_0CCS,5.42250461456744
+Chaerhan,Water scarcity,2035_BAT_NG_0CCS,6.88439237957152
+Sal de los Angeles,Water scarcity,2035_BAT_NG_0CCS,4.716508202242233
+Sal de Vida,Water scarcity,2035_BAT_NG_0CCS,0.4302019648107015
+Pozuelos,Water scarcity,2035_BAT_NG_0CCS,15.53357081078111
+Lakkor Tso,Water scarcity,2035_BAT_NG_0CCS,10.377800583531853
+Salar de Uyuni,Water scarcity,2035_BAT_NG_0CCS,6.6845421231986695
+Qinghai Yiliping,Water scarcity,2035_BAT_NG_0CCS,9.282665467355335
+Salar de Centenario,Water scarcity,2035_BAT_NG_0CCS,3.991834755310616
+Salar de Olaroz,Water scarcity,2035_BAT_NG_0CCS,1.9050564942596495
+Kachi,Water scarcity,2035_BAT_NG_0CCS,5.452745810639806
+Fenix,Water scarcity,2035_BAT_NG_0CCS,3.6872076588672114
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_NG_0CCS,1.5233146533684496
+Salar de Tolillar,Water scarcity,2035_BAT_NG_0CCS,3.3397313965899165
+Maricunga,Climate change,2035_BAT_Fuel mix_100CCS,4.8801784177541885
+Tres Quebradas,Climate change,2035_BAT_Fuel mix_100CCS,3.9368375524786887
+Salar de Pastos Grandes,Climate change,2035_BAT_Fuel mix_100CCS,6.928425389209465
+Salar de Arizaro,Climate change,2035_BAT_Fuel mix_100CCS,38.5609397171524
+Upper Rhine Graben,Climate change,2035_BAT_Fuel mix_100CCS,2.6928735018147654
+East Taijinar,Climate change,2035_BAT_Fuel mix_100CCS,12.88740918426911
+Silver Peak,Climate change,2035_BAT_Fuel mix_100CCS,1.7185426390705174
+Salar del Rincon,Climate change,2035_BAT_Fuel mix_100CCS,16.061361698009566
+Salar del Hombre Muerto North,Climate change,2035_BAT_Fuel mix_100CCS,6.466979954239304
+Zhabuye,Climate change,2035_BAT_Fuel mix_100CCS,1.9407504195619327
+Salar de Atacama,Climate change,2035_BAT_Fuel mix_100CCS,2.8562904635731057
+Chaerhan,Climate change,2035_BAT_Fuel mix_100CCS,23.246621447716898
+Sal de los Angeles,Climate change,2035_BAT_Fuel mix_100CCS,28.896424273916942
+Sal de Vida,Climate change,2035_BAT_Fuel mix_100CCS,3.073391866980795
+Pozuelos,Climate change,2035_BAT_Fuel mix_100CCS,19.520737715723037
+Lakkor Tso,Climate change,2035_BAT_Fuel mix_100CCS,30.292222339661283
+Salar de Uyuni,Climate change,2035_BAT_Fuel mix_100CCS,21.0898769291904
+Qinghai Yiliping,Climate change,2035_BAT_Fuel mix_100CCS,22.319468605848904
+Salar de Centenario,Climate change,2035_BAT_Fuel mix_100CCS,20.80969823634419
+Salar de Olaroz,Climate change,2035_BAT_Fuel mix_100CCS,2.2862641639706576
+Kachi,Climate change,2035_BAT_Fuel mix_100CCS,29.280940833872595
+Fenix,Climate change,2035_BAT_Fuel mix_100CCS,21.321798939809913
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_Fuel mix_100CCS,4.757322101047188
+Salar de Tolillar,Climate change,2035_BAT_Fuel mix_100CCS,29.597185810084696
+Maricunga,Water scarcity,2035_BAT_Fuel mix_100CCS,15.839541194667824
+Tres Quebradas,Water scarcity,2035_BAT_Fuel mix_100CCS,7.455809837330969
+Salar de Pastos Grandes,Water scarcity,2035_BAT_Fuel mix_100CCS,10.320529131460905
+Salar de Arizaro,Water scarcity,2035_BAT_Fuel mix_100CCS,8.297013717028847
+Upper Rhine Graben,Water scarcity,2035_BAT_Fuel mix_100CCS,0.9236115024478486
+East Taijinar,Water scarcity,2035_BAT_Fuel mix_100CCS,6.6060583970149445
+Silver Peak,Water scarcity,2035_BAT_Fuel mix_100CCS,3.473226634772012
+Salar del Rincon,Water scarcity,2035_BAT_Fuel mix_100CCS,35.362550656482384
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_Fuel mix_100CCS,1.67582426850502
+Zhabuye,Water scarcity,2035_BAT_Fuel mix_100CCS,3.395650773191774
+Salar de Atacama,Water scarcity,2035_BAT_Fuel mix_100CCS,5.436765817593663
+Chaerhan,Water scarcity,2035_BAT_Fuel mix_100CCS,6.896519455231507
+Sal de los Angeles,Water scarcity,2035_BAT_Fuel mix_100CCS,4.757643204886022
+Sal de Vida,Water scarcity,2035_BAT_Fuel mix_100CCS,0.4532017412165655
+Pozuelos,Water scarcity,2035_BAT_Fuel mix_100CCS,15.611038658136547
+Lakkor Tso,Water scarcity,2035_BAT_Fuel mix_100CCS,10.38993946949119
+Salar de Uyuni,Water scarcity,2035_BAT_Fuel mix_100CCS,6.841161504900057
+Qinghai Yiliping,Water scarcity,2035_BAT_Fuel mix_100CCS,9.29479105032013
+Salar de Centenario,Water scarcity,2035_BAT_Fuel mix_100CCS,4.047908691522916
+Salar de Olaroz,Water scarcity,2035_BAT_Fuel mix_100CCS,1.9402934301401036
+Kachi,Water scarcity,2035_BAT_Fuel mix_100CCS,5.520061571388785
+Fenix,Water scarcity,2035_BAT_Fuel mix_100CCS,3.738468051117768
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_Fuel mix_100CCS,1.6206094761918788
+Salar de Tolillar,Water scarcity,2035_BAT_Fuel mix_100CCS,3.399006227533035
+Maricunga,Climate change,2035_BAT_Biomass_100CCS,4.462792314938109
+Tres Quebradas,Climate change,2035_BAT_Biomass_100CCS,3.643627037842289
+Salar de Pastos Grandes,Climate change,2035_BAT_Biomass_100CCS,5.6193026110411255
+Salar de Arizaro,Climate change,2035_BAT_Biomass_100CCS,36.10385412209928
+Upper Rhine Graben,Climate change,2035_BAT_Biomass_100CCS,2.343595736029571
+East Taijinar,Climate change,2035_BAT_Biomass_100CCS,12.507787600549932
+Silver Peak,Climate change,2035_BAT_Biomass_100CCS,1.426779421080297
+Salar del Rincon,Climate change,2035_BAT_Biomass_100CCS,14.756556886557979
+Salar del Hombre Muerto North,Climate change,2035_BAT_Biomass_100CCS,5.652855924963637
+Zhabuye,Climate change,2035_BAT_Biomass_100CCS,1.6976153285935691
+Salar de Atacama,Climate change,2035_BAT_Biomass_100CCS,2.531193443942653
+Chaerhan,Climate change,2035_BAT_Biomass_100CCS,22.965950019971274
+Sal de los Angeles,Climate change,2035_BAT_Biomass_100CCS,27.944257984471268
+Sal de Vida,Climate change,2035_BAT_Biomass_100CCS,2.7340807755423353
+Pozuelos,Climate change,2035_BAT_Biomass_100CCS,17.727468477774863
+Lakkor Tso,Climate change,2035_BAT_Biomass_100CCS,30.011295162184616
+Salar de Uyuni,Climate change,2035_BAT_Biomass_100CCS,17.464100074107893
+Qinghai Yiliping,Climate change,2035_BAT_Biomass_100CCS,22.038829860914415
+Salar de Centenario,Climate change,2035_BAT_Biomass_100CCS,19.511632417918022
+Salar de Olaroz,Climate change,2035_BAT_Biomass_100CCS,1.8857813387656315
+Kachi,Climate change,2035_BAT_Biomass_100CCS,27.72263244653668
+Fenix,Climate change,2035_BAT_Biomass_100CCS,20.135156191941594
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_Biomass_100CCS,4.032872892570857
+Salar de Tolillar,Climate change,2035_BAT_Biomass_100CCS,28.225019442672387
+Maricunga,Water scarcity,2035_BAT_Biomass_100CCS,15.861952053372029
+Tres Quebradas,Water scarcity,2035_BAT_Biomass_100CCS,7.471737391474269
+Salar de Pastos Grandes,Water scarcity,2035_BAT_Biomass_100CCS,10.365298987931457
+Salar de Arizaro,Water scarcity,2035_BAT_Biomass_100CCS,8.430484931614597
+Upper Rhine Graben,Water scarcity,2035_BAT_Biomass_100CCS,0.9407890467213804
+East Taijinar,Water scarcity,2035_BAT_Biomass_100CCS,6.624210178201967
+Silver Peak,Water scarcity,2035_BAT_Biomass_100CCS,3.4887694177355346
+Salar del Rincon,Water scarcity,2035_BAT_Biomass_100CCS,35.43342864683461
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_Biomass_100CCS,1.7064229730976272
+Zhabuye,Water scarcity,2035_BAT_Biomass_100CCS,3.4025405400695132
+Salar de Atacama,Water scarcity,2035_BAT_Biomass_100CCS,5.454387904872204
+Chaerhan,Water scarcity,2035_BAT_Biomass_100CCS,6.911765804706941
+Sal de los Angeles,Water scarcity,2035_BAT_Biomass_100CCS,4.809366797503463
+Sal de Vida,Water scarcity,2035_BAT_Biomass_100CCS,0.4701762055729693
+Pozuelos,Water scarcity,2035_BAT_Biomass_100CCS,15.70845336663364
+Lakkor Tso,Water scarcity,2035_BAT_Biomass_100CCS,10.405199578845401
+Salar de Uyuni,Water scarcity,2035_BAT_Biomass_100CCS,7.0381244351720404
+Qinghai Yiliping,Water scarcity,2035_BAT_Biomass_100CCS,9.310035638494648
+Salar de Centenario,Water scarcity,2035_BAT_Biomass_100CCS,4.118423019910704
+Salar de Olaroz,Water scarcity,2035_BAT_Biomass_100CCS,1.95891423299287
+Kachi,Water scarcity,2035_BAT_Biomass_100CCS,5.60471298285155
+Fenix,Water scarcity,2035_BAT_Biomass_100CCS,3.8029296364494947
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_Biomass_100CCS,1.648429924925098
+Salar de Tolillar,Water scarcity,2035_BAT_Biomass_100CCS,3.473545909685853
+Maricunga,Climate change,2035_BAT_NG_100CCS,4.9384514919587765
+Tres Quebradas,Climate change,2035_BAT_NG_100CCS,3.980008647966595
+Salar de Pastos Grandes,Climate change,2035_BAT_NG_100CCS,6.801403404164192
+Salar de Arizaro,Climate change,2035_BAT_NG_100CCS,38.922702487319725
+Upper Rhine Graben,Climate change,2035_BAT_NG_100CCS,2.7225029382657233
+East Taijinar,Climate change,2035_BAT_NG_100CCS,12.91332394980003
+Silver Peak,Climate change,2035_BAT_NG_100CCS,1.75778436848837
+Salar del Rincon,Climate change,2035_BAT_NG_100CCS,16.253468391742587
+Salar del Hombre Muerto North,Climate change,2035_BAT_NG_100CCS,6.421453037877239
+Zhabuye,Climate change,2035_BAT_NG_100CCS,1.899861196952602
+Salar de Atacama,Climate change,2035_BAT_NG_100CCS,2.9037002146616513
+Chaerhan,Climate change,2035_BAT_NG_100CCS,23.287945533822246
+Sal de los Angeles,Climate change,2035_BAT_NG_100CCS,29.036626424120787
+Sal de Vida,Climate change,2035_BAT_NG_100CCS,3.105660620822955
+Pozuelos,Climate change,2035_BAT_NG_100CCS,19.784797047788402
+Lakkor Tso,Climate change,2035_BAT_NG_100CCS,30.333582468419213
+Salar de Uyuni,Climate change,2035_BAT_NG_100CCS,21.623797596654057
+Qinghai Yiliping,Climate change,2035_BAT_NG_100CCS,22.36078805083765
+Salar de Centenario,Climate change,2035_BAT_NG_100CCS,21.000841938438953
+Salar de Olaroz,Climate change,2035_BAT_NG_100CCS,2.3071881285043956
+Kachi,Climate change,2035_BAT_NG_100CCS,29.51040627990902
+Fenix,Climate change,2035_BAT_NG_100CCS,21.496535892664205
+Salar de Cauchari-Olaroz,Climate change,2035_BAT_NG_100CCS,4.723997891160426
+Salar de Tolillar,Climate change,2035_BAT_NG_100CCS,29.79924124255499
+Maricunga,Water scarcity,2035_BAT_NG_100CCS,15.831740656669151
+Tres Quebradas,Water scarcity,2035_BAT_NG_100CCS,7.450372181350444
+Salar de Pastos Grandes,Water scarcity,2035_BAT_NG_100CCS,10.290218094444043
+Salar de Arizaro,Water scarcity,2035_BAT_NG_100CCS,8.251446346163949
+Upper Rhine Graben,Water scarcity,2035_BAT_NG_100CCS,0.9167228321806249
+East Taijinar,Water scarcity,2035_BAT_NG_100CCS,6.598452618786156
+Silver Peak,Water scarcity,2035_BAT_NG_100CCS,3.4677457052541674
+Salar del Rincon,Water scarcity,2035_BAT_NG_100CCS,35.33835261441903
+Salar del Hombre Muerto North,Water scarcity,2035_BAT_NG_100CCS,1.6576056824858978
+Zhabuye,Water scarcity,2035_BAT_NG_100CCS,3.3896949345335403
+Salar de Atacama,Water scarcity,2035_BAT_NG_100CCS,5.430728212459303
+Chaerhan,Water scarcity,2035_BAT_NG_100CCS,6.891314324588255
+Sal de los Angeles,Water scarcity,2035_BAT_NG_100CCS,4.739985236336496
+Sal de Vida,Water scarcity,2035_BAT_NG_100CCS,0.44657538663662
+Pozuelos,Water scarcity,2035_BAT_NG_100CCS,15.57778255751305
+Lakkor Tso,Water scarcity,2035_BAT_NG_100CCS,10.38472956558803
+Salar de Uyuni,Water scarcity,2035_BAT_NG_100CCS,6.7739220860044105
+Qinghai Yiliping,Water scarcity,2035_BAT_NG_100CCS,9.289586528999232
+Salar de Centenario,Water scarcity,2035_BAT_NG_100CCS,4.023836177567708
+Salar de Olaroz,Water scarcity,2035_BAT_NG_100CCS,1.9321486657315807
+Kachi,Water scarcity,2035_BAT_NG_100CCS,5.4911628883768815
+Fenix,Water scarcity,2035_BAT_NG_100CCS,3.716461879335257
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT_NG_100CCS,1.6045332600307811
+Salar de Tolillar,Water scarcity,2035_BAT_NG_100CCS,3.373559529550607
+Maricunga,Climate change,2035_BAT Worst_Fuel mix_15CCS,5.476074448200139
+Tres Quebradas,Climate change,2035_BAT Worst_Fuel mix_15CCS,4.333402764701193
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_Fuel mix_15CCS,11.853800549513357
+Salar de Arizaro,Climate change,2035_BAT Worst_Fuel mix_15CCS,41.884212833478344
+Upper Rhine Graben,Climate change,2035_BAT Worst_Fuel mix_15CCS,3.3803112386914127
+East Taijinar,Climate change,2035_BAT Worst_Fuel mix_15CCS,13.696612102150707
+Silver Peak,Climate change,2035_BAT Worst_Fuel mix_15CCS,2.149814288391002
+Salar del Rincon,Climate change,2035_BAT Worst_Fuel mix_15CCS,17.826173614069102
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_Fuel mix_15CCS,9.199828044986987
+Zhabuye,Climate change,2035_BAT Worst_Fuel mix_15CCS,3.0261696177536397
+Salar de Atacama,Climate change,2035_BAT Worst_Fuel mix_15CCS,3.300482530144153
+Chaerhan,Climate change,2035_BAT Worst_Fuel mix_15CCS,23.626235596304596
+Sal de los Angeles,Climate change,2035_BAT Worst_Fuel mix_15CCS,30.18413239432842
+Sal de Vida,Climate change,2035_BAT Worst_Fuel mix_15CCS,3.706833296713393
+Pozuelos,Climate change,2035_BAT Worst_Fuel mix_15CCS,21.945867174800366
+Lakkor Tso,Climate change,2035_BAT Worst_Fuel mix_15CCS,30.672198303404848
+Salar de Uyuni,Climate change,2035_BAT Worst_Fuel mix_15CCS,25.99296176225072
+Qinghai Yiliping,Climate change,2035_BAT Worst_Fuel mix_15CCS,22.699036864082842
+Salar de Centenario,Climate change,2035_BAT Worst_Fuel mix_15CCS,22.56510735461425
+Salar de Olaroz,Climate change,2035_BAT Worst_Fuel mix_15CCS,3.203222826154047
+Kachi,Climate change,2035_BAT Worst_Fuel mix_15CCS,31.3882797588163
+Fenix,Climate change,2035_BAT Worst_Fuel mix_15CCS,22.92652174892666
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_Fuel mix_15CCS,7.118235263189522
+Salar de Tolillar,Climate change,2035_BAT Worst_Fuel mix_15CCS,31.452800861909395
+Maricunga,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,15.885403187361321
+Tres Quebradas,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,7.48941861077551
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,10.271531514313008
+Salar de Arizaro,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,8.578647957645867
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,0.9500786951963612
+East Taijinar,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,6.6309102846472125
+Silver Peak,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,3.504356184321716
+Salar del Rincon,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,35.51210719831798
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,1.6661856226580074
+Zhabuye,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,3.3757828362972164
+Salar de Atacama,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,5.473745562874797
+Chaerhan,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,6.928690453967838
+Sal de los Angeles,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,4.866789396804073
+Sal de Vida,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,0.48108292919194784
+Pozuelos,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,15.816605279636311
+Lakkor Tso,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,10.42213877897769
+Salar de Uyuni,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,7.256807763242346
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,9.326958409283888
+Salar de Centenario,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,4.196710982188978
+Salar de Olaroz,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,1.9625178146511146
+Kachi,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,5.698696671770339
+Fenix,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,3.874497858509692
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,1.6165069309613962
+Salar de Tolillar,Water scarcity,2035_BAT Worst_Fuel mix_15CCS,3.5563030898648718
+Maricunga,Climate change,2035_BAT Worst_Biomass_15CCS,4.929450516946647
+Tres Quebradas,Climate change,2035_BAT Worst_Biomass_15CCS,3.949424501525785
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_Biomass_15CCS,10.136438662951946
+Salar de Arizaro,Climate change,2035_BAT Worst_Biomass_15CCS,38.66649916385523
+Upper Rhine Graben,Climate change,2035_BAT Worst_Biomass_15CCS,2.922706107325725
+East Taijinar,Climate change,2035_BAT Worst_Biomass_15CCS,13.199193504680437
+Silver Peak,Climate change,2035_BAT Worst_Biomass_15CCS,1.767696717748681
+Salar del Rincon,Climate change,2035_BAT Worst_Biomass_15CCS,16.117446675661803
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_Biomass_15CCS,8.132138085670691
+Zhabuye,Climate change,2035_BAT Worst_Biomass_15CCS,2.707053636010021
+Salar de Atacama,Climate change,2035_BAT Worst_Biomass_15CCS,2.87474256043142
+Chaerhan,Climate change,2035_BAT Worst_Biomass_15CCS,23.25867807637444
+Sal de los Angeles,Climate change,2035_BAT Worst_Biomass_15CCS,28.937208716125635
+Sal de Vida,Climate change,2035_BAT Worst_Biomass_15CCS,3.2623184505938863
+Pozuelos,Climate change,2035_BAT Worst_Biomass_15CCS,19.597464570017934
+Lakkor Tso,Climate change,2035_BAT Worst_Biomass_15CCS,30.304305847503873
+Salar de Uyuni,Climate change,2035_BAT Worst_Biomass_15CCS,21.244771565725635
+Qinghai Yiliping,Climate change,2035_BAT Worst_Biomass_15CCS,22.331522146024152
+Salar de Centenario,Climate change,2035_BAT Worst_Biomass_15CCS,20.86520583739817
+Salar de Olaroz,Climate change,2035_BAT Worst_Biomass_15CCS,2.6784099301811235
+Kachi,Climate change,2035_BAT Worst_Biomass_15CCS,29.347573693872853
+Fenix,Climate change,2035_BAT Worst_Biomass_15CCS,21.372535986555256
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_Biomass_15CCS,6.168217112502937
+Salar de Tolillar,Climate change,2035_BAT Worst_Biomass_15CCS,29.6558598649926
+Maricunga,Water scarcity,2035_BAT Worst_Biomass_15CCS,15.914747616275395
+Tres Quebradas,Water scarcity,2035_BAT Worst_Biomass_15CCS,7.510273294741303
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_Biomass_15CCS,10.330236623980582
+Salar de Arizaro,Water scarcity,2035_BAT Worst_Biomass_15CCS,8.753408000953817
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_Biomass_15CCS,0.9725759018825096
+East Taijinar,Water scarcity,2035_BAT Worst_Biomass_15CCS,6.654685302426252
+Silver Peak,Water scarcity,2035_BAT Worst_Biomass_15CCS,3.524708067420158
+Salar del Rincon,Water scarcity,2035_BAT Worst_Biomass_15CCS,35.60491103467802
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_Biomass_15CCS,1.7062943344537649
+Zhabuye,Water scarcity,2035_BAT Worst_Biomass_15CCS,3.3848245188824406
+Salar de Atacama,Water scarcity,2035_BAT Worst_Biomass_15CCS,5.496819099991852
+Chaerhan,Water scarcity,2035_BAT Worst_Biomass_15CCS,6.948653205261335
+Sal de los Angeles,Water scarcity,2035_BAT Worst_Biomass_15CCS,4.934513488058711
+Sal de Vida,Water scarcity,2035_BAT Worst_Biomass_15CCS,0.5033131311901264
+Pozuelos,Water scarcity,2035_BAT Worst_Biomass_15CCS,15.944154860653054
+Lakkor Tso,Water scarcity,2035_BAT Worst_Biomass_15CCS,10.442119547124882
+Salar de Uyuni,Water scarcity,2035_BAT Worst_Biomass_15CCS,7.514700424713079
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_Biomass_15CCS,9.346918854385978
+Salar de Centenario,Water scarcity,2035_BAT Worst_Biomass_15CCS,4.289038650612367
+Salar de Olaroz,Water scarcity,2035_BAT Worst_Biomass_15CCS,1.9869091085823527
+Kachi,Water scarcity,2035_BAT Worst_Biomass_15CCS,5.809534676123972
+Fenix,Water scarcity,2035_BAT Worst_Biomass_15CCS,3.9589003905216185
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_Biomass_15CCS,1.6529711217765244
+Salar de Tolillar,Water scarcity,2035_BAT Worst_Biomass_15CCS,3.6539013403089
+Maricunga,Climate change,2035_BAT Worst_NG_15CCS,5.552386917428725
+Tres Quebradas,Climate change,2035_BAT Worst_NG_15CCS,4.389941516043954
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_NG_15CCS,11.686995394018435
+Salar de Arizaro,Climate change,2035_BAT Worst_NG_15CCS,42.357993142458696
+Upper Rhine Graben,Climate change,2035_BAT Worst_NG_15CCS,3.4190844582462576
+East Taijinar,Climate change,2035_BAT Worst_NG_15CCS,13.730508871651923
+Silver Peak,Climate change,2035_BAT Worst_NG_15CCS,2.2012017218111657
+Salar del Rincon,Climate change,2035_BAT Worst_NG_15CCS,18.077764917864073
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_NG_15CCS,9.1399704176226
+Zhabuye,Climate change,2035_BAT Worst_NG_15CCS,2.9725109999230748
+Salar de Atacama,Climate change,2035_BAT Worst_NG_15CCS,3.362571765620881
+Chaerhan,Climate change,2035_BAT Worst_NG_15CCS,23.680355422303464
+Sal de los Angeles,Climate change,2035_BAT Worst_NG_15CCS,30.367747262978575
+Sal de Vida,Climate change,2035_BAT Worst_NG_15CCS,3.7490688815788897
+Pozuelos,Climate change,2035_BAT Worst_NG_15CCS,22.29169084201986
+Lakkor Tso,Climate change,2035_BAT Worst_NG_15CCS,30.726365330162352
+Salar de Uyuni,Climate change,2035_BAT Worst_NG_15CCS,26.6922076839228
+Qinghai Yiliping,Climate change,2035_BAT Worst_NG_15CCS,22.7531506121228
+Salar de Centenario,Climate change,2035_BAT Worst_NG_15CCS,22.815437522153147
+Salar de Olaroz,Climate change,2035_BAT Worst_NG_15CCS,3.2305720370177196
+Kachi,Climate change,2035_BAT Worst_NG_15CCS,31.688797761619053
+Fenix,Climate change,2035_BAT Worst_NG_15CCS,23.15536491940017
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_NG_15CCS,7.07439471430623
+Salar de Tolillar,Climate change,2035_BAT Worst_NG_15CCS,31.717421510984146
+Maricunga,Water scarcity,2035_BAT Worst_NG_15CCS,15.875188506338162
+Tres Quebradas,Water scarcity,2035_BAT Worst_NG_15CCS,7.482298591388691
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_NG_15CCS,10.231769679149863
+Salar de Arizaro,Water scarcity,2035_BAT Worst_NG_15CCS,8.51898243852812
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_NG_15CCS,0.9410537661736391
+East Taijinar,Water scarcity,2035_BAT Worst_NG_15CCS,6.620944517643464
+Silver Peak,Water scarcity,2035_BAT Worst_NG_15CCS,3.4971786565511045
+Salar del Rincon,Water scarcity,2035_BAT Worst_NG_15CCS,35.48042249170051
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_NG_15CCS,1.6422926964062652
+Zhabuye,Water scarcity,2035_BAT Worst_NG_15CCS,3.367966847637126
+Salar de Atacama,Water scarcity,2035_BAT Worst_NG_15CCS,5.4658398713845395
+Chaerhan,Water scarcity,2035_BAT Worst_NG_15CCS,6.921874900956997
+Sal de los Angeles,Water scarcity,2035_BAT Worst_NG_15CCS,4.843668208204214
+Sal de Vida,Water scarcity,2035_BAT Worst_NG_15CCS,0.472402409334328
+Pozuelos,Water scarcity,2035_BAT Worst_NG_15CCS,15.773060037553728
+Lakkor Tso,Water scarcity,2035_BAT Worst_NG_15CCS,10.415316975520781
+Salar de Uyuni,Water scarcity,2035_BAT Worst_NG_15CCS,7.168765070508877
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_NG_15CCS,9.320143654158056
+Salar de Centenario,Water scarcity,2035_BAT Worst_NG_15CCS,4.165190646922838
+Salar de Olaroz,Water scarcity,2035_BAT Worst_NG_15CCS,1.9518444671980215
+Kachi,Water scarcity,2035_BAT Worst_NG_15CCS,5.660856993754257
+Fenix,Water scarcity,2035_BAT Worst_NG_15CCS,3.845683173298752
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_NG_15CCS,1.595424991304636
+Salar de Tolillar,Water scarcity,2035_BAT Worst_NG_15CCS,3.522983410718334
+Maricunga,Climate change,2035_BAT Worst_Fuel mix_0CCS,5.505372283172362
+Tres Quebradas,Climate change,2035_BAT Worst_Fuel mix_0CCS,4.349524530393034
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_Fuel mix_0CCS,12.563938588843962
+Salar de Arizaro,Climate change,2035_BAT Worst_Fuel mix_0CCS,42.01932873648738
+Upper Rhine Graben,Climate change,2035_BAT Worst_Fuel mix_0CCS,3.4430148592006056
+East Taijinar,Climate change,2035_BAT Worst_Fuel mix_0CCS,13.777313410481696
+Silver Peak,Climate change,2035_BAT Worst_Fuel mix_0CCS,2.173272915929225
+Salar del Rincon,Climate change,2035_BAT Worst_Fuel mix_0CCS,17.897931097327803
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_Fuel mix_0CCS,9.574665041332938
+Zhabuye,Climate change,2035_BAT Worst_Fuel mix_0CCS,3.192580564775799
+Salar de Atacama,Climate change,2035_BAT Worst_Fuel mix_0CCS,3.319267914662927
+Chaerhan,Climate change,2035_BAT Worst_Fuel mix_0CCS,23.64166952922467
+Sal de los Angeles,Climate change,2035_BAT Worst_Fuel mix_0CCS,30.23646765314509
+Sal de Vida,Climate change,2035_BAT Worst_Fuel mix_0CCS,3.760793172997278
+Pozuelos,Climate change,2035_BAT Worst_Fuel mix_0CCS,22.04441598813929
+Lakkor Tso,Climate change,2035_BAT Worst_Fuel mix_0CCS,30.68764951774151
+Salar de Uyuni,Climate change,2035_BAT Worst_Fuel mix_0CCS,26.192167553542724
+Qinghai Yiliping,Climate change,2035_BAT Worst_Fuel mix_0CCS,22.714468658721106
+Salar de Centenario,Climate change,2035_BAT Worst_Fuel mix_0CCS,22.636435974315745
+Salar de Olaroz,Climate change,2035_BAT Worst_Fuel mix_0CCS,3.301160869476515
+Kachi,Climate change,2035_BAT Worst_Fuel mix_0CCS,31.473908045295662
+Fenix,Climate change,2035_BAT Worst_Fuel mix_0CCS,22.99172648347494
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_Fuel mix_0CCS,7.437439609021431
+Salar de Tolillar,Climate change,2035_BAT Worst_Fuel mix_0CCS,31.528200852281138
+Maricunga,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,15.878452570794742
+Tres Quebradas,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,7.484616396296221
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,10.238565925149928
+Salar de Arizaro,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,8.538405405006648
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,0.9435726434699587
+East Taijinar,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,6.623612364335419
+Silver Peak,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,3.4994437375937113
+Salar del Rincon,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,35.4907367844232
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,1.646890947937931
+Zhabuye,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,3.3690369098251223
+Salar de Atacama,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,5.468404668872118
+Chaerhan,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,6.92409357608383
+Sal de los Angeles,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,4.851195105905187
+Sal de Vida,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,0.4748881218959206
+Pozuelos,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,15.787235969697928
+Lakkor Tso,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,10.41753765427312
+Salar de Uyuni,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,7.197427385911668
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,9.322362072843639
+Salar de Centenario,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,4.175451993219127
+Salar de Olaroz,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,1.9545876581805477
+Kachi,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,5.673175588551489
+Fenix,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,3.855063715255283
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,1.599596600025736
+Salar de Tolillar,Water scarcity,2035_BAT Worst_Fuel mix_0CCS,3.533830532084413
+Maricunga,Climate change,2035_BAT Worst_Biomass_0CCS,4.9670100405234345
+Tres Quebradas,Climate change,2035_BAT Worst_Biomass_0CCS,3.971493610115259
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_Biomass_0CCS,10.852586381103245
+Salar de Arizaro,Climate change,2035_BAT Worst_Biomass_0CCS,38.85145289350052
+Upper Rhine Graben,Climate change,2035_BAT Worst_Biomass_0CCS,2.991093964679874
+East Taijinar,Climate change,2035_BAT Worst_Biomass_0CCS,13.285668847754652
+Silver Peak,Climate change,2035_BAT Worst_Biomass_0CCS,1.7968345775904266
+Salar del Rincon,Climate change,2035_BAT Worst_Biomass_0CCS,16.21566972914789
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_Biomass_0CCS,8.512862468039518
+Zhabuye,Climate change,2035_BAT Worst_Biomass_0CCS,2.8734693863858305
+Salar de Atacama,Climate change,2035_BAT Worst_Biomass_0CCS,2.900092750991572
+Chaerhan,Climate change,2035_BAT Worst_Biomass_0CCS,23.27980496345011
+Sal de los Angeles,Climate change,2035_BAT Worst_Biomass_0CCS,29.008857851782306
+Sal de Vida,Climate change,2035_BAT Worst_Biomass_0CCS,3.3220242464968575
+Pozuelos,Climate change,2035_BAT Worst_Biomass_0CCS,19.732388865395425
+Lakkor Tso,Climate change,2035_BAT Worst_Biomass_0CCS,30.325455099846344
+Salar de Uyuni,Climate change,2035_BAT Worst_Biomass_0CCS,21.51752580054793
+Qinghai Yiliping,Climate change,2035_BAT Worst_Biomass_0CCS,22.352646242877036
+Salar de Centenario,Climate change,2035_BAT Worst_Biomass_0CCS,20.96286521457647
+Salar de Olaroz,Climate change,2035_BAT Worst_Biomass_0CCS,2.7820271786451287
+Kachi,Climate change,2035_BAT Worst_Biomass_0CCS,29.464811677495504
+Fenix,Climate change,2035_BAT Worst_Biomass_0CCS,21.46181134371505
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_Biomass_0CCS,6.493122151407273
+Salar de Tolillar,Climate change,2035_BAT Worst_Biomass_0CCS,29.7590937279087
+Maricunga,Water scarcity,2035_BAT Worst_Biomass_0CCS,15.907347144176322
+Tres Quebradas,Water scarcity,2035_BAT Worst_Biomass_0CCS,7.505147240188952
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_Biomass_0CCS,10.296944149544329
+Salar de Arizaro,Water scarcity,2035_BAT Worst_Biomass_0CCS,8.710451718240598
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_Biomass_0CCS,0.9657603603211471
+East Taijinar,Water scarcity,2035_BAT Worst_Biomass_0CCS,6.647073011543188
+Silver Peak,Water scarcity,2035_BAT Worst_Biomass_0CCS,3.5194863836334993
+Salar del Rincon,Water scarcity,2035_BAT Worst_Biomass_0CCS,35.582099538211565
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_Biomass_0CCS,1.6866792648942492
+Zhabuye,Water scarcity,2035_BAT Worst_Biomass_0CCS,3.3780784145691123
+Salar de Atacama,Water scarcity,2035_BAT Worst_Biomass_0CCS,5.491120744814043
+Chaerhan,Water scarcity,2035_BAT Worst_Biomass_0CCS,6.943746339083307
+Sal de los Angeles,Water scarcity,2035_BAT Worst_Biomass_0CCS,4.917867533016761
+Sal de Vida,Water scarcity,2035_BAT Worst_Biomass_0CCS,0.49680547088216853
+Pozuelos,Water scarcity,2035_BAT Worst_Biomass_0CCS,15.912804861469851
+Lakkor Tso,Water scarcity,2035_BAT Worst_Biomass_0CCS,10.43720815729498
+Salar de Uyuni,Water scarcity,2035_BAT Worst_Biomass_0CCS,7.451315244853509
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_Biomass_0CCS,9.34201256514851
+Salar de Centenario,Water scarcity,2035_BAT Worst_Biomass_0CCS,4.266345919754731
+Salar de Olaroz,Water scarcity,2035_BAT Worst_Biomass_0CCS,1.978669753995185
+Kachi,Water scarcity,2035_BAT Worst_Biomass_0CCS,5.782292406422207
+Fenix,Water scarcity,2035_BAT Worst_Biomass_0CCS,3.938155572513283
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_Biomass_0CCS,1.6357505339459317
+Salar de Tolillar,Water scarcity,2035_BAT Worst_Biomass_0CCS,3.629913194172901
+Maricunga,Climate change,2035_BAT Worst_NG_0CCS,5.58045049700753
+Tres Quebradas,Climate change,2035_BAT Worst_NG_0CCS,4.405174776220003
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_NG_0CCS,12.396235881934457
+Salar de Arizaro,Climate change,2035_BAT Worst_NG_0CCS,42.48566350512171
+Upper Rhine Graben,Climate change,2035_BAT Worst_NG_0CCS,3.480938898250632
+East Taijinar,Climate change,2035_BAT Worst_NG_0CCS,13.810347590900895
+Silver Peak,Climate change,2035_BAT Worst_NG_0CCS,2.2238119014249573
+Salar del Rincon,Climate change,2035_BAT Worst_NG_0CCS,18.145568567478186
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_NG_0CCS,9.51392800369434
+Zhabuye,Climate change,2035_BAT Worst_NG_0CCS,3.1389212933460233
+Salar de Atacama,Climate change,2035_BAT Worst_NG_0CCS,3.380376398885673
+Chaerhan,Climate change,2035_BAT Worst_NG_0CCS,23.69493885421284
+Sal de los Angeles,Climate change,2035_BAT Worst_NG_0CCS,30.417197117938013
+Sal de Vida,Climate change,2035_BAT Worst_NG_0CCS,3.802170358815298
+Pozuelos,Climate change,2035_BAT Worst_NG_0CCS,22.384805326374828
+Lakkor Tso,Climate change,2035_BAT Worst_NG_0CCS,30.740965283960733
+Salar de Uyuni,Climate change,2035_BAT Worst_NG_0CCS,26.88042567799105
+Qinghai Yiliping,Climate change,2035_BAT Worst_NG_0CCS,22.76773200314151
+Salar de Centenario,Climate change,2035_BAT Worst_NG_0CCS,22.882832448422675
+Salar de Olaroz,Climate change,2035_BAT Worst_NG_0CCS,3.327661665102421
+Kachi,Climate change,2035_BAT Worst_NG_0CCS,31.769703705646528
+Fenix,Climate change,2035_BAT Worst_NG_0CCS,23.21697361428004
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_NG_0CCS,7.392747519770941
+Salar de Tolillar,Climate change,2035_BAT Worst_NG_0CCS,31.788663249495063
+Maricunga,Water scarcity,2035_BAT Worst_NG_0CCS,15.868390644531186
+Tres Quebradas,Water scarcity,2035_BAT Worst_NG_0CCS,7.477606343569166
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_NG_0CCS,10.198914779935297
+Salar de Arizaro,Water scarcity,2035_BAT Worst_NG_0CCS,8.479661389805125
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_NG_0CCS,0.9346527869945938
+East Taijinar,Water scarcity,2035_BAT Worst_NG_0CCS,6.61375331926246
+Silver Peak,Water scarcity,2035_BAT Worst_NG_0CCS,3.4923712141170227
+Salar del Rincon,Water scarcity,2035_BAT Worst_NG_0CCS,35.45954142751818
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_NG_0CCS,1.6231066576805824
+Zhabuye,Water scarcity,2035_BAT Worst_NG_0CCS,3.3612209070331796
+Salar de Atacama,Water scarcity,2035_BAT Worst_NG_0CCS,5.46062036035657
+Chaerhan,Water scarcity,2035_BAT Worst_NG_0CCS,6.917383286079139
+Sal de los Angeles,Water scarcity,2035_BAT Worst_NG_0CCS,4.828431031850677
+Sal de Vida,Water scarcity,2035_BAT Worst_NG_0CCS,0.466313820620548
+Pozuelos,Water scarcity,2035_BAT Worst_NG_0CCS,15.744363311993268
+Lakkor Tso,Water scarcity,2035_BAT Worst_NG_0CCS,10.410821207807603
+Salar de Uyuni,Water scarcity,2035_BAT Worst_NG_0CCS,7.110744607667595
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_NG_0CCS,9.315652568668831
+Salar de Centenario,Water scarcity,2035_BAT Worst_NG_0CCS,4.144418514949736
+Salar de Olaroz,Water scarcity,2035_BAT Worst_NG_0CCS,1.9440192684374853
+Kachi,Water scarcity,2035_BAT Worst_NG_0CCS,5.6359203754361165
+Fenix,Water scarcity,2035_BAT Worst_NG_0CCS,3.8266940970683163
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_NG_0CCS,1.5786198785177934
+Salar de Tolillar,Water scarcity,2035_BAT Worst_NG_0CCS,3.501025502620325
+Maricunga,Climate change,2035_BAT Worst_Fuel mix_100CCS,5.310046753962424
+Tres Quebradas,Climate change,2035_BAT Worst_Fuel mix_100CCS,4.242041521834872
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_Fuel mix_100CCS,7.82965221547214
+Salar de Arizaro,Climate change,2035_BAT Worst_Fuel mix_100CCS,41.118517744360574
+Upper Rhine Graben,Climate change,2035_BAT Worst_Fuel mix_100CCS,3.024984434708126
+East Taijinar,Climate change,2035_BAT Worst_Fuel mix_100CCS,13.239297610942076
+Silver Peak,Climate change,2035_BAT Worst_Fuel mix_100CCS,2.0168773738080468
+Salar del Rincon,Climate change,2035_BAT Worst_Fuel mix_100CCS,17.419527535470884
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_Fuel mix_100CCS,7.075732643132582
+Zhabuye,Climate change,2035_BAT Worst_Fuel mix_100CCS,2.0831674944633356
+Salar de Atacama,Climate change,2035_BAT Worst_Fuel mix_100CCS,3.194026932437954
+Chaerhan,Climate change,2035_BAT Worst_Fuel mix_100CCS,23.538772267891716
+Sal de los Angeles,Climate change,2035_BAT Worst_Fuel mix_100CCS,29.88755108557971
+Sal de Vida,Climate change,2035_BAT Worst_Fuel mix_100CCS,3.401054690811975
+Pozuelos,Climate change,2035_BAT Worst_Fuel mix_100CCS,21.387395945937897
+Lakkor Tso,Climate change,2035_BAT Worst_Fuel mix_100CCS,30.584637042975185
+Salar de Uyuni,Climate change,2035_BAT Worst_Fuel mix_100CCS,24.864072429036334
+Qinghai Yiliping,Climate change,2035_BAT Worst_Fuel mix_100CCS,22.611585653118127
+Salar de Centenario,Climate change,2035_BAT Worst_Fuel mix_100CCS,22.160891609405095
+Salar de Olaroz,Climate change,2035_BAT Worst_Fuel mix_100CCS,2.6482328661503183
+Kachi,Climate change,2035_BAT Worst_Fuel mix_100CCS,30.903028511803726
+Fenix,Climate change,2035_BAT Worst_Fuel mix_100CCS,22.55700975639876
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_Fuel mix_100CCS,5.309393928144001
+Salar de Tolillar,Climate change,2035_BAT Worst_Fuel mix_100CCS,31.025512861557583
+Maricunga,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,15.92479127293729
+Tres Quebradas,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,7.516632030685962
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,10.45834224325536
+Salar de Arizaro,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,8.806696388579905
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,0.9869474844962469
+East Taijinar,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,6.672266466328574
+Silver Peak,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,3.5321942706438607
+Salar del Rincon,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,35.63321008718541
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,1.7755254803095968
+Zhabuye,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,3.414010915203311
+Salar de Atacama,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,5.504011597397323
+Chaerhan,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,6.9547402625759505
+Sal de los Angeles,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,4.955159874270347
+Sal de Vida,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,0.5161879468334267
+Pozuelos,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,15.9830366970982
+Lakkor Tso,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,10.44821265368587
+Salar de Uyuni,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,7.59330734074208
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,9.35300514961355
+Salar de Centenario,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,4.317182443083157
+Salar de Olaroz,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,2.0074567760708115
+Kachi,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,5.843320773183821
+Fenix,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,3.984628195927619
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,1.7123350949735439
+Salar de Tolillar,Water scarcity,2035_BAT Worst_Fuel mix_100CCS,3.6836516609810896
+Maricunga,Climate change,2035_BAT Worst_Biomass_100CCS,4.716606179676092
+Tres Quebradas,Climate change,2035_BAT Worst_Biomass_100CCS,3.8243613934096197
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_Biomass_100CCS,6.07822991671579
+Salar de Arizaro,Climate change,2035_BAT Worst_Biomass_100CCS,37.6183875885082
+Upper Rhine Graben,Climate change,2035_BAT Worst_Biomass_100CCS,2.5351680219221704
+East Taijinar,Climate change,2035_BAT Worst_Biomass_100CCS,12.709158736872244
+Silver Peak,Climate change,2035_BAT Worst_Biomass_100CCS,1.6025771812382414
+Salar del Rincon,Climate change,2035_BAT Worst_Biomass_100CCS,15.560827895139985
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_Biomass_100CCS,5.974677831256459
+Zhabuye,Climate change,2035_BAT Worst_Biomass_100CCS,1.764023020651764
+Salar de Atacama,Climate change,2035_BAT Worst_Biomass_100CCS,2.731086105793303
+Chaerhan,Climate change,2035_BAT Worst_Biomass_100CCS,23.138954429815925
+Sal de los Angeles,Climate change,2035_BAT Worst_Biomass_100CCS,28.531181275878282
+Sal de Vida,Climate change,2035_BAT Worst_Biomass_100CCS,2.923979093165188
+Pozuelos,Climate change,2035_BAT Worst_Biomass_100CCS,18.83286404870641
+Lakkor Tso,Climate change,2035_BAT Worst_Biomass_100CCS,30.18445546005622
+Salar de Uyuni,Climate change,2035_BAT Worst_Biomass_100CCS,19.69910456078033
+Qinghai Yiliping,Climate change,2035_BAT Worst_Biomass_100CCS,22.21181431123395
+Salar de Centenario,Climate change,2035_BAT Worst_Biomass_100CCS,20.31178133551175
+Salar de Olaroz,Climate change,2035_BAT Worst_Biomass_100CCS,2.091236932342307
+Kachi,Climate change,2035_BAT Worst_Biomass_100CCS,28.683199473413374
+Fenix,Climate change,2035_BAT Worst_Biomass_100CCS,20.86662276544937
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_Biomass_100CCS,4.327069281600988
+Salar de Tolillar,Climate change,2035_BAT Worst_Biomass_100CCS,29.07084539105393
+Maricunga,Water scarcity,2035_BAT Worst_Biomass_100CCS,15.956684711373024
+Tres Quebradas,Water scarcity,2035_BAT Worst_Biomass_100CCS,7.539321682574286
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_Biomass_100CCS,10.518899864849756
+Salar de Arizaro,Water scarcity,2035_BAT Worst_Biomass_100CCS,8.996833183503906
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_Biomass_100CCS,1.0111983663580526
+East Taijinar,Water scarcity,2035_BAT Worst_Biomass_100CCS,6.697822821992716
+Silver Peak,Water scarcity,2035_BAT Worst_Biomass_100CCS,3.55429838034443
+Salar del Rincon,Water scarcity,2035_BAT Worst_Biomass_100CCS,35.734179498184844
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_Biomass_100CCS,1.817449787658732
+Zhabuye,Water scarcity,2035_BAT Worst_Biomass_100CCS,3.423053674764456
+Salar de Atacama,Water scarcity,2035_BAT Worst_Biomass_100CCS,5.529110609481546
+Chaerhan,Water scarcity,2035_BAT Worst_Biomass_100CCS,6.9764594937640805
+Sal de los Angeles,Water scarcity,2035_BAT Worst_Biomass_100CCS,5.028842987202388
+Sal de Vida,Water scarcity,2035_BAT Worst_Biomass_100CCS,0.5401908770536263
+Pozuelos,Water scarcity,2035_BAT Worst_Biomass_100CCS,16.121809415085586
+Lakkor Tso,Water scarcity,2035_BAT Worst_Biomass_100CCS,10.469951470275403
+Salar de Uyuni,Water scarcity,2035_BAT Worst_Biomass_100CCS,7.873892327169932
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_Biomass_100CCS,9.37472187346202
+Salar de Centenario,Water scarcity,2035_BAT Worst_Biomass_100CCS,4.417634091831559
+Salar de Olaroz,Water scarcity,2035_BAT Worst_Biomass_100CCS,2.033600106936319
+Kachi,Water scarcity,2035_BAT Worst_Biomass_100CCS,5.963911499473189
+Fenix,Water scarcity,2035_BAT Worst_Biomass_100CCS,4.076457375747076
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_Biomass_100CCS,1.7505574140650741
+Salar de Tolillar,Water scarcity,2035_BAT Worst_Biomass_100CCS,3.78983765646453
+Maricunga,Climate change,2035_BAT Worst_NG_100CCS,5.39335331891424
+Tres Quebradas,Climate change,2035_BAT Worst_NG_100CCS,4.303615118981286
+Salar de Pastos Grandes,Climate change,2035_BAT Worst_NG_100CCS,7.6679339580947135
+Salar de Arizaro,Climate change,2035_BAT Worst_NG_100CCS,41.63448929359594
+Upper Rhine Graben,Climate change,2035_BAT Worst_NG_100CCS,3.06856971316583
+East Taijinar,Climate change,2035_BAT Worst_NG_100CCS,13.278082441449008
+Silver Peak,Climate change,2035_BAT Worst_NG_100CCS,2.073072670134246
+Salar del Rincon,Climate change,2035_BAT Worst_NG_100CCS,17.69352381365703
+Salar del Hombre Muerto North,Climate change,2035_BAT Worst_NG_100CCS,7.020858731769721
+Zhabuye,Climate change,2035_BAT Worst_NG_100CCS,2.029512770461963
+Salar de Atacama,Climate change,2035_BAT Worst_NG_100CCS,3.2616737388220294
+Chaerhan,Climate change,2035_BAT Worst_NG_100CCS,23.597711581660846
+Sal de los Angeles,Climate change,2035_BAT Worst_NG_100CCS,30.087516515205735
+Sal de Vida,Climate change,2035_BAT Worst_NG_100CCS,3.4481545626320713
+Pozuelos,Climate change,2035_BAT Worst_NG_100CCS,21.76401402755086
+Lakkor Tso,Climate change,2035_BAT Worst_NG_100CCS,30.643627861343
+Salar de Uyuni,Climate change,2035_BAT Worst_NG_100CCS,25.62558230300051
+Qinghai Yiliping,Climate change,2035_BAT Worst_NG_100CCS,22.67051833700442
+Salar de Centenario,Climate change,2035_BAT Worst_NG_100CCS,22.433512622996787
+Salar de Olaroz,Climate change,2035_BAT Worst_NG_100CCS,2.6803898396971912
+Kachi,Climate change,2035_BAT Worst_NG_100CCS,31.230306355758085
+Fenix,Climate change,2035_BAT Worst_NG_100CCS,22.806230409004762
+Salar de Cauchari-Olaroz,Climate change,2035_BAT Worst_NG_100CCS,5.270379103639824
+Salar de Tolillar,Climate change,2035_BAT Worst_NG_100CCS,31.313696849696534
+Maricunga,Water scarcity,2035_BAT Worst_NG_100CCS,15.913711032318519
+Tres Quebradas,Water scarcity,2035_BAT Worst_NG_100CCS,7.508888904079764
+Salar de Pastos Grandes,Water scarcity,2035_BAT Worst_NG_100CCS,10.417953104527443
+Salar de Arizaro,Water scarcity,2035_BAT Worst_NG_100CCS,8.741809326422292
+Upper Rhine Graben,Water scarcity,2035_BAT Worst_NG_100CCS,0.9773271731851974
+East Taijinar,Water scarcity,2035_BAT Worst_NG_100CCS,6.661695968625964
+Silver Peak,Water scarcity,2035_BAT Worst_NG_100CCS,3.524421752926579
+Salar del Rincon,Water scarcity,2035_BAT Worst_NG_100CCS,35.59875256455484
+Salar del Hombre Muerto North,Water scarcity,2035_BAT Worst_NG_100CCS,1.7510169360972678
+Zhabuye,Water scarcity,2035_BAT Worst_NG_100CCS,3.406194983174163
+Salar de Atacama,Water scarcity,2035_BAT Worst_NG_100CCS,5.49541810998021
+Chaerhan,Water scarcity,2035_BAT Worst_NG_100CCS,6.947328254834348
+Sal de los Angeles,Water scarcity,2035_BAT Worst_NG_100CCS,4.930015157440401
+Sal de Vida,Water scarcity,2035_BAT Worst_NG_100CCS,0.5069055521620636
+Pozuelos,Water scarcity,2035_BAT Worst_NG_100CCS,15.935680370433683
+Lakkor Tso,Water scarcity,2035_BAT Worst_NG_100CCS,10.440793862863435
+Salar de Uyuni,Water scarcity,2035_BAT Worst_NG_100CCS,7.4975589263078914
+Qinghai Yiliping,Water scarcity,2035_BAT Worst_NG_100CCS,9.345594008055942
+Salar de Centenario,Water scarcity,2035_BAT Worst_NG_100CCS,4.282903416051392
+Salar de Olaroz,Water scarcity,2035_BAT Worst_NG_100CCS,1.9961886921186731
+Kachi,Water scarcity,2035_BAT Worst_NG_100CCS,5.802169325231995
+Fenix,Water scarcity,2035_BAT Worst_NG_100CCS,3.9532916148260693
+Salar de Cauchari-Olaroz,Water scarcity,2035_BAT Worst_NG_100CCS,1.6906569118227819
+Salar de Tolillar,Water scarcity,2035_BAT Worst_NG_100CCS,3.647415807613603

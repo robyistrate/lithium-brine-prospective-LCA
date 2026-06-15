@@ -1,0 +1,45 @@
+Production scenario,Project scenario,Impact,Technology,Total
+Operating,2025,Climate change,Evaporitic,4.4144583790355645
+Operating,2025,Climate change,DLE,9.799930168242714
+Operating,2025,Water scarcity,Evaporitic,3.3679691906253573
+Operating,2025,Water scarcity,DLE,2.883796112093339
+Operating,2035 Background,Climate change,Evaporitic,2.5224764266011483
+Operating,2035 Background,Climate change,DLE,14.58198478246666
+Operating,2035 Background,Water scarcity,Evaporitic,2.4663506043196586
+Operating,2035 Background,Water scarcity,DLE,7.074580228912795
+Operating,2035 +Optimized,Climate change,Evaporitic,1.999713689706022
+Operating,2035 +Optimized,Climate change,DLE,10.142194950168706
+Operating,2035 +Optimized,Water scarcity,Evaporitic,2.594538353173471
+Operating,2035 +Optimized,Water scarcity,DLE,4.513168159055055
+Operating,2035 +ElecHeat (electric boiler),Climate change,Evaporitic,1.625397766060076
+Operating,2035 +ElecHeat (electric boiler),Climate change,DLE,9.888971065381124
+Operating,2035 +ElecHeat (electric boiler),Water scarcity,Evaporitic,3.0138270145437285
+Operating,2035 +ElecHeat (electric boiler),Water scarcity,DLE,11.214133518630307
+Operating,2035 +ElecHeat (heat pumps),Climate change,Evaporitic,1.5140436136492208
+Operating,2035 +ElecHeat (heat pumps),Climate change,DLE,4.121437902091678
+Operating,2035 +ElecHeat (heat pumps),Water scarcity,Evaporitic,2.6800776623431415
+Operating,2035 +ElecHeat (heat pumps),Water scarcity,DLE,4.457620543424141
+Operating+Announced,2035 Background,Climate change,Evaporitic,2.473825053145511
+Operating+Announced,2035 Background,Climate change,DLE,17.195380338684608
+Operating+Announced,2035 Background,Climate change,Geothermal,0.3293377776331904
+Operating+Announced,2035 Background,Water scarcity,Evaporitic,2.3095319902403237
+Operating+Announced,2035 Background,Water scarcity,DLE,7.547057949651892
+Operating+Announced,2035 Background,Water scarcity,Geothermal,0.06212498046522334
+Operating+Announced,2035 +Optimized,Climate change,Evaporitic,2.0029016602914527
+Operating+Announced,2035 +Optimized,Climate change,DLE,11.69089330644113
+Operating+Announced,2035 +Optimized,Climate change,Geothermal,0.06066522003780707
+Operating+Announced,2035 +Optimized,Water scarcity,Evaporitic,2.4033822680803025
+Operating+Announced,2035 +Optimized,Water scarcity,DLE,4.610832834760523
+Operating+Announced,2035 +Optimized,Water scarcity,Geothermal,0.01783921213388794
+Operating+Announced,2035 +ElecHeat (electric boiler),Climate change,Evaporitic,1.8211316225321101
+Operating+Announced,2035 +ElecHeat (electric boiler),Climate change,DLE,13.182741019245444
+Operating+Announced,2035 +ElecHeat (electric boiler),Climate change,Geothermal,0.04686629327881015
+Operating+Announced,2035 +ElecHeat (electric boiler),Water scarcity,Evaporitic,2.732021404476003
+Operating+Announced,2035 +ElecHeat (electric boiler),Water scarcity,DLE,10.673504907022288
+Operating+Announced,2035 +ElecHeat (electric boiler),Water scarcity,Geothermal,0.02161728224203179
+Operating+Announced,2035 +ElecHeat (heat pumps),Climate change,Evaporitic,1.5897047583785655
+Operating+Announced,2035 +ElecHeat (heat pumps),Climate change,DLE,5.860622999218179
+Operating+Announced,2035 +ElecHeat (heat pumps),Climate change,Geothermal,0.04556343311260195
+Operating+Announced,2035 +ElecHeat (heat pumps),Water scarcity,Evaporitic,2.4689240397133396
+Operating+Announced,2035 +ElecHeat (heat pumps),Water scarcity,DLE,4.764195741635904
+Operating+Announced,2035 +ElecHeat (heat pumps),Water scarcity,Geothermal,0.018589563113609823

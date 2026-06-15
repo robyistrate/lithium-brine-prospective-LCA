@@ -1,0 +1,37 @@
+Cell chemistry,Impact,Li scenario,Value
+NMC811,Climate change,S&P-Baseline_2025-lithium_baseline,57.603542217387584
+LFP,Climate change,S&P-Baseline_2025-lithium_baseline,57.38138763137064
+NMC811,Water scarcity,S&P-Baseline_2025-lithium_baseline,131.86551604621624
+LFP,Water scarcity,S&P-Baseline_2025-lithium_baseline,23.668655029140776
+NMC811,Climate change,S&P-Baseline_2035-lithium_baseline,44.48026172883914
+LFP,Climate change,S&P-Baseline_2035-lithium_baseline,35.943594170514245
+NMC811,Water scarcity,S&P-Baseline_2035-lithium_baseline,123.20037299016731
+LFP,Water scarcity,S&P-Baseline_2035-lithium_baseline,17.238001476169213
+LFP,Climate change,S&P-Baseline_2035-lithium_optimized,34.08861393779448
+NMC811,Climate change,S&P-Baseline_2035-lithium_optimized,42.18964124005296
+LFP,Water scarcity,S&P-Baseline_2035-lithium_optimized,16.32847296255028
+NMC811,Water scarcity,S&P-Baseline_2035-lithium_optimized,122.07724261298506
+LFP,Climate change,S&P-Baseline_2035-lithium_optimized+elec-heat_boiler,33.854042313974574
+NMC811,Climate change,S&P-Baseline_2035-lithium_optimized+elec-heat_boiler,41.899980704582816
+LFP,Water scarcity,S&P-Baseline_2035-lithium_optimized+elec-heat_boiler,18.989992492925204
+NMC811,Water scarcity,S&P-Baseline_2035-lithium_optimized+elec-heat_boiler,125.36381734853978
+NMC811,Climate change,S&P-Baseline_2035-lithium_optimized+elec-heat_heatpump,39.18639742141337
+LFP,Climate change,S&P-Baseline_2035-lithium_optimized+elec-heat_heatpump,31.656540205738356
+NMC811,Water scarcity,S&P-Baseline_2035-lithium_optimized+elec-heat_heatpump,122.09108619926563
+LFP,Water scarcity,S&P-Baseline_2035-lithium_optimized+elec-heat_heatpump,16.33968371427434
+NMC811,Climate change,S&P-Very Ambitious_2035-lithium_baseline,45.81611515747781
+LFP,Climate change,S&P-Very Ambitious_2035-lithium_baseline,37.02538913306063
+NMC811,Water scarcity,S&P-Very Ambitious_2035-lithium_baseline,123.3747508966785
+LFP,Water scarcity,S&P-Very Ambitious_2035-lithium_baseline,17.379215427450102
+NMC811,Climate change,S&P-Very Ambitious_2035-lithium_optimized,42.93396446048458
+LFP,Climate change,S&P-Very Ambitious_2035-lithium_optimized,34.69137849978322
+NMC811,Water scarcity,S&P-Very Ambitious_2035-lithium_optimized,122.04232292413319
+LFP,Water scarcity,S&P-Very Ambitious_2035-lithium_optimized,16.300194452295727
+NMC811,Climate change,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_boiler,43.53230224013479
+LFP,Climate change,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_boiler,35.17592177582928
+NMC811,Water scarcity,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_boiler,124.99417518135608
+LFP,Water scarcity,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_boiler,18.690650494542798
+NMC811,Climate change,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_heatpump,40.04512732340971
+LFP,Climate change,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_heatpump,32.35195310576524
+NMC811,Water scarcity,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_heatpump,122.1437115210797
+LFP,Water scarcity,S&P-Very Ambitious_2035-lithium_optimized+elec-heat_heatpump,16.38230052911136

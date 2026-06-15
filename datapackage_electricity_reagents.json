@@ -1,8 +1,8 @@
 {
     "profile": "data-package",
     "name": "electricity_reagents_scenarios",
-    "title": "Future climate and water scarcity impacts of direct lithium extraction deployment",
-    "description": "Datapackage that implements electricity mixes for Chile and Argentina based on IEA scenarios STEPS and APS and future changes in the production of reagents used in lithium processing.",
+    "title": "Future environmental performance of lithium from brines shaped by energy and reagent decarbonization and technology optimization",
+    "description": "Datapackage that implements electricity mixes for Argentina, Bolivia, and Chile based on national energy plans and future changes in the production of reagents used in lithium processing.",
     "source": "xxxxxxx",
     "version": "0.0.1",
     "contributors": [
@@ -19,16 +19,10 @@
         "system model": "cut-off"
     },
     "scenarios": {
-        "STEPS": [
+        "NationalPlans": [
             {
                 "model": "remind",
                 "pathway": "SSP2-NDC"
-            }
-        ],
-        "APS": [
-            {
-                "model": "remind",
-                "pathway": "SSP2-PkBudg1150"
             }
         ]
     },
@@ -70,17 +64,7 @@
                         "format": "default"
                     },
                     {
-                        "name": "2020",
-                        "type": "number",
-                        "format": "default"
-                    },
-                    {
                         "name": "2025",
-                        "type": "number",
-                        "format": "default"
-                    },
-                    {
-                        "name": "2030",
                         "type": "number",
                         "format": "default"
                     },

@@ -23,6 +23,16 @@ production pathways:
     production volume:
       variable: Production|Electricity|Coal
 
+  Oil:
+    ecoinvent alias:
+      name: electricity production, oil
+      reference product: electricity, high voltage
+      exists in original database: true
+      new dataset: false
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Oil
+
   Hydro reservoir alpine:
     ecoinvent alias:
       exists in original database: true
@@ -124,10 +134,20 @@ production pathways:
     production volume:
       variable: Production|Electricity|Wind onshore
 
+  Geothermal:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity production, deep geothermal
+      new dataset: false
+      reference product: electricity, high voltage
+      regionalize: false
+    production volume:
+      variable: Production|Electricity|Geothermal
+
   Low to medium:
     ecoinvent alias:
       exists in original database: false
-      name: market for electricity, medium voltage, IEA
+      name: market for electricity, medium voltage, National Plans
       new dataset: true
       reference product: electricity, medium voltage
       regionalize: false
@@ -137,7 +157,7 @@ production pathways:
   Medium to high:
     ecoinvent alias:
       exists in original database: false
-      name: market for electricity, high voltage, IEA
+      name: market for electricity, high voltage, National Plans
       new dataset: true
       reference product: electricity, high voltage
       regionalize: false
@@ -157,44 +177,44 @@ production pathways:
       variable: Production|Quicklime|PFRK
     efficiency:
     - variable: Efficiency|Quicklime|PFRK|Limestone
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - limestone, crushed, washed
     - variable: Efficiency|Quicklime|PFRK|Coal heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, at hard coal industrial furnace 1-10MW
     - variable: Efficiency|Quicklime|PFRK|Natural gas heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, natural gas, at industrial furnace >100kW
     - variable: Efficiency|Quicklime|PFRK|Waste heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat, from municipal waste incineration to generic market for heat district or industrial, other than natural gas 
     - variable: Efficiency|Quicklime|PFRK|Oil heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, heavy fuel oil, at industrial furnace 1MW           
     - variable: Efficiency|Quicklime|PFRK|Biomass heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
     - variable: Efficiency|Quicklime|PFRK|Electricity
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - electricity, medium voltage
           - electricity, high voltage
           - electricity, low voltage  
     - variable: Efficiency|Quicklime|PFRK|Waste inert
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - inert waste, for final disposal
@@ -210,44 +230,44 @@ production pathways:
       variable: Production|Quicklime|PFRK with CCS
     efficiency:
     - variable: Efficiency|Quicklime|PFRK with CCS|Limestone
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - limestone, crushed, washed
     - variable: Efficiency|Quicklime|PFRK with CCS|Coal heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, at hard coal industrial furnace 1-10MW
     - variable: Efficiency|Quicklime|PFRK with CCS|Natural gas heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, natural gas, at industrial furnace >100kW
     - variable: Efficiency|Quicklime|PFRK with CCS|Waste heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat, from municipal waste incineration to generic market for heat district or industrial, other than natural gas 
     - variable: Efficiency|Quicklime|PFRK with CCS|Oil heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, heavy fuel oil, at industrial furnace 1MW           
     - variable: Efficiency|Quicklime|PFRK with CCS|Biomass heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
     - variable: Efficiency|Quicklime|PFRK with CCS|Electricity
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - electricity, medium voltage
           - electricity, high voltage
           - electricity, low voltage  
     - variable: Efficiency|Quicklime|PFRK with CCS|Waste inert
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - inert waste, for final disposal
@@ -263,59 +283,59 @@ production pathways:
       variable: Production|Soda ash|Solvay process
     efficiency:
     - variable: Efficiency|Soda ash|Solvay process|Limestone
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - limestone, crushed, washed
     - variable: Efficiency|Soda ash|Solvay process|Sodium chloride
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - sodium chloride, brine solution
     - variable: Efficiency|Soda ash|Solvay process|Ammonia makeup
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - ammonia, anhydrous, liquid
     - variable: Efficiency|Soda ash|Solvay process|Coke
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - coke
     - variable: Efficiency|Soda ash|Solvay process|Coal heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, at hard coal industrial furnace 1-10MW
     - variable: Efficiency|Soda ash|Solvay process|Natural gas heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, natural gas, at industrial furnace >100kW
     - variable: Efficiency|Soda ash|Solvay process|Biomass heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
     - variable: Efficiency|Soda ash|Solvay process|Electricity
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - electricity, medium voltage
           - electricity, high voltage
           - electricity, low voltage       
     - variable: Efficiency|Soda ash|Solvay process|Waste inert
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - inert waste, for final disposal
     - variable: Efficiency|Soda ash|Solvay process|Water withdrawal
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
           - Water, unspecified natural origin
     - variable: Efficiency|Soda ash|Solvay process|Water cooling
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
           - Water, cooling, unspecified natural origin
@@ -329,7 +349,7 @@ production pathways:
   #            - Water, cooling, unspecified natural origin
   #            - Water, unspecified natural origin
     - variable: Efficiency|Soda ash|Solvay process|Water evaporation
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
            - Water
@@ -350,59 +370,59 @@ production pathways:
       variable: Production|Soda ash|Solvay process with CCS
     efficiency:
     - variable: Efficiency|Soda ash|Solvay process with CCS|Limestone
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - limestone, crushed, washed
     - variable: Efficiency|Soda ash|Solvay process with CCS|Sodium chloride
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - sodium chloride, brine solution
     - variable: Efficiency|Soda ash|Solvay process with CCS|Ammonia makeup
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - ammonia, anhydrous, liquid
     - variable: Efficiency|Soda ash|Solvay process with CCS|Coke
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - coke
     - variable: Efficiency|Soda ash|Solvay process with CCS|Coal heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, at hard coal industrial furnace 1-10MW
     - variable: Efficiency|Soda ash|Solvay process with CCS|Natural gas heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, natural gas, at industrial furnace >100kW
     - variable: Efficiency|Soda ash|Solvay process with CCS|Biomass heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
     - variable: Efficiency|Soda ash|Solvay process with CCS|Electricity
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - electricity, medium voltage
           - electricity, high voltage
           - electricity, low voltage   
     - variable: Efficiency|Soda ash|Solvay process with CCS|Waste inert
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - inert waste, for final disposal
     - variable: Efficiency|Soda ash|Solvay process with CCS|Water withdrawal
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
           - Water, unspecified natural origin
     - variable: Efficiency|Soda ash|Solvay process with CCS|Water cooling
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
           - Water, cooling, unspecified natural origin
@@ -417,7 +437,7 @@ production pathways:
    #           - Water, cooling, unspecified natural origin
    #           - Water, unspecified natural origin
     - variable: Efficiency|Soda ash|Solvay process with CCS|Water evaporation
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
            - Water
@@ -438,22 +458,22 @@ production pathways:
       variable: Production|Soda ash|Trona process
     efficiency:
     - variable: Efficiency|Soda ash|Trona process|Coal heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, at hard coal industrial furnace 1-10MW
     - variable: Efficiency|Soda ash|Trona process|Natural gas heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, natural gas, at industrial furnace >100kW
     - variable: Efficiency|Soda ash|Trona process|Biomass heat
-      reference year: 2020
+      reference year: 2025
       includes:
         technosphere:
           - heat production, wood chips from industry, at furnace 1000kW, state-of-the-art 2014
     - variable: Efficiency|Soda ash|Trona process|Water withdrawal
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
           - Water, unspecified natural origin
@@ -467,7 +487,7 @@ production pathways:
   #            - Water, cooling, unspecified natural origin
   #            - Water, unspecified natural origin
     - variable: Efficiency|Soda ash|Trona process|Water evaporation
-      reference year: 2020
+      reference year: 2025
       includes:
         biosphere:
            - Water
@@ -541,7 +561,7 @@ production pathways:
 # MARKETS
 # ###################
 markets:
-- name: market for electricity, high voltage, IEA
+- name: market for electricity, high voltage, National Plans
   reference product: electricity, high voltage
   unit: kilowatt hour
   includes:
@@ -557,6 +577,8 @@ markets:
   - Nuclear PWR
   - Natural gas combined cycle
   - Bioenergy
+  - Geothermal
+  - Oil
   replaces:
   - location: CL
     name: market for electricity, high voltage
@@ -564,10 +586,13 @@ markets:
   - location: AR
     name: market for electricity, high voltage
     product: electricity, high voltage
+  - location: BO
+    name: market for electricity, high voltage
+    product: electricity, high voltage
   except regions:
   - World
 
-- name: market for electricity, medium voltage, IEA
+- name: market for electricity, medium voltage, National Plans
   reference product: electricity, medium voltage
   unit: kilowatt hour
   includes:
@@ -579,10 +604,13 @@ markets:
   - location: AR
     name: market for electricity, medium voltage
     product: electricity, medium voltage
+  - location: BO
+    name: market for electricity, medium voltage
+    product: electricity, medium voltage
   except regions:
   - World
 
-- name: market for electricity, low voltage, IEA
+- name: market for electricity, low voltage, National Plans
   reference product: electricity, low voltage
   unit: kilowatt hour
   includes:
@@ -592,6 +620,9 @@ markets:
     name: market for electricity, low voltage
     product: electricity, low voltage
   - location: AR
+    name: market for electricity, low voltage
+    product: electricity, low voltage
+  - location: BO
     name: market for electricity, low voltage
     product: electricity, low voltage
   except regions:

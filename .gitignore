@@ -132,6 +132,7 @@ dmypy.json
 /old
 /tests/export
 /notebooks/export
+/inventories/technical reports
 
 # Ignore temporarily?
 /temp*

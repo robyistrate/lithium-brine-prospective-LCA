@@ -145,25 +145,6 @@ def create_aware_method(
     print("AWARE method created!")
 
 
-def relink_to_regionalized_water(bio_reg, ds, location):
-    """
-    Function to link to regionalized water flows within a LCI 
-    """
-    biosphere = lambda x: x["type"] == "biosphere"
-
-    for exc in filter(biosphere, ds["exchanges"]):
-        if "Water" in exc["name"]:
-            water_flow = [flow for flow in bio_reg if flow["name"] == exc["name"] 
-                          and flow["categories"] == exc["categories"] 
-                          and flow["location"] == location]
-            if len(water_flow)==0:
-                pass
-            else:
-                exc.update(
-                    {"input": water_flow[0].key}
-                )
-
-
 def get_ds_for_location(ds_name, ds_ref_prod, location, DB_NAME):
     """
     This function finds a dataset for the given location or closer
